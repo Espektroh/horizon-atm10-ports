@@ -11,6 +11,7 @@ redistribuição.
 | `ports/Torchmaster-Horizon-0.1.0` | Torchmaster | MIT | Testado no jogo |
 | `ports/Powah-Horizon-0.1.0` | Powah! | MIT | Aguarda Build e teste no jogo |
 | `ports/FunctionalStorage-Horizon-0.1.0` | Functional Storage | LGPL-3.0 | Aguarda Build e teste no jogo |
+| `ports/IronJetpacks-Horizon-0.1.0` | Iron Jetpacks | MIT | Aguarda Build e teste no jogo |
 
 Cada pacote tem o `.hmod` de conteúdo, o `.hnmod` nativo, `instalar.ps1` (Windows, com backup), `LEIA-ME.md`
 (o que funciona, as limitações e um roteiro de teste), `APIS.md` (cada API do Horizon usada, com arquivo:linha),

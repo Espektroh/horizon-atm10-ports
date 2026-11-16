@@ -1,0 +1,25 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "MPM",
+    "MJM",
+    "T T"
+  ],
+  "key": {
+    "M": "allthemodium:unobtainium_ingot",
+    "P": "ironjetpacks:unobtainium_capacitor",
+    "J": "ironjetpacks:vibranium_jetpack",
+    "T": "ironjetpacks:unobtainium_thruster"
+  },
+  "result": {
+    "id": "ironjetpacks:unobtainium_jetpack",
+    "count": 1
+  }
+}

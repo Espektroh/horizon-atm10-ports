@@ -1,0 +1,8 @@
+id = "ironjetpacks"
+name = "Iron Jetpacks"
+version = "8.0.11-horizon.1"
+description = "Jetpacks do Iron Jetpacks (tiers e numeros do ATM10) para Horizon. Precisa do mod nativo ironjetpacks_native."
+authors = ["BlakeBr0 (original, MIT)", "port Horizon (uso pessoal)"]
+api = "0.2"
+side = "both"
+capabilities = ["registries"]

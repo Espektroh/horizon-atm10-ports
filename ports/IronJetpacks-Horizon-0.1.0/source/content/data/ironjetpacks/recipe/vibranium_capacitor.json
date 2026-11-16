@@ -1,0 +1,23 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "MXM",
+    "MXM",
+    "MXM"
+  ],
+  "key": {
+    "M": "allthemodium:vibranium_ingot",
+    "X": "ironjetpacks:vibranium_cell"
+  },
+  "result": {
+    "id": "ironjetpacks:vibranium_capacitor",
+    "count": 1
+  }
+}

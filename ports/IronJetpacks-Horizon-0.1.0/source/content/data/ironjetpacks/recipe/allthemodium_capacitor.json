@@ -1,0 +1,23 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "MXM",
+    "MXM",
+    "MXM"
+  ],
+  "key": {
+    "M": "allthemodium:allthemodium_ingot",
+    "X": "ironjetpacks:allthemodium_cell"
+  },
+  "result": {
+    "id": "ironjetpacks:allthemodium_capacitor",
+    "count": 1
+  }
+}

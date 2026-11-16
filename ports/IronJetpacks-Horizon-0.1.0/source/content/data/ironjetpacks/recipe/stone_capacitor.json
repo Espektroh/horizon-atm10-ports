@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "MXM",
+    "MXM",
+    "MXM"
+  ],
+  "key": {
+    "M": [
+      "minecraft:stone",
+      "minecraft:andesite",
+      "minecraft:diorite",
+      "minecraft:granite",
+      "minecraft:tuff",
+      "minecraft:deepslate"
+    ],
+    "X": "ironjetpacks:stone_cell"
+  },
+  "result": {
+    "id": "ironjetpacks:stone_capacitor",
+    "count": 1
+  }
+}

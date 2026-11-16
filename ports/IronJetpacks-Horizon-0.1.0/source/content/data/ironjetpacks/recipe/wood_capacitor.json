@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "MXM",
+    "MXM",
+    "MXM"
+  ],
+  "key": {
+    "M": "#minecraft:planks",
+    "X": "ironjetpacks:wood_cell"
+  },
+  "result": {
+    "id": "ironjetpacks:wood_capacitor",
+    "count": 1
+  }
+}

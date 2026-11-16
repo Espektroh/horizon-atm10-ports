@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "MXM",
+    "MXM",
+    "MXM"
+  ],
+  "key": {
+    "M": "minecraft:gold_ingot",
+    "X": "ironjetpacks:gold_cell"
+  },
+  "result": {
+    "id": "ironjetpacks:gold_capacitor",
+    "count": 1
+  }
+}

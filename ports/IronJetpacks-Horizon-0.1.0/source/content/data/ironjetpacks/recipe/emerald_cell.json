@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " R ",
+    "MCM",
+    " R "
+  ],
+  "key": {
+    "R": "minecraft:redstone",
+    "M": "minecraft:emerald",
+    "C": "ironjetpacks:elite_coil"
+  },
+  "result": {
+    "id": "ironjetpacks:emerald_cell",
+    "count": 1
+  }
+}

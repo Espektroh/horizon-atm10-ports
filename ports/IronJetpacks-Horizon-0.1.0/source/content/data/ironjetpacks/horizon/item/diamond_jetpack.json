@@ -1,0 +1,24 @@
+{
+  "template": "minecraft:iron_chestplate",
+  "max_stack_size": 1,
+  "rarity": "common",
+  "components": {
+    "minecraft:equippable": {
+      "slot": "chest",
+      "equip_sound": "minecraft:item.armor.equip_iron"
+    },
+    "minecraft:attribute_modifiers": [
+      {
+        "type": "minecraft:armor",
+        "id": "ironjetpacks:armor.jetpack",
+        "amount": 4.0,
+        "operation": "add_value",
+        "slot": "chest"
+      }
+    ],
+    "!minecraft:max_damage": {},
+    "!minecraft:damage": {},
+    "!minecraft:repairable": {},
+    "!minecraft:enchantable": {}
+  }
+}

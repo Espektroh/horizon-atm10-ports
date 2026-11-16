@@ -1,0 +1,25 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "MCM",
+    "CXC",
+    "MFM"
+  ],
+  "key": {
+    "M": "allthemodium:vibranium_ingot",
+    "C": "ironjetpacks:ultimate_coil",
+    "X": "ironjetpacks:vibranium_cell",
+    "F": "minecraft:furnace"
+  },
+  "result": {
+    "id": "ironjetpacks:vibranium_thruster",
+    "count": 1
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "mekanism"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " R ",
+    "MCM",
+    " R "
+  ],
+  "key": {
+    "R": "minecraft:redstone",
+    "M": "mekanism:ingot_steel",
+    "C": "ironjetpacks:advanced_coil"
+  },
+  "result": {
+    "id": "ironjetpacks:steel_cell",
+    "count": 1
+  }
+}

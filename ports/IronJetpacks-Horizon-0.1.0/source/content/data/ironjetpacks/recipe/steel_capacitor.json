@@ -1,0 +1,23 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "mekanism"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "MXM",
+    "MXM",
+    "MXM"
+  ],
+  "key": {
+    "M": "mekanism:ingot_steel",
+    "X": "ironjetpacks:steel_cell"
+  },
+  "result": {
+    "id": "ironjetpacks:steel_capacitor",
+    "count": 1
+  }
+}

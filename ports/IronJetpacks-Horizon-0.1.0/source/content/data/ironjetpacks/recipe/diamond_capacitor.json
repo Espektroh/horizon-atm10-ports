@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "MXM",
+    "MXM",
+    "MXM"
+  ],
+  "key": {
+    "M": "minecraft:diamond",
+    "X": "ironjetpacks:diamond_cell"
+  },
+  "result": {
+    "id": "ironjetpacks:diamond_capacitor",
+    "count": 1
+  }
+}

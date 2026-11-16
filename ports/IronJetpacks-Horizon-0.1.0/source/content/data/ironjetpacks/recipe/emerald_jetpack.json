@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "MPM",
+    "MJM",
+    "T T"
+  ],
+  "key": {
+    "M": "minecraft:emerald",
+    "P": "ironjetpacks:emerald_capacitor",
+    "J": "ironjetpacks:diamond_jetpack",
+    "T": "ironjetpacks:emerald_thruster"
+  },
+  "result": {
+    "id": "ironjetpacks:emerald_jetpack",
+    "count": 1
+  }
+}

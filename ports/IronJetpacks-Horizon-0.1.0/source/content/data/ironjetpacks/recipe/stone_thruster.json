@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "MCM",
+    "CXC",
+    "MFM"
+  ],
+  "key": {
+    "M": [
+      "minecraft:stone",
+      "minecraft:andesite",
+      "minecraft:diorite",
+      "minecraft:granite",
+      "minecraft:tuff",
+      "minecraft:deepslate"
+    ],
+    "C": "ironjetpacks:basic_coil",
+    "X": "ironjetpacks:stone_cell",
+    "F": "minecraft:furnace"
+  },
+  "result": {
+    "id": "ironjetpacks:stone_thruster",
+    "count": 1
+  }
+}

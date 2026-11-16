@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "MCM",
+    "CXC",
+    "MFM"
+  ],
+  "key": {
+    "M": "minecraft:copper_ingot",
+    "C": "ironjetpacks:basic_coil",
+    "X": "ironjetpacks:copper_cell",
+    "F": "minecraft:furnace"
+  },
+  "result": {
+    "id": "ironjetpacks:copper_thruster",
+    "count": 1
+  }
+}

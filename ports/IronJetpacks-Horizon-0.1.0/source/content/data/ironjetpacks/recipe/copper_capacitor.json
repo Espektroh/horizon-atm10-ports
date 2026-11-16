@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "MXM",
+    "MXM",
+    "MXM"
+  ],
+  "key": {
+    "M": "minecraft:copper_ingot",
+    "X": "ironjetpacks:copper_cell"
+  },
+  "result": {
+    "id": "ironjetpacks:copper_capacitor",
+    "count": 1
+  }
+}

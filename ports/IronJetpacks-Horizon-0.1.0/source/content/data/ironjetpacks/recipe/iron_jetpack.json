@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "MPM",
+    "MJM",
+    "T T"
+  ],
+  "key": {
+    "M": "minecraft:iron_ingot",
+    "P": "ironjetpacks:iron_capacitor",
+    "J": [
+      "ironjetpacks:stone_jetpack",
+      "ironjetpacks:copper_jetpack"
+    ],
+    "T": "ironjetpacks:iron_thruster"
+  },
+  "result": {
+    "id": "ironjetpacks:iron_jetpack",
+    "count": 1
+  }
+}

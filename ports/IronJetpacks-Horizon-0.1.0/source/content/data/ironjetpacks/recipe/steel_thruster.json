@@ -1,0 +1,25 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "mekanism"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "MCM",
+    "CXC",
+    "MFM"
+  ],
+  "key": {
+    "M": "mekanism:ingot_steel",
+    "C": "ironjetpacks:advanced_coil",
+    "X": "ironjetpacks:steel_cell",
+    "F": "minecraft:furnace"
+  },
+  "result": {
+    "id": "ironjetpacks:steel_thruster",
+    "count": 1
+  }
+}

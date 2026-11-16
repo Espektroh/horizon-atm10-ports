@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " R ",
+    "MCM",
+    " R "
+  ],
+  "key": {
+    "R": "minecraft:redstone",
+    "M": [
+      "minecraft:stone",
+      "minecraft:andesite",
+      "minecraft:diorite",
+      "minecraft:granite",
+      "minecraft:tuff",
+      "minecraft:deepslate"
+    ],
+    "C": "ironjetpacks:basic_coil"
+  },
+  "result": {
+    "id": "ironjetpacks:stone_cell",
+    "count": 1
+  }
+}

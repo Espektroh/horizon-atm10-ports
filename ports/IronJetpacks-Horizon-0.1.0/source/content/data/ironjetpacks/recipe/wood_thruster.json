@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "MCM",
+    "CXC",
+    "MFM"
+  ],
+  "key": {
+    "M": "#minecraft:planks",
+    "C": "ironjetpacks:basic_coil",
+    "X": "ironjetpacks:wood_cell",
+    "F": "minecraft:furnace"
+  },
+  "result": {
+    "id": "ironjetpacks:wood_thruster",
+    "count": 1
+  }
+}

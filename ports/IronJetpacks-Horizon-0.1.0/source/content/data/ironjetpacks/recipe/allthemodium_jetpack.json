@@ -1,0 +1,25 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "MPM",
+    "MJM",
+    "T T"
+  ],
+  "key": {
+    "M": "allthemodium:allthemodium_ingot",
+    "P": "ironjetpacks:allthemodium_capacitor",
+    "J": "ironjetpacks:emerald_jetpack",
+    "T": "ironjetpacks:allthemodium_thruster"
+  },
+  "result": {
+    "id": "ironjetpacks:allthemodium_jetpack",
+    "count": 1
+  }
+}

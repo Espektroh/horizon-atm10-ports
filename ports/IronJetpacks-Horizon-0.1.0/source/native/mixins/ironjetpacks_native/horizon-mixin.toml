@@ -1,0 +1,138 @@
+[mod]
+id = "ironjetpacks_native"
+version = "0.1.0"
+priority = 100
+
+# Made for Nightly 66f3981 (2026-11-05). Uses the client tick (native_tick),
+# the movement keys (native_movement_input), a push on the local player
+# (native_push_player, API 105), mod keys (native_key / native_mod_key), mod
+# messages (API 40), players' ticks (API 31), the server tick, right clicks on
+# blocks (API 21) with mod block entities (API 18), the HUD (native_hud),
+# tooltips (API 12) and item bars (API 60).
+[compatibility]
+horizon_revision = "66f3981f522b24c250b21523a70080965b940424"
+
+[[module]]
+id = "runtime"
+file = "crates/horizon-client/src/game.rs"
+name = "ironjetpacks_rt"
+source = "runtime.rs"
+
+[[module]]
+id = "glue"
+file = "crates/horizon-client/src/game.rs"
+name = "ironjetpacks_glue"
+source = "glue.rs"
+
+[[injection]]
+id = "tick"
+kind = "HEAD"
+target = "horizon_client::game::native_hooks::Game<'_>::native_tick"
+helper = "tick.rs"
+bindings = [
+  { name = "game", ty = "&mut crate::game::Game<'_>", value = "&mut *self" },
+]
+
+[[injection]]
+id = "movement-input"
+kind = "HEAD"
+target = "horizon_client::game::native_hooks::Game<'_>::native_movement_input"
+helper = "movement_input.rs"
+bindings = [
+  { name = "forward", ty = "f32", value = "*forward" },
+  { name = "strafe", ty = "f32", value = "*strafe" },
+  { name = "jump", ty = "bool", value = "*jump" },
+  { name = "sneak", ty = "bool", value = "*sneak" },
+]
+
+[[injection]]
+id = "key"
+kind = "HEAD"
+target = "horizon_client::game::native_hooks::Game<'_>::native_key"
+helper = "key.rs"
+bindings = [
+  { name = "game", ty = "&mut crate::game::Game<'_>", value = "&mut *self" },
+  { name = "key", ty = "&str", value = "key" },
+  { name = "pressed", ty = "bool", value = "pressed" },
+]
+
+[[injection]]
+id = "hud"
+kind = "HEAD"
+target = "horizon_client::game::native_hooks::Game<'_>::native_hud"
+helper = "hud.rs"
+bindings = [
+  { name = "game", ty = "&crate::game::Game<'_>", value = "&*self" },
+  { name = "batch", ty = "&mut horizon_client::hud::HudBatch", value = "&mut *batch" },
+  { name = "corners", ty = "&mut horizon_client::extras_hud::Corners", value = "&mut *corners" },
+]
+
+[[injection]]
+id = "tooltip"
+kind = "HEAD"
+target = "horizon_client::game::native_hooks::Game<'_>::native_tooltip"
+helper = "tooltip.rs"
+bindings = [
+  { name = "stack", ty = "&horizon_client::items::ItemStack", value = "stack" },
+  { name = "lines", ty = "&mut Vec<(horizon_client::text::Text, u32)>", value = "&mut *lines" },
+]
+
+[[injection]]
+id = "item-bar"
+kind = "HEAD"
+target = "horizon_client::game::native_hooks::Game<'_>::native_item_bar"
+helper = "item_bar.rs"
+bindings = [
+  { name = "stack", ty = "&horizon_client::items::ItemStack", value = "stack" },
+  { name = "bar", ty = "&mut Option<(i32, u32)>", value = "&mut *bar" },
+]
+
+[[injection]]
+id = "net-from-client"
+kind = "HEAD"
+target = "horizon_client::game::native_hooks::Game<'_>::native_net_from_client"
+helper = "net_from_client.rs"
+bindings = [
+  { name = "game", ty = "&mut crate::game::Game<'_>", value = "&mut *self" },
+  { name = "player", ty = "u128", value = "player" },
+  { name = "channel", ty = "&str", value = "channel" },
+  { name = "data", ty = "&[u8]", value = "data" },
+]
+
+[[injection]]
+id = "player-tick"
+kind = "HEAD"
+target = "horizon_client::game::native_hooks::Game<'_>::native_player_tick"
+helper = "player_tick.rs"
+bindings = [
+  { name = "game", ty = "&mut crate::game::Game<'_>", value = "&mut *self" },
+]
+
+[[injection]]
+id = "server-tick"
+kind = "HEAD"
+target = "horizon_client::game::native_hooks::Game<'_>::native_server_tick"
+helper = "server_tick.rs"
+bindings = [
+  { name = "game", ty = "&mut crate::game::Game<'_>", value = "&mut *self" },
+]
+
+[[injection]]
+id = "right-click"
+kind = "HEAD"
+target = "horizon_client::game::native_hooks::Game<'_>::native_right_click_block"
+helper = "right_click.rs"
+bindings = [
+  { name = "game", ty = "&mut crate::game::Game<'_>", value = "&mut *self" },
+  { name = "pos", ty = "[i32; 3]", value = "pos" },
+  { name = "canceled", ty = "&mut bool", value = "&mut *canceled" },
+]
+
+[[injection]]
+id = "list"
+kind = "HEAD"
+target = "horizon_client::game::native_hooks::Game<'_>::native_mods"
+helper = "list.rs"
+bindings = [
+  { name = "mods", ty = "&mut Vec<crate::game::native_hooks::NativeMod>", value = "&mut *mods" },
+]

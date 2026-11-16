@@ -1,0 +1,24 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " R ",
+    "MCM",
+    " R "
+  ],
+  "key": {
+    "R": "minecraft:redstone",
+    "M": "allthemodium:allthemodium_ingot",
+    "C": "ironjetpacks:elite_coil"
+  },
+  "result": {
+    "id": "ironjetpacks:allthemodium_cell",
+    "count": 1
+  }
+}

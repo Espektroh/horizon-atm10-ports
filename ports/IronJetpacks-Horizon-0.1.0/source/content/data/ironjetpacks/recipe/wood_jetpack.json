@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "MPM",
+    "MSM",
+    "T T"
+  ],
+  "key": {
+    "M": "#minecraft:planks",
+    "P": "ironjetpacks:wood_capacitor",
+    "S": "ironjetpacks:strap",
+    "T": "ironjetpacks:wood_thruster"
+  },
+  "result": {
+    "id": "ironjetpacks:wood_jetpack",
+    "count": 1
+  }
+}

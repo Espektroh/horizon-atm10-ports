@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " I ",
+    "LLL",
+    " I "
+  ],
+  "key": {
+    "I": "minecraft:iron_nugget",
+    "L": "minecraft:leather"
+  },
+  "result": {
+    "id": "ironjetpacks:strap",
+    "count": 1
+  }
+}

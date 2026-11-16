@@ -1,0 +1,24 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " R ",
+    "MCM",
+    " R "
+  ],
+  "key": {
+    "R": "minecraft:redstone",
+    "M": "allthemodium:unobtainium_ingot",
+    "C": "ironjetpacks:ultimate_coil"
+  },
+  "result": {
+    "id": "ironjetpacks:unobtainium_cell",
+    "count": 1
+  }
+}

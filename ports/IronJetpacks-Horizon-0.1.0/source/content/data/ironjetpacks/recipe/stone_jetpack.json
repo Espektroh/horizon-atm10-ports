@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "MPM",
+    "MJM",
+    "T T"
+  ],
+  "key": {
+    "M": [
+      "minecraft:stone",
+      "minecraft:andesite",
+      "minecraft:diorite",
+      "minecraft:granite",
+      "minecraft:tuff",
+      "minecraft:deepslate"
+    ],
+    "P": "ironjetpacks:stone_capacitor",
+    "J": "ironjetpacks:wood_jetpack",
+    "T": "ironjetpacks:stone_thruster"
+  },
+  "result": {
+    "id": "ironjetpacks:stone_jetpack",
+    "count": 1
+  }
+}

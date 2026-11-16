@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " DR",
+    "DSD",
+    "RD "
+  ],
+  "key": {
+    "R": "minecraft:redstone",
+    "D": "minecraft:diamond",
+    "S": "minecraft:stick"
+  },
+  "result": {
+    "id": "ironjetpacks:elite_coil",
+    "count": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "MCM",
+    "CXC",
+    "MFM"
+  ],
+  "key": {
+    "M": "minecraft:gold_ingot",
+    "C": "ironjetpacks:advanced_coil",
+    "X": "ironjetpacks:gold_cell",
+    "F": "minecraft:furnace"
+  },
+  "result": {
+    "id": "ironjetpacks:gold_thruster",
+    "count": 1
+  }
+}

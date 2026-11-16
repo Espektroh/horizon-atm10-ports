@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "MXM",
+    "MXM",
+    "MXM"
+  ],
+  "key": {
+    "M": "minecraft:emerald",
+    "X": "ironjetpacks:emerald_cell"
+  },
+  "result": {
+    "id": "ironjetpacks:emerald_capacitor",
+    "count": 1
+  }
+}
