@@ -1,0 +1,11 @@
+{
+  "type": "mekanism:compressing",
+  "input": "mekanism:dust_refined_obsidian",
+  "input_count": 1,
+  "chemical": "osmium",
+  "chemical_per_tick": 1,
+  "output": {
+    "id": "mekanism:ingot_refined_obsidian",
+    "count": 1
+  }
+}

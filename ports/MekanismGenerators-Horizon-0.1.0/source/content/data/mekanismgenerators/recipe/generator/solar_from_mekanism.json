@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "mekanism:solar_generator"
+  ],
+  "result": {
+    "id": "mekanismgenerators:solar_generator",
+    "count": 1
+  }
+}

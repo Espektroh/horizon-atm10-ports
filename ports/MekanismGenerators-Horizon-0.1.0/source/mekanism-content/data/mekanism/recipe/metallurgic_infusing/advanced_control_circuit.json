@@ -1,0 +1,11 @@
+{
+  "type": "mekanism:metallurgic_infusing",
+  "input": "mekanism:basic_control_circuit",
+  "input_count": 1,
+  "infuse_type": "redstone",
+  "infuse_amount": 60,
+  "output": {
+    "id": "mekanism:advanced_control_circuit",
+    "count": 1
+  }
+}

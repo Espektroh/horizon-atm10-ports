@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "GGG",
+    "RAR",
+    "OOO"
+  ],
+  "key": {
+    "G": "minecraft:glass_pane",
+    "R": "minecraft:redstone",
+    "A": "mekanism:alloy_infused",
+    "O": "mekanism:ingot_osmium"
+  },
+  "result": {
+    "id": "mekanismgenerators:solar_panel",
+    "count": 1
+  }
+}

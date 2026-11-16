@@ -1,0 +1,6 @@
+{
+  "type": "mekanism:infuse_conversion",
+  "input": "minecraft:charcoal",
+  "infuse_type": "carbon",
+  "amount": 20
+}

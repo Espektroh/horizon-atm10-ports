@@ -1,0 +1,6 @@
+{
+  "type": "mekanism:infuse_conversion",
+  "input": "minecraft:redstone",
+  "infuse_type": "redstone",
+  "amount": 10
+}

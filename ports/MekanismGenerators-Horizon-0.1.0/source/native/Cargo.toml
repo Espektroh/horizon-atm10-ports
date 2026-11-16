@@ -1,0 +1,12 @@
+[package]
+name = "horizon-mod-mekanismgenerators"
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+description = "Mekanism Generators for Horizon: solar, advanced solar, heat and wind generators (native mod)"
+
+[lib]
+# This exact source is also injected as a same-crate module by horizon-mixins.
+path = "mixins/mekanismgenerators_native/runtime.rs"
+
+[workspace]

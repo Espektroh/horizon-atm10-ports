@@ -1,0 +1,6 @@
+{
+  "type": "mekanism:chemical_conversion",
+  "input": "mekanism:ingot_osmium",
+  "chemical": "osmium",
+  "amount": 200
+}

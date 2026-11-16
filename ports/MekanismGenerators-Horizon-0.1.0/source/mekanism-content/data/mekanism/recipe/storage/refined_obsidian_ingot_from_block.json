@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "mekanism:block_refined_obsidian"
+  ],
+  "result": {
+    "id": "mekanism:ingot_refined_obsidian",
+    "count": 9
+  }
+}

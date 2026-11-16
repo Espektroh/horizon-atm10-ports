@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "facing=north,lit=false": {
+      "model": "mekanismgenerators:block/solar_generator"
+    },
+    "facing=north,lit=true": {
+      "model": "mekanismgenerators:block/solar_generator"
+    },
+    "facing=east,lit=false": {
+      "model": "mekanismgenerators:block/solar_generator"
+    },
+    "facing=east,lit=true": {
+      "model": "mekanismgenerators:block/solar_generator"
+    },
+    "facing=south,lit=false": {
+      "model": "mekanismgenerators:block/solar_generator"
+    },
+    "facing=south,lit=true": {
+      "model": "mekanismgenerators:block/solar_generator"
+    },
+    "facing=west,lit=false": {
+      "model": "mekanismgenerators:block/solar_generator"
+    },
+    "facing=west,lit=true": {
+      "model": "mekanismgenerators:block/solar_generator"
+    }
+  }
+}

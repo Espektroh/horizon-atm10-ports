@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "PAP",
+    "PAP",
+    "III"
+  ],
+  "key": {
+    "P": "mekanismgenerators:solar_generator",
+    "A": "mekanism:alloy_infused",
+    "I": "minecraft:iron_ingot"
+  },
+  "result": {
+    "id": "mekanismgenerators:advanced_solar_generator",
+    "count": 1
+  }
+}

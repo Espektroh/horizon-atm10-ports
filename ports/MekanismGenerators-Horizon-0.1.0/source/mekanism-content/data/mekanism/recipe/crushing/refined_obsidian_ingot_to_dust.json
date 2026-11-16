@@ -1,0 +1,9 @@
+{
+  "type": "mekanism:crushing",
+  "input": "mekanism:ingot_refined_obsidian",
+  "input_count": 1,
+  "output": {
+    "id": "mekanism:dust_refined_obsidian",
+    "count": 1
+  }
+}

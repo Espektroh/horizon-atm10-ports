@@ -1,0 +1,6 @@
+{
+  "template": "minecraft:daylight_detector",
+  "properties": {
+    "hardness": 3.5
+  }
+}

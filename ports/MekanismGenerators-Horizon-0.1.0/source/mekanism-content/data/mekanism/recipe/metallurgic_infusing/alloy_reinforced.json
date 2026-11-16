@@ -1,0 +1,11 @@
+{
+  "type": "mekanism:metallurgic_infusing",
+  "input": "mekanism:alloy_infused",
+  "input_count": 1,
+  "infuse_type": "diamond",
+  "infuse_amount": 20,
+  "output": {
+    "id": "mekanism:alloy_reinforced",
+    "count": 1
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "mekanism:compressing",
+  "input": "minecraft:glowstone_dust",
+  "input_count": 1,
+  "chemical": "osmium",
+  "chemical_per_tick": 1,
+  "output": {
+    "id": "mekanism:ingot_refined_glowstone",
+    "count": 1
+  }
+}

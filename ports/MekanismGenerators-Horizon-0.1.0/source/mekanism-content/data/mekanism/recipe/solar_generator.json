@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "AIA",
+    "OEO"
+  ],
+  "key": {
+    "#": "minecraft:daylight_detector",
+    "A": "mekanism:alloy_infused",
+    "I": "minecraft:iron_ingot",
+    "O": "mekanism:ingot_osmium",
+    "E": "minecraft:redstone_block"
+  },
+  "result": {
+    "id": "mekanism:solar_generator",
+    "count": 1
+  }
+}

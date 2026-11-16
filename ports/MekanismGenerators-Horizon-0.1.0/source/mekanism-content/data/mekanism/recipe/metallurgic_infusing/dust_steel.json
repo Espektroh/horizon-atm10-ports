@@ -1,0 +1,11 @@
+{
+  "type": "mekanism:metallurgic_infusing",
+  "input": "mekanism:enriched_iron",
+  "input_count": 1,
+  "infuse_type": "carbon",
+  "infuse_amount": 10,
+  "output": {
+    "id": "mekanism:dust_steel",
+    "count": 1
+  }
+}

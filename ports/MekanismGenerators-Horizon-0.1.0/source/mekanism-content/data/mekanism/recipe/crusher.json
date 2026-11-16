@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "RCR",
+    "BXB",
+    "RCR"
+  ],
+  "key": {
+    "R": "minecraft:redstone",
+    "C": "mekanism:basic_control_circuit",
+    "B": "minecraft:lava_bucket",
+    "X": "mekanism:steel_casing"
+  },
+  "result": {
+    "id": "mekanism:crusher",
+    "count": 1
+  }
+}

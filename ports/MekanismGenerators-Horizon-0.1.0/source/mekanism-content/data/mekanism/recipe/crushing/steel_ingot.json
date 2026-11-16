@@ -1,0 +1,9 @@
+{
+  "type": "mekanism:crushing",
+  "input": "mekanism:ingot_steel",
+  "input_count": 1,
+  "output": {
+    "id": "mekanism:dust_steel",
+    "count": 1
+  }
+}

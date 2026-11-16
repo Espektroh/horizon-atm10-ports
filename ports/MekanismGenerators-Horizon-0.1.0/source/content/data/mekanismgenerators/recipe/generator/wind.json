@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " O ",
+    "OAO",
+    "ECE"
+  ],
+  "key": {
+    "O": "mekanism:ingot_osmium",
+    "A": "mekanism:alloy_infused",
+    "E": "minecraft:redstone_block",
+    "C": "mekanism:basic_control_circuit"
+  },
+  "result": {
+    "id": "mekanismgenerators:wind_generator",
+    "count": 1
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "template": "minecraft:deepslate_iron_ore",
+  "properties": {
+    "hardness": 4.5
+  }
+}

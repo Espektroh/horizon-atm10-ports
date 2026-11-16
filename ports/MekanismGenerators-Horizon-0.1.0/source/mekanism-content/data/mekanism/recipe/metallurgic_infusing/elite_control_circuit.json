@@ -1,0 +1,11 @@
+{
+  "type": "mekanism:metallurgic_infusing",
+  "input": "mekanism:advanced_control_circuit",
+  "input_count": 1,
+  "infuse_type": "diamond",
+  "infuse_amount": 120,
+  "output": {
+    "id": "mekanism:elite_control_circuit",
+    "count": 1
+  }
+}

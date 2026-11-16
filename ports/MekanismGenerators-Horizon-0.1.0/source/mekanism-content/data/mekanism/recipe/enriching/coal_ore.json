@@ -1,0 +1,9 @@
+{
+  "type": "mekanism:enriching",
+  "input": "#minecraft:coal_ores",
+  "input_count": 1,
+  "output": {
+    "id": "minecraft:coal",
+    "count": 2
+  }
+}

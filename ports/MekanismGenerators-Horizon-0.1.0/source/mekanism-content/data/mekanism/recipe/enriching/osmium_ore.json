@@ -1,0 +1,9 @@
+{
+  "type": "mekanism:enriching",
+  "input": "#mekanism:ores/osmium",
+  "input_count": 1,
+  "output": {
+    "id": "mekanism:dust_osmium",
+    "count": 2
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "mekanism:block/legacy_generators/solar_generator"
+      }
+    }
+  ]
+}

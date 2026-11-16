@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " G ",
+    "A#A",
+    " G "
+  ],
+  "key": {
+    "G": "minecraft:glass",
+    "A": "mekanism:alloy_infused",
+    "#": "mekanism:dust_osmium"
+  },
+  "result": {
+    "id": "mekanism:upgrade_speed",
+    "count": 1
+  }
+}

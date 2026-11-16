@@ -1,0 +1,9 @@
+{
+  "type": "mekanism:crushing",
+  "input": "mekanism:ingot_osmium",
+  "input_count": 1,
+  "output": {
+    "id": "mekanism:dust_osmium",
+    "count": 1
+  }
+}

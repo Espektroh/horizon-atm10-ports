@@ -1,0 +1,9 @@
+{
+  "type": "mekanism:enriching",
+  "input": "#minecraft:diamond_ores",
+  "input_count": 1,
+  "output": {
+    "id": "minecraft:diamond",
+    "count": 2
+  }
+}

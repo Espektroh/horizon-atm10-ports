@@ -1,0 +1,7 @@
+{
+  "block.mekanismgenerators.solar_generator": "Gerador a Energia Solar",
+  "block.mekanismgenerators.advanced_solar_generator": "Gerador a Energia Solar Avançado",
+  "block.mekanismgenerators.heat_generator": "Gerador a Calor",
+  "block.mekanismgenerators.wind_generator": "Gerador Eólico",
+  "item.mekanismgenerators.solar_panel": "Painel Solar"
+}

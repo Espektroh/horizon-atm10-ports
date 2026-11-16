@@ -1,0 +1,8 @@
+{
+  "template": "minecraft:chorus_plant",
+  "properties": {
+    "hardness": 1.0
+  },
+  "connects_to": "#mekanism:cable_connects",
+  "thickness": 6
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "mekanism:heat_generator"
+  ],
+  "result": {
+    "id": "mekanismgenerators:heat_generator",
+    "count": 1
+  }
+}

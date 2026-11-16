@@ -1,0 +1,9 @@
+{
+  "type": "mekanism:crushing",
+  "input": "minecraft:copper_ingot",
+  "input_count": 1,
+  "output": {
+    "id": "mekanism:dust_copper",
+    "count": 1
+  }
+}

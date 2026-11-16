@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ACA",
+    "BXB",
+    "ACA"
+  ],
+  "key": {
+    "A": "mekanism:alloy_infused",
+    "C": "mekanism:advanced_control_circuit",
+    "B": "minecraft:bucket",
+    "X": "mekanism:steel_casing"
+  },
+  "result": {
+    "id": "mekanism:osmium_compressor",
+    "count": 1
+  }
+}

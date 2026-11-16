@@ -1,0 +1,6 @@
+{
+  "type": "mekanism:infuse_conversion",
+  "input": "mekanism:dust_refined_obsidian",
+  "infuse_type": "refined_obsidian",
+  "amount": 10
+}

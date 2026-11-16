@@ -1,0 +1,9 @@
+{
+  "type": "mekanism:crushing",
+  "input": "minecraft:blaze_rod",
+  "input_count": 1,
+  "output": {
+    "id": "minecraft:blaze_powder",
+    "count": 4
+  }
+}
