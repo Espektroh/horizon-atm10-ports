@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "moisture=0": {
+      "model": "mysticalagradditions:block/insanium_farmland"
+    },
+    "moisture=1": {
+      "model": "mysticalagradditions:block/insanium_farmland"
+    },
+    "moisture=2": {
+      "model": "mysticalagradditions:block/insanium_farmland"
+    },
+    "moisture=3": {
+      "model": "mysticalagradditions:block/insanium_farmland"
+    },
+    "moisture=4": {
+      "model": "mysticalagradditions:block/insanium_farmland"
+    },
+    "moisture=5": {
+      "model": "mysticalagradditions:block/insanium_farmland"
+    },
+    "moisture=6": {
+      "model": "mysticalagradditions:block/insanium_farmland"
+    },
+    "moisture=7": {
+      "model": "mysticalagradditions:block/insanium_farmland_moist"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "template": "minecraft:iron_chestplate",
+  "components": {
+    "minecraft:max_damage": 320,
+    "minecraft:attribute_modifiers": [
+      {
+        "type": "minecraft:armor",
+        "id": "minecraft:armor.chestplate",
+        "amount": 8.0,
+        "operation": "add_value",
+        "slot": "chest"
+      },
+      {
+        "type": "minecraft:armor_toughness",
+        "id": "minecraft:armor.chestplate",
+        "amount": 2.0,
+        "operation": "add_value",
+        "slot": "chest"
+      }
+    ],
+    "minecraft:equippable": {
+      "slot": "chest",
+      "asset_id": "mekanismtools:steel",
+      "equip_sound": "minecraft:item.armor.equip_iron"
+    },
+    "minecraft:enchantable": {
+      "value": 16
+    },
+    "minecraft:repairable": {
+      "items": "mekanism:ingot_steel"
+    }
+  }
+}

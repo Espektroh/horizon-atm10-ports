@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "mysticalagriculture:prosperity_ingot",
+    "mysticalagradditions:insanium_essence",
+    "mysticalagradditions:insanium_essence"
+  ],
+  "result": {
+    "id": "mysticalagradditions:insanium_ingot"
+  }
+}

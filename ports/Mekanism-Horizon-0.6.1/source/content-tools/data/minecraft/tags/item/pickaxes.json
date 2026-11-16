@@ -1,0 +1,14 @@
+{
+  "values": [
+    "mekanismtools:osmium_pickaxe",
+    "mekanismtools:osmium_paxel",
+    "mekanismtools:steel_pickaxe",
+    "mekanismtools:steel_paxel",
+    "mekanismtools:lapis_lazuli_pickaxe",
+    "mekanismtools:lapis_lazuli_paxel",
+    "mekanismtools:refined_glowstone_pickaxe",
+    "mekanismtools:refined_glowstone_paxel",
+    "mekanismtools:refined_obsidian_pickaxe",
+    "mekanismtools:refined_obsidian_paxel"
+  ]
+}

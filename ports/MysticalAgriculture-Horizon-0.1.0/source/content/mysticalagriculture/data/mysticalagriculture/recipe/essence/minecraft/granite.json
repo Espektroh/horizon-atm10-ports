@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " E ",
+    "EQE",
+    " E "
+  ],
+  "key": {
+    "E": "mysticalagriculture:stone_essence",
+    "Q": "mysticalagriculture:nether_quartz_essence"
+  },
+  "result": {
+    "id": "minecraft:granite",
+    "count": 16
+  }
+}

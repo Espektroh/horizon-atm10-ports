@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "facing=north,lit=false": {
+      "model": "powah:block/energizing_orb"
+    },
+    "facing=north,lit=true": {
+      "model": "powah:block/energizing_orb"
+    },
+    "facing=east,lit=false": {
+      "model": "powah:block/energizing_orb"
+    },
+    "facing=east,lit=true": {
+      "model": "powah:block/energizing_orb"
+    },
+    "facing=south,lit=false": {
+      "model": "powah:block/energizing_orb"
+    },
+    "facing=south,lit=true": {
+      "model": "powah:block/energizing_orb"
+    },
+    "facing=west,lit=false": {
+      "model": "powah:block/energizing_orb"
+    },
+    "facing=west,lit=true": {
+      "model": "powah:block/energizing_orb"
+    }
+  }
+}

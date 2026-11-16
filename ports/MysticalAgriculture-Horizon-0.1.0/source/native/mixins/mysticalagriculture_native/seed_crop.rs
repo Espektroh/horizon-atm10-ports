@@ -1,0 +1,144 @@
+// Each seed is a copy of wheat seeds, a BlockItem of `minecraft:wheat`: its row is pointed at
+// its own crop, so planting it places the crop. Runs inside `J::rename` (every node of every
+// copied table), so it returns at once for anything that isn't one of these seeds.
+// Self-contained, as `crop_seed.rs`; same table.
+fn mysticalagriculture_seed_crop(row: &mut J, rename: &Rename) {
+    const PAIRS: [(&str, &str); 31] = [
+        (
+            "mysticalagriculture:inferium_crop",
+            "mysticalagriculture:inferium_seeds",
+        ),
+        (
+            "mysticalagriculture:stone_crop",
+            "mysticalagriculture:stone_seeds",
+        ),
+        (
+            "mysticalagriculture:dirt_crop",
+            "mysticalagriculture:dirt_seeds",
+        ),
+        (
+            "mysticalagriculture:wood_crop",
+            "mysticalagriculture:wood_seeds",
+        ),
+        (
+            "mysticalagriculture:ice_crop",
+            "mysticalagriculture:ice_seeds",
+        ),
+        (
+            "mysticalagriculture:deepslate_crop",
+            "mysticalagriculture:deepslate_seeds",
+        ),
+        (
+            "mysticalagriculture:nature_crop",
+            "mysticalagriculture:nature_seeds",
+        ),
+        (
+            "mysticalagriculture:dye_crop",
+            "mysticalagriculture:dye_seeds",
+        ),
+        (
+            "mysticalagriculture:nether_crop",
+            "mysticalagriculture:nether_seeds",
+        ),
+        (
+            "mysticalagriculture:coal_crop",
+            "mysticalagriculture:coal_seeds",
+        ),
+        (
+            "mysticalagriculture:coral_crop",
+            "mysticalagriculture:coral_seeds",
+        ),
+        (
+            "mysticalagriculture:honey_crop",
+            "mysticalagriculture:honey_seeds",
+        ),
+        (
+            "mysticalagriculture:amethyst_crop",
+            "mysticalagriculture:amethyst_seeds",
+        ),
+        (
+            "mysticalagriculture:iron_crop",
+            "mysticalagriculture:iron_seeds",
+        ),
+        (
+            "mysticalagriculture:copper_crop",
+            "mysticalagriculture:copper_seeds",
+        ),
+        (
+            "mysticalagriculture:nether_quartz_crop",
+            "mysticalagriculture:nether_quartz_seeds",
+        ),
+        (
+            "mysticalagriculture:glowstone_crop",
+            "mysticalagriculture:glowstone_seeds",
+        ),
+        (
+            "mysticalagriculture:redstone_crop",
+            "mysticalagriculture:redstone_seeds",
+        ),
+        (
+            "mysticalagriculture:obsidian_crop",
+            "mysticalagriculture:obsidian_seeds",
+        ),
+        (
+            "mysticalagriculture:prismarine_crop",
+            "mysticalagriculture:prismarine_seeds",
+        ),
+        (
+            "mysticalagriculture:sculk_crop",
+            "mysticalagriculture:sculk_seeds",
+        ),
+        (
+            "mysticalagriculture:gold_crop",
+            "mysticalagriculture:gold_seeds",
+        ),
+        (
+            "mysticalagriculture:lapis_lazuli_crop",
+            "mysticalagriculture:lapis_lazuli_seeds",
+        ),
+        (
+            "mysticalagriculture:end_crop",
+            "mysticalagriculture:end_seeds",
+        ),
+        (
+            "mysticalagriculture:osmium_crop",
+            "mysticalagriculture:osmium_seeds",
+        ),
+        (
+            "mysticalagriculture:steel_crop",
+            "mysticalagriculture:steel_seeds",
+        ),
+        (
+            "mysticalagriculture:diamond_crop",
+            "mysticalagriculture:diamond_seeds",
+        ),
+        (
+            "mysticalagriculture:emerald_crop",
+            "mysticalagriculture:emerald_seeds",
+        ),
+        (
+            "mysticalagriculture:netherite_crop",
+            "mysticalagriculture:netherite_seeds",
+        ),
+        (
+            "mysticalagriculture:nether_star_crop",
+            "mysticalagriculture:nether_star_seeds",
+        ),
+        (
+            "mysticalagriculture:dragon_egg_crop",
+            "mysticalagriculture:dragon_egg_seeds",
+        ),
+    ];
+    let to: &str = rename.to.as_str();
+    if !to.starts_with("mysticalagriculture:") || !to.ends_with("_seeds") {
+        return;
+    }
+    let Some(pair) = PAIRS.iter().find(|p| p.1 == to) else {
+        return;
+    };
+    if let Some(block) = row.at("fields/block") {
+        if block.as_str() == Some("minecraft:wheat") {
+            *block = J::Str(pair.0.to_string());
+        }
+    }
+}

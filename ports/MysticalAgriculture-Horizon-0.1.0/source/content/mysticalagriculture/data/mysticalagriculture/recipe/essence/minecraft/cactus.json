@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "EEE",
+    " E ",
+    "EEE"
+  ],
+  "key": {
+    "E": "mysticalagriculture:nature_essence"
+  },
+  "result": {
+    "id": "minecraft:cactus",
+    "count": 16
+  }
+}

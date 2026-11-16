@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " # ",
+    "#X#",
+    " # "
+  ],
+  "key": {
+    "#": "mysticalagriculture:tertium_essence",
+    "X": "#mysticalagriculture:infusion_crystals"
+  },
+  "result": {
+    "id": "mysticalagriculture:imperium_essence"
+  }
+}

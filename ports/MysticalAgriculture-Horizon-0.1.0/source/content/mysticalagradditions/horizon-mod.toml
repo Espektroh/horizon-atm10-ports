@@ -1,0 +1,8 @@
+id = "mysticalagradditions"
+name = "Mystical Agradditions"
+version = "8.0.14-horizon.1"
+description = "Tier 6 (Insanium) do Mystical Agriculture: essencia, lingote, terra, cruxes, minerios no Nether e no End. Port do Mystical Agradditions (BlakeBr0, MIT). Precisa do mysticalagriculture."
+authors = ["BlakeBr0 (original, MIT)", "port Horizon"]
+api = "0.2"
+side = "both"
+capabilities = ["registries"]

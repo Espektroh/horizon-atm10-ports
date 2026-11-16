@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "APS",
+    " R ",
+    " R "
+  ],
+  "key": {
+    "A": "mekanismtools:refined_obsidian_axe",
+    "P": "mekanismtools:refined_obsidian_pickaxe",
+    "S": "mekanismtools:refined_obsidian_shovel",
+    "R": "minecraft:stick"
+  },
+  "result": {
+    "id": "mekanismtools:refined_obsidian_paxel",
+    "count": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " ip",
+    "iri",
+    "pi "
+  ],
+  "key": {
+    "i": "minecraft:iron_ingot",
+    "p": "powah:dielectric_paste",
+    "r": "minecraft:redstone_block"
+  },
+  "result": {
+    "id": "powah:capacitor_basic",
+    "count": 4
+  }
+}

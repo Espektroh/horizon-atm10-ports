@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": "mysticalagriculture:imperium_nugget"
+  },
+  "result": {
+    "id": "mysticalagriculture:imperium_ingot"
+  }
+}

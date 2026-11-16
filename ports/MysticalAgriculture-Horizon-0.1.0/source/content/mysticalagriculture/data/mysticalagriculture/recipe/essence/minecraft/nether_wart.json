@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ENE",
+    "   ",
+    "   "
+  ],
+  "key": {
+    "E": "mysticalagriculture:nether_essence",
+    "N": "mysticalagriculture:nature_essence"
+  },
+  "result": {
+    "id": "minecraft:nether_wart",
+    "count": 8
+  }
+}

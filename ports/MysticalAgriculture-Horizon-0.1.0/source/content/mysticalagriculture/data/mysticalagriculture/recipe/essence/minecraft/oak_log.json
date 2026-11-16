@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "EEE",
+    "   ",
+    "   "
+  ],
+  "key": {
+    "E": "mysticalagriculture:wood_essence"
+  },
+  "result": {
+    "id": "minecraft:oak_log",
+    "count": 16
+  }
+}

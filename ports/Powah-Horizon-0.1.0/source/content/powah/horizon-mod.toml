@@ -1,0 +1,8 @@
+id = "powah"
+name = "Powah"
+version = "6.2.10-horizon.1"
+description = "Powah para Horizon: Orbe Energizante e hastes (aco energizado, cristais), Furnator, Magmator, celulas e cabos de energia (inicial e basico). Port do Powah (owmii, LGPLv3). Precisa do mod nativo powah_native."
+authors = ["owmii, Technici4n, shartte (original, LGPLv3)", "port Horizon"]
+api = "0.2"
+side = "both"
+capabilities = ["registries"]

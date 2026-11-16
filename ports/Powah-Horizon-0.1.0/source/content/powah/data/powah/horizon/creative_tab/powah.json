@@ -1,0 +1,33 @@
+{
+  "title": "itemGroup.powah.tab",
+  "icon": "powah:energizing_orb",
+  "items": [
+    "powah:energizing_orb",
+    "powah:energizing_rod_starter",
+    "powah:energizing_rod_basic",
+    "powah:furnator_starter",
+    "powah:furnator_basic",
+    "powah:magmator_starter",
+    "powah:magmator_basic",
+    "powah:energy_cell_starter",
+    "powah:energy_cell_basic",
+    "powah:energy_cable_starter",
+    "powah:energy_cable_basic",
+    "powah:steel_energized",
+    "powah:crystal_blazing",
+    "powah:crystal_niotic",
+    "powah:crystal_spirited",
+    "powah:crystal_nitro",
+    "powah:dielectric_paste",
+    "powah:dielectric_rod",
+    "powah:dielectric_rod_horizontal",
+    "powah:dielectric_casing",
+    "powah:capacitor_basic_tiny",
+    "powah:capacitor_basic",
+    "powah:energized_steel_block",
+    "powah:blazing_crystal_block",
+    "powah:niotic_crystal_block",
+    "powah:spirited_crystal_block",
+    "powah:nitro_crystal_block"
+  ]
+}

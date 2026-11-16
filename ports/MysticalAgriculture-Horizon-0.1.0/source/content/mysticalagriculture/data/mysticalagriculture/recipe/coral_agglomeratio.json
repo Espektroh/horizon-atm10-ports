@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "CO",
+    "PL"
+  ],
+  "key": {
+    "C": "minecraft:brain_coral_block",
+    "O": "minecraft:tube_coral_block",
+    "P": "minecraft:fire_coral_block",
+    "L": "minecraft:horn_coral_block"
+  },
+  "result": {
+    "id": "mysticalagriculture:coral_agglomeratio"
+  }
+}

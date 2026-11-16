@@ -1,0 +1,13 @@
+[package]
+name = "functionalstorage-glue-mockcheck"
+version = "0.0.0"
+edition = "2024"
+publish = false
+
+[dependencies]
+horizon_world = { path = "horizon_world" }
+horizon_client = { path = "horizon_client" }
+horizon_assets = { path = "horizon_assets" }
+
+[workspace]
+members = ["horizon_world", "horizon_client", "horizon_assets"]

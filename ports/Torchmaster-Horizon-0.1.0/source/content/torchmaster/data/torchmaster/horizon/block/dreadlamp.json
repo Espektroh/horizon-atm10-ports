@@ -1,0 +1,10 @@
+{
+  "template": "minecraft:glass",
+  "properties": {
+    "hardness": 1.0,
+    "explosion_resistance": 1.0,
+    "light": 15,
+    "sounds": "minecraft:oak_planks"
+  },
+  "item": true
+}

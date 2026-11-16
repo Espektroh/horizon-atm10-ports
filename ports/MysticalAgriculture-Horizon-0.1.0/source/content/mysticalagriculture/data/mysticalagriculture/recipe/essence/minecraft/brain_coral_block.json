@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "EEE",
+    "EDE",
+    "EEE"
+  ],
+  "key": {
+    "E": "mysticalagriculture:coral_essence",
+    "D": "minecraft:pink_dye"
+  },
+  "result": {
+    "id": "minecraft:brain_coral_block",
+    "count": 12
+  }
+}

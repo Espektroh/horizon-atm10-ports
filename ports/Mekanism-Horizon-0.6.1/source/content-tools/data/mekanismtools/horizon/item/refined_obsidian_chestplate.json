@@ -1,0 +1,40 @@
+{
+  "template": "minecraft:netherite_chestplate",
+  "components": {
+    "minecraft:max_damage": 1200,
+    "minecraft:attribute_modifiers": [
+      {
+        "type": "minecraft:armor",
+        "id": "minecraft:armor.chestplate",
+        "amount": 12.0,
+        "operation": "add_value",
+        "slot": "chest"
+      },
+      {
+        "type": "minecraft:armor_toughness",
+        "id": "minecraft:armor.chestplate",
+        "amount": 5.0,
+        "operation": "add_value",
+        "slot": "chest"
+      },
+      {
+        "type": "minecraft:knockback_resistance",
+        "id": "minecraft:armor.chestplate",
+        "amount": 0.2,
+        "operation": "add_value",
+        "slot": "chest"
+      }
+    ],
+    "minecraft:equippable": {
+      "slot": "chest",
+      "asset_id": "mekanismtools:refined_obsidian",
+      "equip_sound": "minecraft:item.armor.equip_iron"
+    },
+    "minecraft:enchantable": {
+      "value": 18
+    },
+    "minecraft:repairable": {
+      "items": "mekanism:ingot_refined_obsidian"
+    }
+  }
+}

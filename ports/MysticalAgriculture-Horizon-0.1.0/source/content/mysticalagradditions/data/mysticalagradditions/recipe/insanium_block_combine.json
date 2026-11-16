@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " E ",
+    "ECE",
+    " E "
+  ],
+  "key": {
+    "E": "mysticalagriculture:supremium_block",
+    "C": "mysticalagriculture:master_infusion_crystal"
+  },
+  "result": {
+    "id": "mysticalagradditions:insanium_block"
+  }
+}

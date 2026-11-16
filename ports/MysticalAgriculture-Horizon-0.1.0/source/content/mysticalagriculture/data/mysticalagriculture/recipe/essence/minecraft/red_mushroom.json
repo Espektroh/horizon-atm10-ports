@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " E ",
+    " F ",
+    " E "
+  ],
+  "key": {
+    "E": "mysticalagriculture:nature_essence",
+    "F": "mysticalagriculture:dirt_essence"
+  },
+  "result": {
+    "id": "minecraft:red_mushroom",
+    "count": 8
+  }
+}

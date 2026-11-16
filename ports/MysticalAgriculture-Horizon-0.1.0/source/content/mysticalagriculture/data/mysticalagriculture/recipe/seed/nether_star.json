@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "mysticalagriculture:seeds",
+  "pattern": [
+    "MEM",
+    "ESE",
+    "MEM"
+  ],
+  "key": {
+    "M": "minecraft:nether_star",
+    "E": "mysticalagradditions:insanium_essence",
+    "S": "mysticalagriculture:prosperity_seed_base"
+  },
+  "result": {
+    "id": "mysticalagriculture:nether_star_seeds"
+  }
+}

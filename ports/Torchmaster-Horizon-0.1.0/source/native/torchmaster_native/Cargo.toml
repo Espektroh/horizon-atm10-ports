@@ -1,0 +1,11 @@
+[package]
+name = "horizon-mod-torchmaster"
+version = "0.1.0"
+edition = "2024"
+rust-version = "1.95"
+license = "MIT"
+description = "Torchmaster for Horizon, a native mod (rules)"
+
+[lib]
+# This exact source is also injected as a same-crate module by horizon-mixins.
+path = "mixins/torchmaster_native/runtime.rs"

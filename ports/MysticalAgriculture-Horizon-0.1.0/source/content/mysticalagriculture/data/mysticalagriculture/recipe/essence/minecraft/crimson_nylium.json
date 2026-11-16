@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ENE",
+    "ENE",
+    "ENE"
+  ],
+  "key": {
+    "E": "mysticalagriculture:nether_essence",
+    "N": "mysticalagriculture:nature_essence"
+  },
+  "result": {
+    "id": "minecraft:crimson_nylium",
+    "count": 20
+  }
+}

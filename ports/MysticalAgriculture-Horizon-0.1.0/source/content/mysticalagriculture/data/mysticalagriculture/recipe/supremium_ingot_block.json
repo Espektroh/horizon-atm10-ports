@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": "mysticalagriculture:supremium_ingot"
+  },
+  "result": {
+    "id": "mysticalagriculture:supremium_ingot_block"
+  }
+}

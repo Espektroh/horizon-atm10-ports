@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "mekanism:block_refined_glowstone"
+  ],
+  "result": {
+    "id": "mekanism:ingot_refined_glowstone",
+    "count": 9
+  }
+}

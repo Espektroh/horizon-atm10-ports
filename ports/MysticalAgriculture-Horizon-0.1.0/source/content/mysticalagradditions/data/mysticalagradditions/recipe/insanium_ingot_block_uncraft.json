@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "mysticalagradditions:insanium_ingot_block"
+  ],
+  "result": {
+    "id": "mysticalagradditions:insanium_ingot",
+    "count": 9
+  }
+}

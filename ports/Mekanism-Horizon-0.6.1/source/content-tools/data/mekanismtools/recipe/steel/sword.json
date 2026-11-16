@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "I",
+    "I",
+    "R"
+  ],
+  "key": {
+    "I": "mekanism:ingot_steel",
+    "R": "minecraft:stick"
+  },
+  "result": {
+    "id": "mekanismtools:steel_sword",
+    "count": 1
+  }
+}

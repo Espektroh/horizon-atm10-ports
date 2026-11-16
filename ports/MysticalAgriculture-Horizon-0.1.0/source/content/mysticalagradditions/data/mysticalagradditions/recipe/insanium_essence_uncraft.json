@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "mysticalagradditions:insanium_essence"
+  ],
+  "result": {
+    "id": "mysticalagriculture:supremium_essence",
+    "count": 4
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "EF ",
+    "FE ",
+    "   "
+  ],
+  "key": {
+    "E": "mysticalagriculture:dirt_essence",
+    "F": "mysticalagriculture:stone_essence"
+  },
+  "result": {
+    "id": "minecraft:gravel",
+    "count": 16
+  }
+}

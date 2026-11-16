@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ddd",
+    "ici",
+    "ddd"
+  ],
+  "key": {
+    "c": "powah:capacitor_basic",
+    "d": "powah:dielectric_rod_horizontal",
+    "i": "minecraft:iron_ingot"
+  },
+  "result": {
+    "id": "powah:energy_cable_basic",
+    "count": 12
+  }
+}

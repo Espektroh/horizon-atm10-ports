@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "E  ",
+    " E ",
+    " E "
+  ],
+  "key": {
+    "E": "mysticalagriculture:wood_essence"
+  },
+  "result": {
+    "id": "minecraft:jungle_log",
+    "count": 16
+  }
+}

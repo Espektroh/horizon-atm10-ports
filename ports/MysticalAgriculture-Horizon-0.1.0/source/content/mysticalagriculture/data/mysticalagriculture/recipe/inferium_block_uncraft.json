@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "mysticalagriculture:inferium_block"
+  ],
+  "result": {
+    "id": "mysticalagriculture:inferium_essence",
+    "count": 9
+  }
+}

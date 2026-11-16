@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "E  ",
+    "EE ",
+    "   "
+  ],
+  "key": {
+    "E": "mysticalagriculture:wood_essence"
+  },
+  "result": {
+    "id": "minecraft:mangrove_log",
+    "count": 16
+  }
+}

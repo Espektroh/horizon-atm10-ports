@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ESE",
+    "WDW",
+    "ESE"
+  ],
+  "key": {
+    "E": "mysticalagradditions:insanium_essence",
+    "S": "minecraft:nether_star",
+    "W": "mysticalagradditions:withering_soul",
+    "D": "minecraft:diamond_block"
+  },
+  "result": {
+    "id": "mysticalagradditions:nether_star_crux"
+  }
+}

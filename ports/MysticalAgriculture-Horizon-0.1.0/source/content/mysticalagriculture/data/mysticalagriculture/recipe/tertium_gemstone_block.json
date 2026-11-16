@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": "mysticalagriculture:tertium_gemstone"
+  },
+  "result": {
+    "id": "mysticalagriculture:tertium_gemstone_block"
+  }
+}

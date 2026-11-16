@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#minecraft:is_end",
+  "features": "mysticalagradditions:end_prosperity_ore",
+  "step": "underground_ores"
+}

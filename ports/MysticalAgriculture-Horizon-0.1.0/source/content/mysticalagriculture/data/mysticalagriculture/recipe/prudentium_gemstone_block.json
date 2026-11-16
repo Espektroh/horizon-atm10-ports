@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": "mysticalagriculture:prudentium_gemstone"
+  },
+  "result": {
+    "id": "mysticalagriculture:prudentium_gemstone_block"
+  }
+}

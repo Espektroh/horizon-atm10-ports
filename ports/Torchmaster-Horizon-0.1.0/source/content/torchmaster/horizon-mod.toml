@@ -1,0 +1,9 @@
+id = "torchmaster"
+name = "Torchmaster"
+version = "21.1.12-horizon.1"
+description = "Mega Tocha, Lampada do Medo e Lanterna Feroz, portadas do Torchmaster. Precisa do mod nativo torchmaster_native para funcionar."
+authors = ["Xalcon (original, MIT)", "port Horizon (Utilidades ATM)"]
+# A content mod: blocks and items from data/ and assets/, no code (API 0.2).
+api = "0.2"
+side = "both"
+capabilities = ["registries"]

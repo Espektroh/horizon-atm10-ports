@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "AEA",
+    "IPI",
+    "AEA"
+  ],
+  "key": {
+    "A": "mekanism:alloy_infused",
+    "E": "minecraft:redstone_block",
+    "I": "mekanism:ingot_osmium",
+    "P": "mekanism:basic_energy_cube"
+  },
+  "result": {
+    "id": "mekanism:advanced_energy_cube",
+    "count": 1
+  }
+}

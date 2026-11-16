@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "EE ",
+    "  E",
+    "   "
+  ],
+  "key": {
+    "E": "mysticalagriculture:nature_essence"
+  },
+  "result": {
+    "id": "minecraft:wheat",
+    "count": 8
+  }
+}

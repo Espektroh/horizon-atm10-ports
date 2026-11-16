@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "powah:spirited_crystal_block"
+  ],
+  "result": {
+    "id": "powah:crystal_spirited",
+    "count": 9
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": "mekanism:ingot_refined_obsidian"
+  },
+  "result": {
+    "id": "mekanism:block_refined_obsidian",
+    "count": 1
+  }
+}

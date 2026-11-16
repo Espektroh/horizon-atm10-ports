@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "mysticalagriculture:prosperity_gemstone_block"
+  ],
+  "result": {
+    "id": "mysticalagriculture:prosperity_gemstone",
+    "count": 9
+  }
+}

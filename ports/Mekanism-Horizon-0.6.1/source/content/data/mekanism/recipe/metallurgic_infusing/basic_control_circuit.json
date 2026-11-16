@@ -1,0 +1,11 @@
+{
+  "type": "mekanism:metallurgic_infusing",
+  "input": "mekanism:ingot_osmium",
+  "input_count": 1,
+  "infuse_type": "redstone",
+  "infuse_amount": 20,
+  "output": {
+    "id": "mekanism:basic_control_circuit",
+    "count": 1
+  }
+}

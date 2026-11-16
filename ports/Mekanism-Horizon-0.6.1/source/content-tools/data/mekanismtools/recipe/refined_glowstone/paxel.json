@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "APS",
+    " R ",
+    " R "
+  ],
+  "key": {
+    "A": "mekanismtools:refined_glowstone_axe",
+    "P": "mekanismtools:refined_glowstone_pickaxe",
+    "S": "mekanismtools:refined_glowstone_shovel",
+    "R": "minecraft:stick"
+  },
+  "result": {
+    "id": "mekanismtools:refined_glowstone_paxel",
+    "count": 1
+  }
+}

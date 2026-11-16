@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "facing=north,lit=false": {
+      "model": "powah:block/energy_cell_basic"
+    },
+    "facing=north,lit=true": {
+      "model": "powah:block/energy_cell_basic"
+    },
+    "facing=east,lit=false": {
+      "model": "powah:block/energy_cell_basic"
+    },
+    "facing=east,lit=true": {
+      "model": "powah:block/energy_cell_basic"
+    },
+    "facing=south,lit=false": {
+      "model": "powah:block/energy_cell_basic"
+    },
+    "facing=south,lit=true": {
+      "model": "powah:block/energy_cell_basic"
+    },
+    "facing=west,lit=false": {
+      "model": "powah:block/energy_cell_basic"
+    },
+    "facing=west,lit=true": {
+      "model": "powah:block/energy_cell_basic"
+    }
+  }
+}

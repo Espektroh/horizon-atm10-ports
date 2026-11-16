@@ -1,0 +1,10 @@
+{
+  "type": "powah:energizing",
+  "energy": 1000000,
+  "ingredients": [
+    "minecraft:emerald"
+  ],
+  "result": {
+    "id": "powah:crystal_spirited"
+  }
+}

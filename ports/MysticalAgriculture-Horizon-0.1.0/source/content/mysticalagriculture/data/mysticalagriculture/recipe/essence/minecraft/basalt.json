@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "EEE",
+    "EFE",
+    "EEE"
+  ],
+  "key": {
+    "E": "mysticalagriculture:nether_essence",
+    "F": "mysticalagriculture:ice_essence"
+  },
+  "result": {
+    "id": "minecraft:basalt",
+    "count": 20
+  }
+}

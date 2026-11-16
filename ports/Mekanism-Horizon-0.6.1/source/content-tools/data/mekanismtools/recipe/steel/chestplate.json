@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "I I",
+    "III",
+    "III"
+  ],
+  "key": {
+    "I": "mekanism:ingot_steel"
+  },
+  "result": {
+    "id": "mekanismtools:steel_chestplate",
+    "count": 1
+  }
+}

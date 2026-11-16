@@ -1,0 +1,40 @@
+{
+  "template": "minecraft:iron_leggings",
+  "components": {
+    "minecraft:max_damage": 450,
+    "minecraft:attribute_modifiers": [
+      {
+        "type": "minecraft:armor",
+        "id": "minecraft:armor.leggings",
+        "amount": 6.0,
+        "operation": "add_value",
+        "slot": "legs"
+      },
+      {
+        "type": "minecraft:armor_toughness",
+        "id": "minecraft:armor.leggings",
+        "amount": 3.0,
+        "operation": "add_value",
+        "slot": "legs"
+      },
+      {
+        "type": "minecraft:knockback_resistance",
+        "id": "minecraft:armor.leggings",
+        "amount": 0.1,
+        "operation": "add_value",
+        "slot": "legs"
+      }
+    ],
+    "minecraft:equippable": {
+      "slot": "legs",
+      "asset_id": "mekanismtools:osmium",
+      "equip_sound": "minecraft:item.armor.equip_iron"
+    },
+    "minecraft:enchantable": {
+      "value": 14
+    },
+    "minecraft:repairable": {
+      "items": "mekanism:ingot_osmium"
+    }
+  }
+}

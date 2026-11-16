@@ -1,0 +1,8 @@
+{
+  "template": "minecraft:chorus_plant",
+  "properties": {
+    "hardness": 2.0
+  },
+  "connects_to": "#powah:cable_connects",
+  "thickness": 4
+}

@@ -1,0 +1,9 @@
+{
+  "type": "mekanism:crushing",
+  "input": "minecraft:bone",
+  "input_count": 1,
+  "output": {
+    "id": "minecraft:bone_meal",
+    "count": 6
+  }
+}

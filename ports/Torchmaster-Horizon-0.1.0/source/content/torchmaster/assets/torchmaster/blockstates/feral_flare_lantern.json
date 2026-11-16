@@ -1,0 +1,26 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "torchmaster:block/feral_flare_lantern"
+      }
+    },
+    {
+      "apply": {
+        "model": "torchmaster:block/feral_flare_lantern_stand"
+      },
+      "when": {
+        "hanging": "false"
+      }
+    },
+    {
+      "apply": {
+        "model": "torchmaster:block/feral_flare_lantern_stand",
+        "x": 180
+      },
+      "when": {
+        "hanging": "true"
+      }
+    }
+  ]
+}

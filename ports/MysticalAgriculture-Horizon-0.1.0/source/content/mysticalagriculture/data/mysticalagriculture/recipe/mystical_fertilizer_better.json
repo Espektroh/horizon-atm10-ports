@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "%#%",
+    "#X#",
+    "%#%"
+  ],
+  "key": {
+    "#": "mysticalagriculture:fertilized_essence",
+    "%": "mysticalagriculture:inferium_essence",
+    "X": "minecraft:diamond"
+  },
+  "result": {
+    "id": "mysticalagriculture:mystical_fertilizer",
+    "count": 8
+  }
+}

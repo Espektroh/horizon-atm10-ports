@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "mysticalagriculture:supremium_ingot"
+  ],
+  "result": {
+    "id": "mysticalagriculture:supremium_nugget",
+    "count": 9
+  }
+}

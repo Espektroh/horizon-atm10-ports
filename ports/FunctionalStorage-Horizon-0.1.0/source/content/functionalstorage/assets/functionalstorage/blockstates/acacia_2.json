@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "functionalstorage:block/acacia_2"
+    },
+    "facing=east": {
+      "model": "functionalstorage:block/acacia_2",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "functionalstorage:block/acacia_2",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "functionalstorage:block/acacia_2",
+      "y": 270
+    }
+  }
+}

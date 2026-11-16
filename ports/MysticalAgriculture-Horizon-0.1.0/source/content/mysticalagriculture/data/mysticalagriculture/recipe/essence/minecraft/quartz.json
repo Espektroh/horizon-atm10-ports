@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "EEE",
+    "E E",
+    "EEE"
+  ],
+  "key": {
+    "E": "mysticalagriculture:nether_quartz_essence"
+  },
+  "result": {
+    "id": "minecraft:quartz",
+    "count": 12
+  }
+}

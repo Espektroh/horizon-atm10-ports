@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " # ",
+    "#X#",
+    " # "
+  ],
+  "key": {
+    "#": "mysticalagriculture:tertium_block",
+    "X": "mysticalagriculture:master_infusion_crystal"
+  },
+  "result": {
+    "id": "mysticalagriculture:imperium_block"
+  }
+}

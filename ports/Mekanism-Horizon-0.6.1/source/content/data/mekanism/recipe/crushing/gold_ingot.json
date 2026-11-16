@@ -1,0 +1,9 @@
+{
+  "type": "mekanism:crushing",
+  "input": "minecraft:gold_ingot",
+  "input_count": 1,
+  "output": {
+    "id": "mekanism:dust_gold",
+    "count": 1
+  }
+}

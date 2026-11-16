@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  E",
+    "  E",
+    "E  "
+  ],
+  "key": {
+    "E": "mysticalagriculture:dye_essence"
+  },
+  "result": {
+    "id": "minecraft:lime_dye",
+    "count": 6
+  }
+}

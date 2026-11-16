@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ACA",
+    "GXG",
+    "ACA"
+  ],
+  "key": {
+    "A": "mekanism:alloy_infused",
+    "C": "mekanism:basic_control_circuit",
+    "G": "minecraft:glass",
+    "X": "mekanism:steel_casing"
+  },
+  "result": {
+    "id": "mekanism:energized_smelter",
+    "count": 1
+  }
+}

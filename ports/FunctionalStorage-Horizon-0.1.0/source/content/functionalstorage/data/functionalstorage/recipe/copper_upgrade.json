@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "IBI",
+    "CDC",
+    "IBI"
+  ],
+  "key": {
+    "I": "minecraft:copper_ingot",
+    "B": "minecraft:copper_block",
+    "C": [
+      "minecraft:chest",
+      "minecraft:trapped_chest"
+    ],
+    "D": "#functionalstorage:drawer"
+  },
+  "result": {
+    "id": "functionalstorage:copper_upgrade",
+    "count": 1
+  }
+}

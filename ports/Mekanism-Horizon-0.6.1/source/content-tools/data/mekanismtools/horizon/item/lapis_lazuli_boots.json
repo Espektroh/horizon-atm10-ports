@@ -1,0 +1,33 @@
+{
+  "template": "minecraft:iron_boots",
+  "components": {
+    "minecraft:max_damage": 130,
+    "minecraft:attribute_modifiers": [
+      {
+        "type": "minecraft:armor",
+        "id": "minecraft:armor.boots",
+        "amount": 1.0,
+        "operation": "add_value",
+        "slot": "feet"
+      },
+      {
+        "type": "minecraft:armor_toughness",
+        "id": "minecraft:armor.boots",
+        "amount": 0.0,
+        "operation": "add_value",
+        "slot": "feet"
+      }
+    ],
+    "minecraft:equippable": {
+      "slot": "feet",
+      "asset_id": "mekanismtools:lapis_lazuli",
+      "equip_sound": "minecraft:item.armor.equip_diamond"
+    },
+    "minecraft:enchantable": {
+      "value": 32
+    },
+    "minecraft:repairable": {
+      "items": "minecraft:lapis_lazuli"
+    }
+  }
+}

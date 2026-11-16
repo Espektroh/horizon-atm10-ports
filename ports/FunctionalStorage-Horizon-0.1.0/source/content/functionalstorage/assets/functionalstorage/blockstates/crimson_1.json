@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "functionalstorage:block/crimson_1"
+    },
+    "facing=east": {
+      "model": "functionalstorage:block/crimson_1",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "functionalstorage:block/crimson_1",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "functionalstorage:block/crimson_1",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "EEE",
+    "EFE",
+    "EEE"
+  ],
+  "key": {
+    "E": "mysticalagriculture:dirt_essence",
+    "F": "mysticalagriculture:nature_essence"
+  },
+  "result": {
+    "id": "minecraft:grass_block",
+    "count": 20
+  }
+}

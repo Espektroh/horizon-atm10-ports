@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "I#I",
+    "ROR",
+    "I#I"
+  ],
+  "key": {
+    "I": "minecraft:iron_ingot",
+    "#": "minecraft:furnace",
+    "R": "minecraft:redstone",
+    "O": "mekanism:ingot_osmium"
+  },
+  "result": {
+    "id": "mekanism:metallurgic_infuser",
+    "count": 1
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "template": "minecraft:nether_gold_ore",
+  "properties": {
+    "hardness": 3.0
+  }
+}

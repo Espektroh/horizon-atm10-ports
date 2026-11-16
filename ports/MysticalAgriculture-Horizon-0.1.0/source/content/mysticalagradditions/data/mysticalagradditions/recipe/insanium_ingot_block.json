@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "EEE",
+    "EEE",
+    "EEE"
+  ],
+  "key": {
+    "E": "mysticalagradditions:insanium_ingot"
+  },
+  "result": {
+    "id": "mysticalagradditions:insanium_ingot_block"
+  }
+}

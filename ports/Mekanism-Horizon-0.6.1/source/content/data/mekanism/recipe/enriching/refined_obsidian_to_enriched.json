@@ -1,0 +1,9 @@
+{
+  "type": "mekanism:enriching",
+  "input": "mekanism:dust_refined_obsidian",
+  "input_count": 1,
+  "output": {
+    "id": "mekanism:enriched_refined_obsidian",
+    "count": 1
+  }
+}

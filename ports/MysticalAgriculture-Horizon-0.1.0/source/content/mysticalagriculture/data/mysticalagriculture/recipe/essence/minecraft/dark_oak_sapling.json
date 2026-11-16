@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  E",
+    "  F",
+    "  E"
+  ],
+  "key": {
+    "E": "mysticalagriculture:wood_essence",
+    "F": "mysticalagriculture:nature_essence"
+  },
+  "result": {
+    "id": "minecraft:dark_oak_sapling",
+    "count": 8
+  }
+}

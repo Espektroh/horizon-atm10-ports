@@ -1,0 +1,24 @@
+{
+  "title": "itemGroup.mysticalagradditions",
+  "icon": "mysticalagradditions:insanium_essence",
+  "items": [
+    "mysticalagradditions:insanium_essence",
+    "mysticalagradditions:insanium_ingot",
+    "mysticalagradditions:insanium_nugget",
+    "mysticalagradditions:insanium_gemstone",
+    "mysticalagradditions:withering_soul",
+    "mysticalagradditions:dragon_scale",
+    "mysticalagradditions:nether_star_shard",
+    "mysticalagradditions:dragon_egg_chunk",
+    "mysticalagradditions:insanium_block",
+    "mysticalagradditions:insanium_ingot_block",
+    "mysticalagradditions:insanium_gemstone_block",
+    "mysticalagradditions:insanium_farmland",
+    "mysticalagradditions:nether_inferium_ore",
+    "mysticalagradditions:nether_prosperity_ore",
+    "mysticalagradditions:end_inferium_ore",
+    "mysticalagradditions:end_prosperity_ore",
+    "mysticalagradditions:nether_star_crux",
+    "mysticalagradditions:dragon_egg_crux"
+  ]
+}

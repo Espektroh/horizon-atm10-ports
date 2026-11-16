@@ -1,0 +1,14 @@
+{
+  "values": [
+    "mekanismtools:osmium_shovel",
+    "mekanismtools:osmium_paxel",
+    "mekanismtools:steel_shovel",
+    "mekanismtools:steel_paxel",
+    "mekanismtools:lapis_lazuli_shovel",
+    "mekanismtools:lapis_lazuli_paxel",
+    "mekanismtools:refined_glowstone_shovel",
+    "mekanismtools:refined_glowstone_paxel",
+    "mekanismtools:refined_obsidian_shovel",
+    "mekanismtools:refined_obsidian_paxel"
+  ]
+}

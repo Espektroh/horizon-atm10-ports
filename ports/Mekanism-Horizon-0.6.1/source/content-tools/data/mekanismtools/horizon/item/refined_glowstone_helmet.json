@@ -1,0 +1,33 @@
+{
+  "template": "minecraft:iron_helmet",
+  "components": {
+    "minecraft:max_damage": 187,
+    "minecraft:attribute_modifiers": [
+      {
+        "type": "minecraft:armor",
+        "id": "minecraft:armor.helmet",
+        "amount": 3.0,
+        "operation": "add_value",
+        "slot": "head"
+      },
+      {
+        "type": "minecraft:armor_toughness",
+        "id": "minecraft:armor.helmet",
+        "amount": 0.0,
+        "operation": "add_value",
+        "slot": "head"
+      }
+    ],
+    "minecraft:equippable": {
+      "slot": "head",
+      "asset_id": "mekanismtools:refined_glowstone",
+      "equip_sound": "minecraft:item.armor.equip_iron"
+    },
+    "minecraft:enchantable": {
+      "value": 20
+    },
+    "minecraft:repairable": {
+      "items": "mekanism:ingot_refined_glowstone"
+    }
+  }
+}

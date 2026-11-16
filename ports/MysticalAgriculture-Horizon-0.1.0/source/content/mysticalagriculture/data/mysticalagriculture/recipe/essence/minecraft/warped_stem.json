@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " E ",
+    " N ",
+    " E "
+  ],
+  "key": {
+    "E": "mysticalagriculture:wood_essence",
+    "N": "mysticalagriculture:nether_essence"
+  },
+  "result": {
+    "id": "minecraft:warped_stem",
+    "count": 12
+  }
+}

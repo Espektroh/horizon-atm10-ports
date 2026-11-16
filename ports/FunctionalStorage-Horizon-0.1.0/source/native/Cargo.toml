@@ -1,0 +1,14 @@
+# Only for testing the native mod's rules (runtime.rs, std only) outside the game:
+#   cargo test --offline
+[package]
+name = "horizon-mod-functionalstorage"
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+description = "Functional Storage for Horizon: drawers, a native mod (rules)"
+
+[lib]
+# This exact source is also injected as a same-crate module by horizon-mixins.
+path = "mixins/functionalstorage_native/runtime.rs"
+
+[workspace]

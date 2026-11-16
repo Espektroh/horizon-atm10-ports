@@ -1,0 +1,14 @@
+{
+  "type": "powah:energizing",
+  "energy": 20000000,
+  "ingredients": [
+    "minecraft:nether_star",
+    "minecraft:redstone_block",
+    "minecraft:redstone_block",
+    "powah:blazing_crystal_block"
+  ],
+  "result": {
+    "id": "powah:crystal_nitro",
+    "count": 16
+  }
+}

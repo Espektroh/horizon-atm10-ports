@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " # ",
+    "#X#",
+    " # "
+  ],
+  "key": {
+    "#": "mysticalagriculture:prosperity_shard",
+    "X": "minecraft:wheat_seeds"
+  },
+  "result": {
+    "id": "mysticalagriculture:prosperity_seed_base"
+  }
+}

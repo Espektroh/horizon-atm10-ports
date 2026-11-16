@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "EEE",
+    "   ",
+    "   "
+  ],
+  "key": {
+    "E": "mysticalagriculture:honey_essence"
+  },
+  "result": {
+    "id": "minecraft:honeycomb",
+    "count": 6
+  }
+}

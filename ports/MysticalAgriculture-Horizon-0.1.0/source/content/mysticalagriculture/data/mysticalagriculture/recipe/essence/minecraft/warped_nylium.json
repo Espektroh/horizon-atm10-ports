@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "EEE",
+    "NNN",
+    "EEE"
+  ],
+  "key": {
+    "E": "mysticalagriculture:nether_essence",
+    "N": "mysticalagriculture:nature_essence"
+  },
+  "result": {
+    "id": "minecraft:warped_nylium",
+    "count": 20
+  }
+}

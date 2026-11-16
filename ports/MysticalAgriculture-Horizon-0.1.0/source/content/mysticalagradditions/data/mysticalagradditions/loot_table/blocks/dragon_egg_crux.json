@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "mysticalagradditions:blocks/dragon_egg_crux",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "mysticalagradditions:dragon_egg_crux"
+        }
+      ],
+      "condition": {
+        "type": "minecraft:survives_explosion"
+      }
+    }
+  ]
+}

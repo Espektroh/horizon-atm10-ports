@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "mysticalagriculture:blocks/nether_crop",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "mysticalagriculture:nether_seeds"
+        }
+      ]
+    },
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "mysticalagriculture:nether_essence"
+        }
+      ],
+      "condition": {
+        "block": "mysticalagriculture:nether_crop",
+        "properties": {
+          "age": "7"
+        },
+        "type": "minecraft:block_state_property"
+      }
+    }
+  ]
+}

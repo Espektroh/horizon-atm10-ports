@@ -1,0 +1,43 @@
+{
+  "template": "minecraft:iron_axe",
+  "components": {
+    "minecraft:max_damage": 384,
+    "minecraft:attribute_modifiers": [
+      {
+        "type": "minecraft:attack_damage",
+        "id": "minecraft:base_attack_damage",
+        "amount": 8.0,
+        "operation": "add_value",
+        "slot": "mainhand"
+      },
+      {
+        "type": "minecraft:attack_speed",
+        "id": "minecraft:base_attack_speed",
+        "amount": -2.9,
+        "operation": "add_value",
+        "slot": "mainhand"
+      }
+    ],
+    "minecraft:enchantable": {
+      "value": 20
+    },
+    "minecraft:repairable": {
+      "items": "mekanism:ingot_refined_glowstone"
+    },
+    "minecraft:tool": {
+      "rules": [
+        {
+          "blocks": "#minecraft:incorrect_for_diamond_tool",
+          "correct_for_drops": false
+        },
+        {
+          "blocks": "#minecraft:mineable/axe",
+          "correct_for_drops": true,
+          "speed": 15.0
+        }
+      ],
+      "default_mining_speed": 1.0,
+      "damage_per_block": 1
+    }
+  }
+}

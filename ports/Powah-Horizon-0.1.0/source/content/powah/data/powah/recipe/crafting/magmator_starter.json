@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ggg",
+    "cdc",
+    "gfg"
+  ],
+  "key": {
+    "c": "powah:capacitor_basic_tiny",
+    "d": "powah:dielectric_casing",
+    "f": "minecraft:bucket",
+    "g": "powah:dielectric_paste"
+  },
+  "result": {
+    "id": "powah:magmator_starter"
+  }
+}

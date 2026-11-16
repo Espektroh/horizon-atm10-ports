@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "AEA",
+    "IPI",
+    "AEA"
+  ],
+  "key": {
+    "A": "mekanism:alloy_reinforced",
+    "E": "minecraft:redstone_block",
+    "I": "minecraft:gold_ingot",
+    "P": "mekanism:advanced_energy_cube"
+  },
+  "result": {
+    "id": "mekanism:elite_energy_cube",
+    "count": 1
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "mysticalagriculture:tertium_ingot"
+  ],
+  "result": {
+    "id": "mysticalagriculture:tertium_nugget",
+    "count": 9
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "mysticalagriculture:blocks/inferium_block",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "mysticalagriculture:inferium_block"
+        }
+      ],
+      "condition": {
+        "type": "minecraft:survives_explosion"
+      }
+    }
+  ]
+}

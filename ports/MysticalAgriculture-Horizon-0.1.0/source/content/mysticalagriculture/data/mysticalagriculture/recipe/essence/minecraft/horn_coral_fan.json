@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "E E",
+    " D ",
+    "E E"
+  ],
+  "key": {
+    "E": "mysticalagriculture:coral_essence",
+    "D": "minecraft:yellow_dye"
+  },
+  "result": {
+    "id": "minecraft:horn_coral_fan",
+    "count": 6
+  }
+}

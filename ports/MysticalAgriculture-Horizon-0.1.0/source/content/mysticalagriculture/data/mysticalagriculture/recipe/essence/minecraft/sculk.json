@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "   ",
+    "EEE",
+    "   "
+  ],
+  "key": {
+    "E": "mysticalagriculture:sculk_essence"
+  },
+  "result": {
+    "id": "minecraft:sculk",
+    "count": 16
+  }
+}

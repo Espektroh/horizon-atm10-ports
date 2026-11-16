@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "EEE",
+    "EEE",
+    "EEE"
+  ],
+  "key": {
+    "E": "mysticalagriculture:nature_essence"
+  },
+  "result": {
+    "id": "minecraft:melon",
+    "count": 16
+  }
+}

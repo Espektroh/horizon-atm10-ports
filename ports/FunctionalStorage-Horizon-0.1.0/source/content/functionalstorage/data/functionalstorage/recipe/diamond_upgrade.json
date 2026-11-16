@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "IBI",
+    "CDC",
+    "IBI"
+  ],
+  "key": {
+    "I": "minecraft:diamond",
+    "B": "minecraft:diamond_block",
+    "C": [
+      "minecraft:chest",
+      "minecraft:trapped_chest"
+    ],
+    "D": "functionalstorage:gold_upgrade"
+  },
+  "result": {
+    "id": "functionalstorage:diamond_upgrade",
+    "count": 1
+  }
+}

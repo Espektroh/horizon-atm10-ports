@@ -1,0 +1,33 @@
+{
+  "template": "minecraft:iron_leggings",
+  "components": {
+    "minecraft:max_damage": 255,
+    "minecraft:attribute_modifiers": [
+      {
+        "type": "minecraft:armor",
+        "id": "minecraft:armor.leggings",
+        "amount": 6.0,
+        "operation": "add_value",
+        "slot": "legs"
+      },
+      {
+        "type": "minecraft:armor_toughness",
+        "id": "minecraft:armor.leggings",
+        "amount": 0.0,
+        "operation": "add_value",
+        "slot": "legs"
+      }
+    ],
+    "minecraft:equippable": {
+      "slot": "legs",
+      "asset_id": "mekanismtools:refined_glowstone",
+      "equip_sound": "minecraft:item.armor.equip_iron"
+    },
+    "minecraft:enchantable": {
+      "value": 20
+    },
+    "minecraft:repairable": {
+      "items": "mekanism:ingot_refined_glowstone"
+    }
+  }
+}

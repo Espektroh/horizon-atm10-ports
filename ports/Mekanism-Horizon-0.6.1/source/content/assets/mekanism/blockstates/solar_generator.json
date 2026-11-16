@@ -1,0 +1,9 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "mekanismgenerators:block/solar_generator"
+      }
+    }
+  ]
+}

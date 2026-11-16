@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " E ",
+    "EDE",
+    " E "
+  ],
+  "key": {
+    "E": "mysticalagriculture:coral_essence",
+    "D": "minecraft:magenta_dye"
+  },
+  "result": {
+    "id": "minecraft:bubble_coral",
+    "count": 8
+  }
+}

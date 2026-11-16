@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ECE",
+    "CDC",
+    "ECE"
+  ],
+  "key": {
+    "E": "mysticalagradditions:insanium_essence",
+    "C": "mysticalagradditions:dragon_scale",
+    "D": "minecraft:diamond_block"
+  },
+  "result": {
+    "id": "mysticalagradditions:dragon_egg_crux"
+  }
+}

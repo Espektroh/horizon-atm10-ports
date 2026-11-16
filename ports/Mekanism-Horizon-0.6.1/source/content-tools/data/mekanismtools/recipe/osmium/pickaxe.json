@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "III",
+    " R ",
+    " R "
+  ],
+  "key": {
+    "I": "mekanism:ingot_osmium",
+    "R": "minecraft:stick"
+  },
+  "result": {
+    "id": "mekanismtools:osmium_pickaxe",
+    "count": 1
+  }
+}

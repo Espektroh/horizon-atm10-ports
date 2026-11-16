@@ -1,0 +1,5 @@
+# Only for testing the native mods' rules (runtime.rs, std only) outside the game:
+#   cargo test --offline
+[workspace]
+members = ["torchmaster_native"]
+resolver = "2"

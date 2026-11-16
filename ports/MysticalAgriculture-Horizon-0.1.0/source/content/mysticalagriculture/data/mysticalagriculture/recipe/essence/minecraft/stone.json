@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "EEE",
+    "ECE",
+    "EEE"
+  ],
+  "key": {
+    "E": "mysticalagriculture:stone_essence",
+    "C": "mysticalagriculture:coal_essence"
+  },
+  "result": {
+    "id": "minecraft:stone",
+    "count": 20
+  }
+}

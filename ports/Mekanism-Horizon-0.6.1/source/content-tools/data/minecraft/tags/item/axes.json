@@ -1,0 +1,14 @@
+{
+  "values": [
+    "mekanismtools:osmium_axe",
+    "mekanismtools:osmium_paxel",
+    "mekanismtools:steel_axe",
+    "mekanismtools:steel_paxel",
+    "mekanismtools:lapis_lazuli_axe",
+    "mekanismtools:lapis_lazuli_paxel",
+    "mekanismtools:refined_glowstone_axe",
+    "mekanismtools:refined_glowstone_paxel",
+    "mekanismtools:refined_obsidian_axe",
+    "mekanismtools:refined_obsidian_paxel"
+  ]
+}

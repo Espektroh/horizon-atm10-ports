@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " E ",
+    " F ",
+    " E "
+  ],
+  "key": {
+    "E": "mysticalagriculture:nature_essence",
+    "F": "mysticalagriculture:nether_essence"
+  },
+  "result": {
+    "id": "minecraft:warped_fungus",
+    "count": 4
+  }
+}

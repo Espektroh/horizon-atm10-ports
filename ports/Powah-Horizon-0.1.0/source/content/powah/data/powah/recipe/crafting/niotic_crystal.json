@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "powah:niotic_crystal_block"
+  ],
+  "result": {
+    "id": "powah:crystal_niotic",
+    "count": 9
+  }
+}

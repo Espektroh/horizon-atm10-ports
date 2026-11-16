@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ENE",
+    "   ",
+    "   "
+  ],
+  "key": {
+    "E": "mysticalagriculture:end_essence",
+    "N": "mysticalagriculture:nature_essence"
+  },
+  "result": {
+    "id": "minecraft:chorus_fruit",
+    "count": 8
+  }
+}

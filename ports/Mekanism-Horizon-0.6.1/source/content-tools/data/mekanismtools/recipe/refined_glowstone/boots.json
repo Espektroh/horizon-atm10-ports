@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "I I",
+    "I I"
+  ],
+  "key": {
+    "I": "mekanism:ingot_refined_glowstone"
+  },
+  "result": {
+    "id": "mekanismtools:refined_glowstone_boots",
+    "count": 1
+  }
+}

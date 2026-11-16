@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "EEE",
+    "ECE",
+    "EEE"
+  ],
+  "key": {
+    "E": "mysticalagriculture:deepslate_essence",
+    "C": "mysticalagriculture:coal_essence"
+  },
+  "result": {
+    "id": "minecraft:deepslate",
+    "count": 20
+  }
+}

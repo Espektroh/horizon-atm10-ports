@@ -1,0 +1,6 @@
+{
+  "type": "mekanism:infuse_conversion",
+  "input": "mekanism:enriched_carbon",
+  "infuse_type": "carbon",
+  "amount": 80
+}

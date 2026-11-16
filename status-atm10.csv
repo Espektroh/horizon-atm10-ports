@@ -1,0 +1,496 @@
+Mod,mod_id,Status,Port,Tier,Classe,Licença,Link,Observação
+Mekanism,mekanism,"Seu port (instalado, falta Build)",Seu port: Mekanism 0.6.0 (+ Mekanism Tools),deep,content,permissiva,,
+Sophisticated Backpacks,sophisticatedbackpacks,"Seu port (instalado, falta Build)",Seu port: Backpacks 0.2.0 (upgrades),deep,content,ARR (só uso pessoal),,
+Mystical Agriculture,mysticalagriculture,"Seu port (instalado, falta Build)",Seu port: Mystical Agriculture 0.1.0,machines,content,permissiva,,
+Mystical Agradditions,mysticalagradditions,"Seu port (instalado, falta Build)",Seu port: Mystical Agradditions 0.1.0,logic,content,permissiva,,
+Simple Magnets,simplemagnets,"Seu port (instalado, falta Build)",Seu port: Simple Magnets 0.1.0,logic,content,ARR (só uso pessoal),,
+Torchmaster,torchmaster,"Seu port (instalado, falta Build)",Seu port: Torchmaster 0.1.0,logic,content,permissiva,,
+Mekanism: Tools,mekanismtools,"Seu port (instalado, falta Build)",Seu port: Mekanism Tools 0.6.0,data,content,permissiva,,o launcher carrega do seu jar: Modpacks > Port
+Allthemodium,allthemodium,Seu port (instalado),Seu port: minérios (allthemodium.hmod),deep,content,desconhecida,,
+Iron Furnaces,ironfurnaces,Seu port (instalado),Seu port: ironfurnaces_native 0.2.0,machines,content,permissiva,,
+PotionsMaster,potionsmaster,Seu port (instalado),Seu port: poções de visão,machines,content,desconhecida,,
+AllTheOres,alltheores,Seu port (instalado),Seu port: ore hammers,data,content,desconhecida,,
+Applied Energistics 2,ae2,Registro oficial,Registro: Applied Energistics 2 15.4.17,deep,content,custom,,
+Create,create,Registro oficial,Registro: Create 0.7.0-alpha,deep,content,custom,,
+Additional Lights,additional_lights,Registro oficial,Registro: Additional Lights,logic,content,desconhecida,,
+FTB Ultimine,ftbultimine,Registro oficial,Substituto no registro: Veinminer (instalado),logic,content,desconhecida,,
+I'm Fast,imfast,Registro oficial,Registro: I'm Fast,logic,content,permissiva,,
+Silent's Gems,silentgems,Registro oficial,Registro: Silent's Gems (conteúdo),logic,content,permissiva,,
+AppleSkin,appleskin,Registro oficial,Registro: AppleSkin,client,client-ui,permissiva,,
+Jade,jade,Registro oficial,Registro: Jade,client,client-ui,NC/ND,,
+Just Enough Items,jei,Registro oficial,Registro: JEI for Horizon,client,client-ui,permissiva,,
+Mouse Tweaks,mousetweaks,Registro oficial,Registro: MouseTweaks,client,client-ui,permissiva,,
+NotEnoughAnimations,notenoughanimations,Registro oficial,Registro: Not Enough Animations,client,client-ui,custom,,
+Factory Blocks,factory_blocks,Registro oficial,Registro: Factory Blocks,data,content,permissiva,,
+Macaw's Trapdoors,mcwtrpdoors,Registro oficial,Registro: Macaw's Trapdoors,data,content,permissiva,,
+Artifacts,artifacts,Port de terceiros,AdLf0208/artifacts (early-wip),deep,content,permissiva,https://github.com/AdLf0208/artifacts,3 artifacts working from main inventory/off hand (no curio slots)
+Building Gadgets 2,buildinggadgets2,Port de terceiros,AdLf0208/buildinggadgets2 (early-wip),deep,content,desconhecida,https://github.com/AdLf0208/buildinggadgets2,"building gadget, horizontal-row mode only"
+Ender IO,enderio,Port de terceiros,AdLf0208/enderio (early-wip),deep,content,permissiva,https://github.com/AdLf0208/enderio,"item conduit only (connections, per-side config, item transfer); no filters/tiers/machines"
+FramedBlocks,framedblocks,Port de terceiros,AdLf0208/framedblocks (early-wip),deep,content,copyleft,https://github.com/AdLf0208/framedblocks,full-cube frame only; no slopes/camo applicator
+IntegratedDynamics,integrateddynamics,Port de terceiros,AdLf0208/integrateddynamics (early-wip),deep,content,desconhecida,https://github.com/AdLf0208/integrateddynamics,logic cable + redstone reader/writer; no variable system
+Just Dire Things,justdirethings,Port de terceiros,AdLf0208/justdirethings (early-wip),deep,content,desconhecida,https://github.com/AdLf0208/justdirethings,Simple Coal Generator + 4 coals; no GUI/push-out
+Mining Gadgets,mininggadgets,Port de terceiros,AdLf0208/mininggadgets (playable-partial),deep,content,desconhecida,https://github.com/AdLf0208/mininggadgets,"mining gadget laser clears a plane for FE, upgrade data model"
+Modern Industrialization,modern_industrialization,Port de terceiros,AdLf0208/modern_industrialization (early-wip),deep,content,permissiva,https://github.com/AdLf0208/modern_industrialization,electric macerator only (EU->FE); no recipes for machine
+NaturesAura,naturesaura,Port de terceiros,AdLf0208/naturesaura (early-wip),deep,content,permissiva,https://github.com/AdLf0208/naturesaura,"aura chunk spots, nature altar multiblock, 3 rituals"
+Neo Vitae,neovitae,Port de terceiros,AdLf0208/neovitae (early-wip),deep,content,permissiva,https://github.com/AdLf0208/neovitae,blood altar (base tier) slice
+Occultism,occultism,Port de terceiros,AdLf0208/occultism (early-wip),deep,content,permissiva,https://github.com/AdLf0208/occultism,spirit fire block slice; no rituals/guide book
+PneumaticCraft: Repressurized,pneumaticcraft,Port de terceiros,AdLf0208/pneumaticcraft (early-wip),deep,content,copyleft,https://github.com/AdLf0208/pneumaticcraft,Flux Compressor (FE->air) only; no tubes/network
+Refined Storage,refinedstorage,Port de terceiros,AdLf0208/refinedstorage (early-wip),deep,content,permissiva,https://github.com/AdLf0208/refinedstorage,"network of 4 blocks (controller/cable/grid/disk) online check; no energy, no autocrafting, most blocks missing"
+Roots Classic,rootsclassic,Port de terceiros,AdLf0208/rootsclassic (early-wip),deep,content,desconhecida,https://github.com/AdLf0208/rootsclassic,"3 herbs, forage loot, food/effects; no rituals/spells"
+SecurityCraft,securitycraft,Port de terceiros,AdLf0208/securitycraft (playable-partial),deep,content,permissiva,https://github.com/AdLf0208/securitycraft,keypad (hashed code) and reinforced iron door
+Super Factory Manager (SFM),sfm,Port de terceiros,AdLf0208/sfm (early-wip),deep,content,copyleft,https://github.com/AdLf0208/sfm,"Factory Manager + cable, SFML subset (EVERY..INPUT/OUTPUT items)"
+Silent Gear,silentgear,Port de terceiros,AdLf0208/silentgear (early-wip),deep,content,permissiva,https://github.com/AdLf0208/silentgear,pickaxe assembly via command from blueprint/head/rod; stat block
+Theurgy,theurgy,Port de terceiros,AdLf0208/theurgy (early-wip),deep,content,permissiva,https://github.com/AdLf0208/theurgy,pyromantic brazier only; 9 processes missing
+Actually Additions,actuallyadditions,Port de terceiros,AdLf0208/actuallyadditions (early-wip),machines,content,permissiva,https://github.com/AdLf0208/actuallyadditions,Coal Generator and Crusher with FE; ~45 other machines missing
+Extreme Reactors,bigreactors,Port de terceiros,AdLf0208/bigreactors (early-wip),machines,content,permissiva,https://github.com/AdLf0208/bigreactors,smallest basic reactor multiblock (passive); no turbine/fluids
+BotanyPots,botanypots,Port de terceiros,AdLf0208/botanypots (playable-partial),machines,content,copyleft,https://github.com/AdLf0208/botanypots,terracotta botany pot growth + harvest; other 183 pot variants missing
+Charging Gadgets,charginggadgets,Port de terceiros,AdLf0208/charginggadgets (playable-partial),machines,content,desconhecida,https://github.com/AdLf0208/charginggadgets,"charging station (fuel -> 1M FE, charges gadget)"
+DimStorage,dimstorage,Port de terceiros,AdLf0208/dimstorage (playable-partial),machines,content,copyleft,https://github.com/AdLf0208/dimstorage,"dimensional chest, frequency-shared 54 slots, persisted; public channel only, no tank/tablet/GUI"
+Dis-Enchanting Table,disenchanting_table,Port de terceiros,AdLf0208/disenchanting_table (playable-partial),machines,content,ARR (só uso pessoal),https://github.com/AdLf0208/disenchanting_table,moves enchantments to book for 25 XP
+EnderStorage,enderstorage,Port de terceiros,AdLf0208/enderstorage (playable-partial),machines,content,permissiva,https://github.com/AdLf0208/enderstorage,frequency-linked 27-slot ender chests; tank and pouch deferred
+Farmer's Delight,farmersdelight,Port de terceiros,farmersdelight-horizon (Fraskas) (released),machines,content,permissiva,https://github.com/Fraskas/farmersdelight-horizon,"all FD 1.3.4 content + cooking pot, stove, skillet, cutting board, crops, rich soil, ropes; missing rotten tomato throw, Nourishment/Comfort"
+Flux Networks,fluxnetworks,Port de terceiros,AdLf0208/fluxnetworks (early-wip),machines,content,desconhecida,https://github.com/AdLf0208/fluxnetworks,"flux plug/point/storage, one network; no GUI/multi-network"
+Functional Storage,functionalstorage,Port de terceiros,AdLf0208/functionalstorage (early-wip),machines,content,permissiva,https://github.com/AdLf0208/functionalstorage,"ten wood 1x1 drawers (2048 cap); no left-click take, no upgrades, no other sizes"
+Hostile Neural Networks,hostilenetworks,Port de terceiros,AdLf0208/hostilenetworks (playable-partial),machines,content,permissiva,https://github.com/AdLf0208/hostilenetworks,Sim Chamber -> Prediction -> Loot Fabricator loop with FE; no kill-based model training
+Industrial Foregoing,industrialforegoing,Port de terceiros,AdLf0208/industrialforegoing (early-wip),machines,content,permissiva,https://github.com/AdLf0208/industrialforegoing,Water Condensator only; no GUI
+Laser Bridges,laserbridges,Port de terceiros,AdLf0208/laserbridges (early-wip),machines,content,permissiva,https://github.com/AdLf0208/laserbridges,4 laser sources + beams; receivers missing
+LaserIO,laserio,Port de terceiros,AdLf0208/laserio (early-wip),machines,content,desconhecida,https://github.com/AdLf0208/laserio,"laser node/connector, item card extract->insert"
+Modern Dynamics,moderndynamics,Port de terceiros,AdLf0208/moderndynamics (early-wip),machines,content,copyleft,https://github.com/AdLf0208/moderndynamics,item pipe + extractor attachment; no fluid/energy pipes
+Modular Routers,modularrouters,Port de terceiros,AdLf0208/modularrouters (early-wip),machines,content,permissiva,https://github.com/AdLf0208/modularrouters,router + Mk1 puller/sender modules only
+Powah,powah,Port de terceiros,AdLf0208/powah (playable-partial),machines,content,copyleft,https://github.com/AdLf0208/powah,"starter Furnator, Energy Cell, Energy Cable; other tiers/machines missing"
+QuarryPlus,quarryplus,Port de terceiros,AdLf0208/quarryplus (early-wip),machines,content,copyleft,https://github.com/AdLf0208/quarryplus,FE quarry mining fixed 3x3 shaft; no frames/markers/enchants
+Ranged Pumps,rangedpumps,Port de terceiros,AdLf0208/rangedpumps (playable-partial),machines,content,permissiva,https://github.com/AdLf0208/rangedpumps,"pump block scanning/draining sources into tank, adjacent output"
+RFToolsBase,rftoolsbase,Port de terceiros,AdLf0208/rftoolsbase (early-wip),machines,content,permissiva,https://github.com/AdLf0208/rftoolsbase,machine infuser only
+Tool Belt,toolbelt,Port de terceiros,AdLf0208/toolbelt (playable-partial),machines,content,desconhecida,https://github.com/AdLf0208/toolbelt,belt item with 2-9 slots and menu; no hotkey swap wheel
+Accelerated Decay,accelerateddecay,Port de terceiros,AdLf0208/accelerateddecay (playable-partial),logic,content,copyleft,https://github.com/AdLf0208/accelerateddecay,fast leaf decay after log break (not a full break event)
+Apothic Spawners,apothic_spawners,Port de terceiros,AdLf0208/apothic_spawners (early-wip),logic,content,permissiva,https://github.com/AdLf0208/apothic_spawners,separate spawner block + conversion; cannot override vanilla spawner
+Baubley Heart Canisters,bhc,Port de terceiros,AdLf0208/bhc (early-wip),logic,content,permissiva,https://github.com/AdLf0208/bhc,consumable heart items; no amulet/canister slots
+Bridging Mod,bridgingmod,Port de terceiros,bridgingMod-horizon (xiryuudev) (playable-partial),logic,content,permissiva,https://github.com/xiryuudev/bridgingMod-horizon,reach-around placement (port of BridgingMod 2.7.0)
+Bad Wither No Cookie Reloaded,bwncr,Port de terceiros,Bad Wither No Cookie - Reloaded (DeportedToHell) (playable-partial),logic,server-only,permissiva,https://github.com/DeportedToHell/MCRE-Mods/tree/main/bwncr,silences wither/dragon/thunder + listed sounds
+Construction Sticks,constructionstick,Port de terceiros,AdLf0208/constructionstick (playable-partial),logic,content,permissiva,https://github.com/AdLf0208/constructionstick,fills plane of clicked face per tier limit; facing lost
+ElevatorMod,elevatorid,Port de terceiros,AdLf0208/elevatorid (playable-partial),logic,content,permissiva,https://github.com/AdLf0208/elevatorid,elevator jump/sneak teleport logic
+Gravitational Modulating Additional Unit,gmut,Port de terceiros,AdLf0208/gmut (early-wip),logic,integration,desconhecida,https://github.com/AdLf0208/gmut,module item + speed component; flight blocked by missing attribute API
+Iron Jetpacks,ironjetpacks,Port de terceiros,AdLf0208/ironjetpacks (early-wip),logic,content,permissiva,https://github.com/AdLf0208/ironjetpacks,iron-tier jetpack flight only
+Measurements,measurements,Port de terceiros,AdLf0208/measurements (playable-partial),logic,content,permissiva,https://github.com/AdLf0208/measurements,"tape measure, action-bar readout instead of in-world box"
+More Red,morered,Port de terceiros,AdLf0208/morered (playable-partial),logic,content,permissiva,https://github.com/AdLf0208/morered,logic gate plates family (10 slices)
+Redstone Pen,redstonepen,Port de terceiros,AdLf0208/redstonepen (early-wip),logic,content,permissiva,https://github.com/AdLf0208/redstonepen,single-track redstone pen wires; simplified
+Refined Storage - Quartz Arsenal,refinedstorage_quartz_arsenal,Port de terceiros,AdLf0208/refinedstorage_quartz_arsenal (early-wip),logic,content,permissiva,https://github.com/AdLf0208/refinedstorage_quartz_arsenal,"2 wireless crafting grid items only, non-functional; recipe cannot match"
+Repeatable Trial Vaults,repeatable_trial_vaults,Port de terceiros,AdLf0208/repeatable_trial_vaults (playable-partial),logic,content,permissiva,https://github.com/AdLf0208/repeatable_trial_vaults,vault reset for rewarded players (uses pin internals)
+Restrictions,restrictions,Port de terceiros,AdLf0208/restrictions (early-wip),logic,content,permissiva,https://github.com/AdLf0208/restrictions,attractor/pusher; one-way blocks missing
+Spice of Life: Carrot Edition,solcarrot,Port de terceiros,AdLf0208/solcarrot (early-wip),logic,content,desconhecida,https://github.com/AdLf0208/solcarrot,food history + milestones
+Wither Skeleton Tweaks,wstweaks,Port de terceiros,AdLf0208/wstweaks (early-wip),logic,content,permissiva,https://github.com/AdLf0208/wstweaks,"wither skull fragments, conversion; no bows"
+Chipped,chipped,Port de terceiros,horizon-port-pack carry (upstream Horizon) (playable-partial),data,content,ARR (só uso pessoal),https://github.com/horizon-rust/horizon/blob/main/docs/modpacks.md,6849/6973 blocks carried; workbenches missing
+Cloud Glass,cloudglass,Port de terceiros,AdLf0208/cloudglass (playable-partial),data,content,permissiva,https://github.com/AdLf0208/cloudglass,16 cloud glass blocks
+Glassential-renewed,glassential,Port de terceiros,AdLf0208/glassential (playable-partial),data,content,permissiva,https://github.com/AdLf0208/glassential,glass variants as content + redstone/smart glass native; ethereal/ghostly collision missing
+Macaw's Doors,mcwdoors,Port de terceiros,AdLf0208/mcwdoors (playable-partial),data,content,permissiva,https://github.com/AdLf0208/mcwdoors,239 doors + door prints; garage doors/portcullis missing
+Macaw's Fences and Walls,mcwfences,Port de terceiros,AdLf0208/mcwfences (playable-partial),data,content,permissiva,https://github.com/AdLf0208/mcwfences,150 fences/gates/walls; 30 metal fences/curved gates missing
+Macaw's Paths and Pavings,mcwpaths,Port de terceiros,AdLf0208/mcwpaths (playable-partial),data,content,permissiva,https://github.com/AdLf0208/mcwpaths,all 315 path/paving blocks; engrave/flatten toggle missing
+MoogsVoyagerStructures,mvs,Port de terceiros,AdLf0208/mvs (playable-partial),data,content,permissiva,https://github.com/AdLf0208/mvs,130 Moog's Voyager structures carried to 26.3 worldgen
+Simply Light,simplylight,Port de terceiros,AdLf0208/simplylight (playable-partial),data,content,desconhecida,https://github.com/AdLf0208/simplylight,"160 light blocks, all colours"
+Ad Astra,ad_astra,Fila,,deep,content,custom,,
+The Aether,aether,Fila,,deep,content,custom,,
+Amendments,amendments,Fila,,deep,content,custom,,
+Apotheosis,apotheosis,Fila,,deep,content,permissiva,,
+Aquaculture 2,aquaculture,Fila,,deep,content,ARR (só uso pessoal),,
+Ars Elemental,ars_elemental,Fila,,deep,content,desconhecida,,
+Ars Nouveau,ars_nouveau,Fila,,deep,content,ARR (só uso pessoal),,
+Astral Sorcery,astralsorcery,Fila,,deep,content,desconhecida,,
+Auroral,auroral,Fila,,deep,content,permissiva,,
+Create: Bells & Whistles,bellsandwhistles,Fila,,deep,content,copyleft,,
+Oh The Biomes We've Gone,biomeswevegone,Fila,,deep,content,ARR (só uso pessoal),,
+L_Ender's Cataclysm 1.21.1,cataclysm,Fila,,deep,content,NC/ND,,
+Compact Machines,compactmachines,Fila,,deep,content,desconhecida,,
+CC: Tweaked,computercraft,Fila,,deep,content,custom,,
+Create: Copycats+,copycats,Fila,,deep,content,ARR (só uso pessoal),,
+Create Aquatic Ambitions,create_aquatic_ambitions,Fila,,deep,content,permissiva,,
+Create: Dragons Plus,create_dragons_plus,Fila,,deep,content,copyleft,,
+Create: Enchantment Industry,create_enchantment_industry,Fila,,deep,content,copyleft,,
+Create Hypertube,create_hypertube,Fila,,deep,content,permissiva,,
+Create Crafts & Additions,createaddition,Fila,,deep,content,permissiva,,
+Creeper Overhaul,creeperoverhaul,Fila,,deep,content,ARR (só uso pessoal),,
+Deeper and Darker,deeperdarker,Fila,,deep,content,copyleft,,
+Domum Ornamentum,domum_ornamentum,Fila,,deep,content,desconhecida,,
+Draconic Evolution,draconicevolution,Fila,,deep,content,custom,,
+MmmMmmMmmMmm,dummmmmmy,Fila,,deep,content,permissiva,,
+Dungeon Crawl,dungeoncrawl,Fila,,deep,content,copyleft,,
+Dyson Cube Project,dysoncubeproject,Fila,,deep,content,desconhecida,,
+Easy Villagers,easy_villagers,Fila,,deep,content,ARR (só uso pessoal),,
+Enderman Overhaul,endermanoverhaul,Fila,,deep,content,ARR (só uso pessoal),,
+Eternal Starlight,eternal_starlight,Fila,,deep,content,permissiva,,
+EvilCraft,evilcraft,Fila,,deep,content,permissiva,,
+Fireproof Boats,fireproofboats,Fila,,deep,content,ARR (só uso pessoal),,
+Forbidden Arcanus,forbidden_arcanus,Fila,,deep,content,ARR (só uso pessoal),,
+FTB Chunks,ftbchunks,Fila,,deep,server-only,desconhecida,,
+Gateways To Eternity,gateways,Fila,,deep,content,permissiva,,
+Ice And Fire Community Edition,iceandfire,Fila,,deep,content,copyleft,,
+Illager-Warship,illagerwarship,Fila,,deep,content,ARR (só uso pessoal),,
+Immersive Engineering,immersiveengineering,Fila,,deep,content,custom,,
+IntegratedCrafting,integratedcrafting,Fila,,deep,content,desconhecida,,
+IntegratedScripting,integratedscripting,Fila,,deep,content,desconhecida,,
+IntegratedTerminals,integratedterminals,Fila,,deep,content,desconhecida,,
+IntegratedTunnels,integratedtunnels,Fila,,deep,content,desconhecida,,
+Iron's Spells 'n Spellbooks,irons_spellbooks,Fila,,deep,content,ARR (só uso pessoal),,
+Little Big Redstone,little_big_redstone,Fila,,deep,content,permissiva,,
+Living Things,livingthings,Fila,,deep,content,NC/ND,,
+Mahou Tsukai,mahoutsukai,Fila,,deep,content,ARR (só uso pessoal),,
+Mekanism: Generators,mekanismgenerators,Fila,,deep,content,permissiva,,
+Modular Force Field System,mffs,Fila,,deep,content,ARR (só uso pessoal),,
+MineColonies,minecolonies,Fila,,deep,content,copyleft,,
+Oritech,oritech,Fila,,deep,content,permissiva,,
+Productive Bees,productivebees,Fila,,deep,content,ARR (só uso pessoal),,
+Railcraft Reborn,railcraft,Fila,,deep,content,custom,,
+MrCrayfish's Furniture Mod: Refurbished,refurbished_furniture,Fila,,deep,content,desconhecida,,
+Relics,relics,Fila,,deep,content,ARR (só uso pessoal),,
+Reliquary Reincarnations,reliquary,Fila,,deep,content,ARR (só uso pessoal),,
+RFToolsBuilder,rftoolsbuilder,Fila,,deep,content,permissiva,,
+Shrink,shrink,Fila,,deep,content,copyleft,,
+Sophisticated Backpacks Create Integration,sophisticatedbackpackscreateintegration,Fila,,deep,integration,ARR (só uso pessoal),,
+Sophisticated Storage Create Integration,sophisticatedstoragecreateintegration,Fila,,deep,integration,ARR (só uso pessoal),,
+Sophisticated Storage In Motion,sophisticatedstorageinmotion,Fila,,deep,integration,ARR (só uso pessoal),,
+StevesCarts2,stevescarts,Fila,,deep,content,desconhecida,,
+Supplementaries,supplementaries,Fila,,deep,content,custom,,
+Tempad,tempad,Fila,,deep,content,custom,,
+The Bumblezone,the_bumblezone,Fila,,deep,content,ARR (só uso pessoal),,
+Corail Tombstone,tombstone,Fila,,deep,content,ARR (só uso pessoal),,
+The Twilight Forest,twilightforest,Fila,,deep,content,desconhecida,,
+The Undergarden,undergarden,Fila,,deep,content,ARR (só uso pessoal),,
+Variants&Ventures,variantsandventures,Fila,,deep,content,NC/ND,,
+Ad Astra: Giselle Addon,ad_astra_giselle_addon,Fila,,machines,integration,permissiva,,
+Advanced AE,advanced_ae,Fila,,machines,content,copyleft,,
+Advanced Peripherals,advancedperipherals,Fila,,machines,integration,permissiva,,
+AE2 Import Export Card,ae2importexportcard,Fila,,machines,content,permissiva,,
+AE2NetworkAnalyzer,ae2netanalyser,Fila,,machines,content,desconhecida,,
+AE2WTLib,ae2wtlib,Fila,,machines,content,permissiva,,
+Apothic Enchanting,apothic_enchanting,Fila,,machines,content,permissiva,,
+AppliedFlux,appflux,Fila,,machines,content,desconhecida,,
+Applied Mekanistics,appmek,Fila,,machines,integration,copyleft,,
+Ars Technica,ars_technica,Fila,,machines,content,desconhecida,,
+Ars Énergistique,arseng,Fila,,machines,integration,copyleft,,
+Bibliocraft Legacy,bibliocraft,Fila,,machines,content,permissiva,,
+Cable Tiers,cabletiers,Fila,,machines,content,permissiva,,
+Chisel Reborn,chisel,Fila,,machines,content,custom,,
+Cobblegen Galore,cobblegengalore,Fila,,machines,content,desconhecida,,
+Cooking for Blockheads,cookingforblockheads,Fila,,machines,content,ARR (só uso pessoal),,
+CosmeticArmorReworked,cosmeticarmorreworked,Fila,,machines,content,desconhecida,,
+Ender Drives,enderdrives,Fila,,machines,content,permissiva,,
+Energy Meter,energymeter,Fila,,machines,content,ARR (só uso pessoal),,
+Entangled,entangled,Fila,,machines,content,ARR (só uso pessoal),,
+Expanded AE,expandedae,Fila,,machines,content,copyleft,,
+Explorer's Compass,explorerscompass,Fila,,machines,content,NC/ND,,
+Extended Industrialization,extended_industrialization,Fila,,machines,content,permissiva,,
+ExtendedAE,extendedae,Fila,,machines,content,desconhecida,,
+Extra Disks,extradisks,Fila,,machines,content,permissiva,,
+ExtraStorage,extrastorage,Fila,,machines,content,copyleft,,
+Farming for Blockheads,farmingforblockheads,Fila,,machines,content,ARR (só uso pessoal),,
+FTB Quests,ftbquests,Fila,,machines,content,desconhecida,,
+Generator Galore,generatorgalore,Fila,,machines,content,ARR (só uso pessoal),,
+Handcrafted,handcrafted,Fila,,machines,content,custom,,
+Immersive Energistics,immeng,Fila,,machines,integration,copyleft,,
+Industrial Foregoing Souls,industrialforegoingsouls,Fila,,machines,content,permissiva,,
+Industrialization Overdrive,industrialization_overdrive,Fila,,machines,content,permissiva,,
+Interdimensional Wireless Transmitter,interdimensionalwirelesstransmitter,Fila,,machines,content,permissiva,,
+Iron's Gems 'n Jewelry,irons_jewelry,Fila,,machines,content,ARR (só uso pessoal),,
+Item Collectors,itemcollectors,Fila,,machines,content,ARR (só uso pessoal),,
+LogisticsNetworks,logisticsnetworks,Fila,,machines,content,desconhecida,,
+Lootr,lootr,Fila,,machines,content,permissiva,,
+Macaw's Furniture,mcwfurnitures,Fila,,machines,content,ARR (só uso pessoal),,
+MEGA Cells,megacells,Fila,,machines,content,copyleft,,
+Mekanism Covers,mekanismcovers,Fila,,machines,integration,copyleft,,
+Mekanistic Routers,mekanisticrouters,Fila,,machines,integration,permissiva,,
+Mekanism: MoreMachine,mekmm,Fila,,machines,content,permissiva,,
+ME Requester,merequester,Fila,,machines,content,copyleft,,
+More Industrial Foregoing Addons,mifa,Fila,,machines,content,permissiva,,
+Mob Grinding Utils,mob_grinding_utils,Fila,,machines,content,desconhecida,,
+ModularBees,modularbees,Fila,,machines,content,desconhecida,,
+Nature's Compass,naturescompass,Fila,,machines,content,NC/ND,,
+Pipez,pipez,Fila,,machines,content,ARR (só uso pessoal),,
+Pocket Storage,pocketstorage,Fila,,machines,content,permissiva,,
+Polymorphic Energistics,polyeng,Fila,,machines,integration,copyleft,,
+Productive Metalworks,productivemetalworks,Fila,,machines,content,desconhecida,,
+Pylons,pylons,Fila,,machines,content,ARR (só uso pessoal),,
+Rechiseled,rechiseled,Fila,,machines,content,ARR (só uso pessoal),,
+Refined Storage - Curios Integration,refinedstorage_curios_integration,Fila,,machines,integration,permissiva,,
+Refined Storage - Mekanism Integration,refinedstorage_mekanism_integration,Fila,,machines,integration,permissiva,,
+Refined Types,refinedtypes,Fila,,machines,content,permissiva,,
+RFToolsPower,rftoolspower,Fila,,machines,content,permissiva,,
+RFToolsStorage,rftoolsstorage,Fila,,machines,content,permissiva,,
+RFToolsUtility,rftoolsutility,Fila,,machines,content,permissiva,,
+Refined Wireless Upgrades,rsinsertexportupgrade,Fila,,machines,content,permissiva,,
+Universal Sawmill,sawmill,Fila,,machines,content,ARR (só uso pessoal),,
+Sophisticated Storage,sophisticatedstorage,Fila,,machines,content,ARR (só uso pessoal),,
+Soulplied Energistics,soulplied_energistics,Fila,,machines,integration,desconhecida,,
+Step Crafter,stepcrafter,Fila,,machines,content,permissiva,,
+Storage Delight,storagedelight,Fila,,machines,integration,permissiva,,
+Sushi Go Crafting,sushigocrafting,Fila,,machines,content,permissiva,,
+Transfer Labels,transfer_labels,Fila,,machines,content,permissiva,,
+Trash Cans,trashcans,Fila,,machines,content,ARR (só uso pessoal),,
+Tree Tap,treetap,Fila,,machines,content,ARR (só uso pessoal),,
+Jonn's Trophies,trophymanager,Fila,,machines,content,ARR (só uso pessoal),,
+Universal Grid,universalgrid,Fila,,machines,content,permissiva,,
+Utility vest,utilityvest,Fila,,machines,content,desconhecida,,
+Waystones,waystones,Fila,,machines,content,ARR (só uso pessoal),,
+Wireless Chargers,wirelesschargers,Fila,,machines,content,ARR (só uso pessoal),,
+XNet,xnet,Fila,,machines,content,permissiva,,
+XyCraft Machines,xycraft_machines,Fila,,machines,content,desconhecida,,
+AEInfinityBooster,aeinfinitybooster,Fila,,logic,content,copyleft,,
+Akashic Tome,akashictome,Fila,,logic,content,NC/ND,,
+All The Arcanist Gear,allthearcanistgear,Fila,,logic,content,desconhecida,,
+AllTheTweaks,allthetweaks,Fila,,logic,content,desconhecida,,
+All the Wizard Gear,allthewizardgear,Fila,,logic,content,desconhecida,,
+Ars Additions,ars_additions,Fila,,logic,content,copyleft,,
+Ars Controle,ars_controle,Fila,,logic,content,copyleft,,
+Ars Creo,ars_creo,Fila,,logic,integration,ARR (só uso pessoal),,
+Ars Elemancy,ars_elemancy,Fila,,logic,content,copyleft,,
+Ars Ocultas,ars_ocultas,Fila,,logic,content,copyleft,,
+Ars Polymorphia,ars_polymorphia,Fila,,logic,content,copyleft,,
+Blue Flame Burning,blueflame,Fila,,logic,content,ARR (só uso pessoal),,
+Clean Swing,cleanswing,Fila,,logic,content,desconhecida,,
+Comforts,comforts,Fila,,logic,content,copyleft,,
+Crafting On A Stick,crafting_on_a_stick,Fila,,logic,content,ARR (só uso pessoal),,
+Crash Utilities,crashutilities,Fila,,logic,server-only,permissiva,,
+Dyenamics,dyenamics,Fila,,logic,content,desconhecida,,
+FTB Essentials,ftbessentials,Fila,,logic,server-only,desconhecida,,
+FTB Ranks,ftbranks,Fila,,logic,server-only,desconhecida,,
+FTB Teams,ftbteams,Fila,,logic,server-only,desconhecida,,
+FTB XMod Compat,ftbxmodcompat,Fila,,logic,integration,desconhecida,,
+Fuel Goes Here,fuelgoeshere,Fila,,logic,content,ARR (só uso pessoal),,
+Hardened Armadillos,hardenedarmadillos,Fila,,logic,content,desconhecida,,
+Hey Berry! SHUT UP,heyberryshutup,Fila,,logic,content,ARR (só uso pessoal),,
+InControl,incontrol,Fila,,logic,server-only,permissiva,,
+Jumpy Boats,jumpboat,Fila,,logic,content,ARR (só uso pessoal),,
+Macaw's Lights and Lamps,mcwlights,Fila,,logic,content,ARR (só uso pessoal),,
+Macaw's Windows,mcwwindows,Fila,,logic,content,ARR (só uso pessoal),,
+Mama's MerryMaking,merrymaking,Fila,,logic,content,permissiva,,
+More Dragon Eggs,moredragoneggs,Fila,,logic,content,desconhecida,,
+More Red x CC:Tweaked Compat,moreredxcctcompat,Fila,,logic,integration,desconhecida,,
+Multi-Piston,multipiston,Fila,,logic,content,desconhecida,,
+NetherPortalFix,netherportalfix,Fila,,logic,server-only,ARR (só uso pessoal),,
+Not Enough Glyphs,not_enough_glyphs,Fila,,logic,content,copyleft,,
+No Villager Death Messages,novillagerdm,Fila,,logic,server-only,permissiva,,
+Productive Trees,productivetrees,Fila,,logic,content,ARR (só uso pessoal),,
+Refined Fluid Substitution,refinedfluidsubstitution,Fila,,logic,integration,permissiva,,
+reliquified_artifacts,reliquified_artifacts,Fila,,logic,integration,ARR (só uso pessoal),,
+Silent Gear Metalworks,sgearmetalworks,Fila,,logic,integration,desconhecida,,
+Shiny!,shiny,Fila,,logic,content,desconhecida,,
+Simple Weather,simple_weather,Fila,,logic,content,desconhecida,,
+Simple Backups,simplebackups,Fila,,logic,server-only,permissiva,,
+Starbunclemania,starbunclemania,Fila,,logic,content,desconhecida,,
+Sussy Sniffers,sussysniffers,Fila,,logic,content,desconhecida,,
+Time In A Bottle,tiab,Fila,,logic,content,permissiva,,
+Utilitarian,utilitarian,Fila,,logic,content,ARR (só uso pessoal),,
+Wits,wits,Fila,,logic,server-only,permissiva,,
+XyCraft World,xycraft_world,Fila,,logic,content,desconhecida,,
+AE2:Crafting Tree,ae2ct,Fila (cliente),,client,client-ui,desconhecida,,
+AE2 JEI Integration,ae2jeiintegration,Fila (cliente),,client,integration,desconhecida,,
+Auroras,auroras,Fila (cliente),,client,client-ui,permissiva,,
+Better Advanced Tooltips,betteradvancedtooltips,Fila (cliente),,client,client-ui,permissiva,,
+Better Advancements,betteradvancements,Fila (cliente),,client,client-ui,custom,,
+CatJammies,catjammies,Fila (cliente),,client,client-ui,desconhecida,,
+Colorful Hearts,colorfulhearts,Fila (cliente),,client,client-ui,permissiva,,
+Controlling,controlling,Fila (cliente),,client,client-ui,permissiva,,
+Crafting Tweaks,craftingtweaks,Fila (cliente),,client,client-ui,ARR (só uso pessoal),,
+Dark Mode Everywhere,darkmodeeverywhere,Fila (cliente),,client,client-ui,permissiva,,
+Drippy Loading Screen,drippyloadingscreen,Fila (cliente),,client,client-ui,custom,,
+EnchantmentDescriptions,enchdesc,Fila (cliente),,client,client-ui,copyleft,,
+Extreme Sound Muffler,extremesoundmuffler,Fila (cliente),,client,client-ui,copyleft,,
+FancyMenu,fancymenu,Fila (cliente),,client,client-ui,custom,,
+FTB Jei Extras,ftbjeiextras,Fila (cliente),,client,integration,desconhecida,,
+Inventory Tweaks Refoxed,invtweaks,Fila (cliente),,client,client-ui,desconhecida,,
+Just Enough Archaeology,jearchaeology,Fila (cliente),,client,integration,ARR (só uso pessoal),,
+Just Enough Mekanism Multiblocks,jei_mekanism_multiblocks,Fila (cliente),,client,integration,permissiva,,
+Just Enough Stuff,jeistuff,Fila (cliente),,client,integration,desconhecida,,
+Journeymap,journeymap,Fila (cliente),,client,client-ui,ARR (só uso pessoal),,
+Just Enough Breeding,justenoughbreeding,Fila (cliente),,client,integration,permissiva,,
+Just Enough Professions (JEP),justenoughprofessions,Fila (cliente),,client,integration,permissiva,,
+KeyBind Bundles,keybindbundles,Fila (cliente),,client,client-ui,permissiva,,
+KeybindsPurger,keybindspurger,Fila (cliente),,client,client-ui,permissiva,,
+Luminax,luminax,Fila (cliente),,client,client-ui,copyleft,,
+More Overlays Updated,moreoverlays,Fila (cliente),,client,client-ui,permissiva,,
+Overlapless,overlapless,Fila (cliente),,client,client-ui,desconhecida,,
+OverloadedArmorBar,overloadedarmorbar,Fila (cliente),,client,client-ui,desconhecida,,
+Polymorph,polymorph,Fila (cliente),,client,client-ui,copyleft,,
+Refined Storage - JEI Integration,refinedstorage_jei_integration,Fila (cliente),,client,integration,permissiva,,
+SmithingTemplateViewer,smithingtemplateviewer,Fila (cliente),,client,client-ui,permissiva,,
+Toast Control,toastcontrol,Fila (cliente),,client,client-ui,permissiva,,
+TrashSlot,trashslot,Fila (cliente),,client,client-ui,ARR (só uso pessoal),,
+AllTheCompressed,allthecompressed,Automático (port-pack),,data,content,desconhecida,,o launcher carrega do seu jar: Modpacks > Port
+Ars Unification,ars_unification,Automático (port-pack),,data,integration,copyleft,,o launcher carrega do seu jar: Modpacks > Port
+ATM: Compat,atmcompat,Automático (port-pack),,data,integration,desconhecida,,o launcher carrega do seu jar: Modpacks > Port
+YUNG's Better Desert Temples,betterdeserttemples,Automático (port-pack),,data,content,copyleft,,o launcher carrega do seu jar: Modpacks > Port
+YUNG's Better Dungeons,betterdungeons,Automático (port-pack),,data,content,copyleft,,o launcher carrega do seu jar: Modpacks > Port
+YUNG's Better End Island,betterendisland,Automático (port-pack),,data,content,copyleft,,o launcher carrega do seu jar: Modpacks > Port
+YUNG's Better Nether Fortresses,betterfortresses,Automático (port-pack),,data,content,copyleft,,o launcher carrega do seu jar: Modpacks > Port
+YUNG's Better Jungle Temples,betterjungletemples,Automático (port-pack),,data,content,copyleft,,o launcher carrega do seu jar: Modpacks > Port
+YUNG's Better Mineshafts,bettermineshafts,Automático (port-pack),,data,content,copyleft,,o launcher carrega do seu jar: Modpacks > Port
+YUNG's Better Ocean Monuments,betteroceanmonuments,Automático (port-pack),,data,content,copyleft,,o launcher carrega do seu jar: Modpacks > Port
+YUNG's Better Strongholds,betterstrongholds,Automático (port-pack),,data,content,copyleft,,o launcher carrega do seu jar: Modpacks > Port
+YUNG's Better Witch Huts,betterwitchhuts,Automático (port-pack),,data,content,copyleft,,o launcher carrega do seu jar: Modpacks > Port
+Bibliobiomes Legacy,bibliobiomes,Automático (port-pack),,data,integration,permissiva,,o launcher carrega do seu jar: Modpacks > Port
+Bibliowoods Legacy,bibliowoods,Automático (port-pack),,data,integration,permissiva,,o launcher carrega do seu jar: Modpacks > Port
+BotanyPots-Mystical,botanypotsmystical,Automático (port-pack),,data,integration,copyleft,,o launcher carrega do seu jar: Modpacks > Port
+BotanyTrees,botanytrees,Automático (port-pack),,data,integration,copyleft,,o launcher carrega do seu jar: Modpacks > Port
+Byzantine,byzantine,Automático (port-pack),,data,content,desconhecida,,o launcher carrega do seu jar: Modpacks > Port
+Chroma Carvings,chromacarvings,Automático (port-pack),,data,content,desconhecida,,o launcher carrega do seu jar: Modpacks > Port
+Connected Glass,connectedglass,Automático (port-pack),,data,content,ARR (só uso pessoal),,o launcher carrega do seu jar: Modpacks > Port
+Crystalix,crystalix,Automático (port-pack),,data,content,copyleft,,o launcher carrega do seu jar: Modpacks > Port
+ChoiceTheorem's Overhauled Village,ctov,Automático (port-pack),,data,content,NC/ND,,o launcher carrega do seu jar: Modpacks > Port
+When Dungeons Arise,dungeons_arise,Automático (port-pack),,data,content,ARR (só uso pessoal),,o launcher carrega do seu jar: Modpacks > Port
+Dyenamics and Friends,dyenamicsandfriends,Automático (port-pack),,data,integration,ARR (só uso pessoal),,o launcher carrega do seu jar: Modpacks > Port
+Everything is Copper,everythingcopper,Automático (port-pack),,data,content,ARR (só uso pessoal),,o launcher carrega do seu jar: Modpacks > Port
+Explorify,explorify,Automático (port-pack),,data,content,ARR (só uso pessoal),,o launcher carrega do seu jar: Modpacks > Port
+Formations Nether,formationsnether,Automático (port-pack),,data,content,ARR (só uso pessoal),,o launcher carrega do seu jar: Modpacks > Port
+Formations Overworld,formationsoverworld,Automático (port-pack),,data,content,ARR (só uso pessoal),,o launcher carrega do seu jar: Modpacks > Port
+Hellish Trials,hellish_trials,Automático (port-pack),,data,content,ARR (só uso pessoal),,o launcher carrega do seu jar: Modpacks > Port
+Mama's Herbs and Harvest,herbsandharvest,Automático (port-pack),,data,content,permissiva,,o launcher carrega do seu jar: Modpacks > Port
+Macaw's Bridges,mcwbridges,Automático (port-pack),,data,content,ARR (só uso pessoal),,o launcher carrega do seu jar: Modpacks > Port
+Macaw's Holidays,mcwholidays,Automático (port-pack),,data,content,ARR (só uso pessoal),,o launcher carrega do seu jar: Modpacks > Port
+Macaw's Roofs,mcwroofs,Automático (port-pack),,data,content,ARR (só uso pessoal),,o launcher carrega do seu jar: Modpacks > Port
+Macaw's Stairs and Balconies,mcwstairs,Automático (port-pack),,data,content,ARR (só uso pessoal),,o launcher carrega do seu jar: Modpacks > Port
+MoogsEndStructures,mes,Automático (port-pack),,data,content,copyleft,,o launcher carrega do seu jar: Modpacks > Port
+MoogsNetherStructures,mns,Automático (port-pack),,data,content,copyleft,,o launcher carrega do seu jar: Modpacks > Port
+Mo' Structures,mostructures,Automático (port-pack),,data,content,copyleft,,o launcher carrega do seu jar: Modpacks > Port
+MoogsSoaringStructures,mss,Automático (port-pack),,data,content,copyleft,,o launcher carrega do seu jar: Modpacks > Port
+Nullscape,nullscape,Automático (port-pack),,data,content,custom,,o launcher carrega do seu jar: Modpacks > Port
+Pam's HarvestCraft - Crops,pamhc2crops,Automático (port-pack),,data,content,desconhecida,,o launcher carrega do seu jar: Modpacks > Port
+Pam's HarvestCraft - Food Core,pamhc2foodcore,Automático (port-pack),,data,content,desconhecida,,o launcher carrega do seu jar: Modpacks > Port
+Pam's HarvestCraft - Food Extended,pamhc2foodextended,Automático (port-pack),,data,content,ARR (só uso pessoal),,o launcher carrega do seu jar: Modpacks > Port
+Pam's HarvestCraft - Trees,pamhc2trees,Automático (port-pack),,data,content,desconhecida,,o launcher carrega do seu jar: Modpacks > Port
+Rechiseled: Chipped,rechiseled_chipped,Automático (port-pack),,data,integration,ARR (só uso pessoal),,o launcher carrega do seu jar: Modpacks > Port
+Rechiseled: Create,rechiseledcreate,Automático (port-pack),,data,integration,ARR (só uso pessoal),,o launcher carrega do seu jar: Modpacks > Port
+Regions Unexplored,regions_unexplored,Automático (port-pack),,data,content,permissiva,,o launcher carrega do seu jar: Modpacks > Port
+Repurposed Structures,repurposed_structures,Automático (port-pack),,data,content,copyleft,,o launcher carrega do seu jar: Modpacks > Port
+sawmill.zip (datapack),sawmill.zip (datapack),Automático (port-pack),,data,other,desconhecida,,o launcher carrega do seu jar: Modpacks > Port
+Structory,structory,Automático (port-pack),,data,content,custom,,o launcher carrega do seu jar: Modpacks > Port
+Structory: Towers,structory_towers,Automático (port-pack),,data,content,custom,,o launcher carrega do seu jar: Modpacks > Port
+Stylecolonies,stylecolonies,Automático (port-pack),,data,integration,desconhecida,,o launcher carrega do seu jar: Modpacks > Port
+Towns and Towers,t_and_t,Automático (port-pack),,data,content,NC/ND,,o launcher carrega do seu jar: Modpacks > Port
+Towntalk,towntalk,Automático (port-pack),,data,integration,desconhecida,,o launcher carrega do seu jar: Modpacks > Port
+Underground Villages Mod,underground_villages,Automático (port-pack),,data,content,desconhecida,,o launcher carrega do seu jar: Modpacks > Port
+Villages&Pillages,villagesandpillages,Automático (port-pack),,data,content,NC/ND,,o launcher carrega do seu jar: Modpacks > Port
+XTones Reworked,xtonesreworked,Automático (port-pack),,data,content,permissiva,,o launcher carrega do seu jar: Modpacks > Port
+YUNG's Extras,yungsextras,Automático (port-pack),,data,content,copyleft,,o launcher carrega do seu jar: Modpacks > Port
+ScalableCatsForce,ScalableCatsForce,Não precisa,,none,library,permissiva,,biblioteca: vira API do Horizon
+AI-Improvements,aiimprovements,Não precisa,,none,performance,ARR (só uso pessoal),,o Horizon já substitui
+All The Leaks,alltheleaks,Não precisa,,none,performance,desconhecida,,o Horizon já substitui
+AlmostUnified,almostunified,Não precisa,,none,other,ARR (só uso pessoal),,ferramenta de pack
+Apothic Attributes,apothic_attributes,Não precisa,,none,library,permissiva,,biblioteca: vira API do Horizon
+Architectury,architectury,Não precisa,,none,library,copyleft,,biblioteca: vira API do Horizon
+Athena,athena,Não precisa,,none,library,permissiva,,biblioteca: vira API do Horizon
+Atlas API,atlas_api,Não precisa,,none,library,ARR (só uso pessoal),,biblioteca: vira API do Horizon
+AttributeFix,attributefix,Não precisa,,none,other,copyleft,,ferramenta de pack
+Balm,balm,Não precisa,,none,library,ARR (só uso pessoal),,biblioteca: vira API do Horizon
+Better Compatibility Checker,bcc,Não precisa,,none,other,ARR (só uso pessoal),,ferramenta de pack
+UI Library Mod,blockui,Não precisa,,none,library,desconhecida,,biblioteca: vira API do Horizon
+Bookshelf,bookshelf,Não precisa,,none,library,copyleft,,biblioteca: vira API do Horizon
+Borderless Window,borderlesswindow,Não precisa,,none,other,permissiva,,ferramenta de pack
+Brandon's Core,brandonscore,Não precisa,,none,library,custom,,biblioteca: vira API do Horizon
+Caelus API,caelus,Não precisa,,none,library,copyleft,,biblioteca: vira API do Horizon
+Camol,camol,Não precisa,,none,library,desconhecida,,biblioteca: vira API do Horizon
+Cloth Config v15 API,cloth_config,Não precisa,,none,library,copyleft,,biblioteca: vira API do Horizon
+Clumps,clumps,Não precisa,,none,performance,permissiva,,o Horizon já substitui
+Cobweb,cobweb,Não precisa,,none,library,custom,,biblioteca: vira API do Horizon
+CodeChicken Lib,codechickenlib,Não precisa,,none,library,copyleft,,biblioteca: vira API do Horizon
+Colorwheel,colorwheel,Não precisa,,none,other,copyleft,,ferramenta de pack
+Colorwheel Patcher,colorwheel_patcher,Não precisa,,none,other,ARR (só uso pessoal),,ferramenta de pack
+Common Storage Lib: Core,common_storage_lib,Não precisa,,none,library,permissiva,,biblioteca: vira API do Horizon
+CommonCapabilities,commoncapabilities,Não precisa,,none,library,desconhecida,,biblioteca: vira API do Horizon
+Connectivity Mod,connectivity,Não precisa,,none,performance,desconhecida,,o Horizon já substitui
+CorgiLib,corgilib,Não precisa,,none,library,copyleft,,biblioteca: vira API do Horizon
+Crash Assistant,crash_assistant,Não precisa,,none,other,custom,,ferramenta de pack
+Cristel Lib,cristellib,Não precisa,,none,library,NC/ND,,biblioteca: vira API do Horizon
+Cryonic Config,cryonicconfig,Não precisa,,none,library,permissiva,,biblioteca: vira API do Horizon
+ConnectedTexturesMod,ctm,Não precisa,,none,other,desconhecida,,ferramenta de pack
+Cucumber Library,cucumber,Não precisa,,none,library,permissiva,,biblioteca: vira API do Horizon
+Cupboard mod,cupboard,Não precisa,,none,library,desconhecida,,biblioteca: vira API do Horizon
+Curios API,curios,Não precisa,,none,library,copyleft,,biblioteca: vira API do Horizon
+Cyclops Core,cyclopscore,Não precisa,,none,library,permissiva,,biblioteca: vira API do Horizon
+Deimos,deimos,Não precisa,,none,library,permissiva,,biblioteca: vira API do Horizon
+EdivadLib,edivadlib,Não precisa,,none,library,copyleft,,biblioteca: vira API do Horizon
+Euphoria Patcher,euphoria_patcher,Não precisa,,none,other,copyleft,,ferramenta de pack
+ExperienceLib,experiencelib,Não precisa,,none,library,copyleft,,biblioteca: vira API do Horizon
+Fast Workbench,fastbench,Não precisa,,none,performance,desconhecida,,o Horizon já substitui
+FastFurnace,fastfurnace,Não precisa,,none,performance,permissiva,,o Horizon já substitui
+Fast Suite,fastsuite,Não precisa,,none,performance,permissiva,,o Horizon já substitui
+Ferrite Core,ferritecore,Não precisa,,none,performance,permissiva,,o Horizon já substitui
+FlickerFix,flickerfix,Não precisa,,none,other,permissiva,,ferramenta de pack
+Formations,formations,Não precisa,,none,library,ARR (só uso pessoal),,biblioteca: vira API do Horizon
+Framework,framework,Não precisa,,none,library,desconhecida,,biblioteca: vira API do Horizon
+FTB Filter System,ftbfiltersystem,Não precisa,,none,library,desconhecida,,biblioteca: vira API do Horizon
+FTB Library,ftblibrary,Não precisa,,none,library,desconhecida,,biblioteca: vira API do Horizon
+FTB Quests Lang Splitter,ftbquestslangsplitter,Não precisa,,none,other,desconhecida,,ferramenta de pack
+Fusion,fusion,Não precisa,,none,library,ARR (só uso pessoal),,biblioteca: vira API do Horizon
+Fzzy Config,fzzy_config,Não precisa,,none,library,custom,,biblioteca: vira API do Horizon
+GeckoLib 4,geckolib,Não precisa,,none,library,permissiva,,biblioteca: vira API do Horizon
+"Get It Together, Drops!",getittogetherdrops,Não precisa,,none,performance,permissiva,,o Horizon já substitui
+Glodium,glodium,Não precisa,,none,library,permissiva,,biblioteca: vira API do Horizon
+GuideME,guideme,Não precisa,,none,library,custom,,biblioteca: vira API do Horizon
+Iceberg,iceberg,Não precisa,,none,library,NC/ND,,biblioteca: vira API do Horizon
+ImmediatelyFast,immediatelyfast,Não precisa,,none,performance,copyleft,,o Horizon já substitui
+Invasive Optimizations,invasiveopts,Não precisa,,none,performance,permissiva,,o Horizon já substitui
+Iris,iris,Não precisa,,none,other,copyleft,,ferramenta de pack
+IrisSearch,iris_search,Não precisa,,none,other,copyleft,,ferramenta de pack
+Iron's Lib,irons_lib,Não precisa,,none,library,ARR (só uso pessoal),,biblioteca: vira API do Horizon
+Jupiter,jupiter,Não precisa,,none,library,copyleft,,biblioteca: vira API do Horizon
+Just Zoom,justzoom,Não precisa,,none,client-ui,custom,,
+Konkrete,konkrete,Não precisa,,none,library,permissiva,,biblioteca: vira API do Horizon
+kotlinforforge,kotlinforforge,Não precisa,,none,library,desconhecida,,biblioteca: vira API do Horizon
+KubeJS,kubejs,Não precisa,,none,other,copyleft,,ferramenta de pack
+KubeJS Tweaks,kubejstweaks,Não precisa,,none,other,desconhecida,,ferramenta de pack
+lionfishapi,lionfishapi,Não precisa,,none,library,copyleft,,biblioteca: vira API do Horizon
+Lithostitched,lithostitched,Não precisa,,none,library,permissiva,,biblioteca: vira API do Horizon
+Load My F***ing Tags,lmft,Não precisa,,none,other,permissiva,,ferramenta de pack
+McJtyLib,mcjtylib,Não precisa,,none,library,permissiva,,biblioteca: vira API do Horizon
+Melody,melody,Não precisa,,none,library,permissiva,,biblioteca: vira API do Horizon
+memorysettings mod,memorysettings,Não precisa,,none,other,desconhecida,,ferramenta de pack
+mezz_config,mezz_config,Não precisa,,none,library,permissiva,,biblioteca: vira API do Horizon
+Model Gap Fix,modelfix,Não precisa,,none,other,copyleft,,ferramenta de pack
+ModernFix,modernfix,Não precisa,,none,performance,copyleft,,o Horizon já substitui
+Modonomicon,modonomicon,Não precisa,,none,library,permissiva,,biblioteca: vira API do Horizon
+MonoLib,monolib,Não precisa,,none,library,permissiva,,biblioteca: vira API do Horizon
+Moog's Structure Lib,moogs_structures,Não precisa,,none,library,copyleft,,biblioteca: vira API do Horizon
+Moonlight Lib,moonlight,Não precisa,,none,library,copyleft,,biblioteca: vira API do Horizon
+Mystical Customization,mysticalcustomization,Não precisa,,none,other,permissiva,,ferramenta de pack
+NeoAuth,neo_auth,Não precisa,,none,other,permissiva,,ferramenta de pack
+No Chat Reports,nochatreports,Não precisa,,none,other,custom,,ferramenta de pack
+Observable,observable,Não precisa,,none,performance,copyleft,,o Horizon já substitui
+ObserverLib,observerlib,Não precisa,,none,library,desconhecida,,biblioteca: vira API do Horizon
+Occultism KubeJS,occultism_kubejs,Não precisa,,none,integration,permissiva,,
+OctoLib,octolib,Não precisa,,none,library,ARR (só uso pessoal),,biblioteca: vira API do Horizon
+Oh The Trees You'll Grow,ohthetreesyoullgrow,Não precisa,,none,library,copyleft,,biblioteca: vira API do Horizon
+Omega Config Architectury,omegaconfig,Não precisa,,none,library,desconhecida,,biblioteca: vira API do Horizon
+OpenLoader,openloader,Não precisa,,none,other,copyleft,,ferramenta de pack
+Oracle Index,oracle_index,Não precisa,,none,library,permissiva,,biblioteca: vira API do Horizon
+oωo,owo,Não precisa,,none,library,permissiva,,biblioteca: vira API do Horizon
+Patchouli,patchouli,Não precisa,,none,library,NC/ND,,biblioteca: vira API do Horizon
+Placebo,placebo,Não precisa,,none,library,permissiva,,biblioteca: vira API do Horizon
+Player Animator,playeranimator,Não precisa,,none,library,permissiva,,biblioteca: vira API do Horizon
+PolyLib,polylib,Não precisa,,none,library,permissiva,,biblioteca: vira API do Horizon
+PonderJS,ponderjs,Não precisa,,none,integration,permissiva,,
+PrickleMC,prickle,Não precisa,,none,library,copyleft,,biblioteca: vira API do Horizon
+Prism,prism,Não precisa,,none,library,NC/ND,,biblioteca: vira API do Horizon
+Rebind Narrator,rebind_narrator,Não precisa,,none,client-ui,copyleft,,
+Resourcefulconfig,resourcefulconfig,Não precisa,,none,library,permissiva,,biblioteca: vira API do Horizon
+Resourceful Lib,resourcefullib,Não precisa,,none,library,permissiva,,biblioteca: vira API do Horizon
+Rhino,rhino,Não precisa,,none,library,copyleft,,biblioteca: vira API do Horizon
+Searchables,searchables,Não precisa,,none,library,permissiva,,biblioteca: vira API do Horizon
+Silent Lib,silentlib,Não precisa,,none,library,permissiva,,biblioteca: vira API do Horizon
+SmartBrainLib,smartbrainlib,Não precisa,,none,library,copyleft,,biblioteca: vira API do Horizon
+Sodium,sodium,Não precisa,,none,performance,custom,,o Horizon já substitui
+Sodium Extra,sodium_extra,Não precisa,,none,performance,copyleft,,o Horizon já substitui
+Sophisticated Core,sophisticatedcore,Não precisa,,none,library,ARR (só uso pessoal),,biblioteca: vira API do Horizon
+spark,spark,Não precisa,,none,performance,copyleft,,o Horizon já substitui
+Structurize,structurize,Não precisa,,none,library,desconhecida,,biblioteca: vira API do Horizon
+SuperMartijn642's Config Library,supermartijn642configlib,Não precisa,,none,library,ARR (só uso pessoal),,biblioteca: vira API do Horizon
+SuperMartijn642's Core Lib,supermartijn642corelib,Não precisa,,none,library,ARR (só uso pessoal),,biblioteca: vira API do Horizon
+TerraBlender,terrablender,Não precisa,,none,library,copyleft,,biblioteca: vira API do Horizon
+Tesseract API,tesseract_api,Não precisa,,none,library,permissiva,,biblioteca: vira API do Horizon
+Theurgy KubeJS,theurgy_kubejs,Não precisa,,none,integration,permissiva,,
+Titanium,titanium,Não precisa,,none,library,permissiva,,biblioteca: vira API do Horizon
+Uranus,uranus,Não precisa,,none,library,desconhecida,,biblioteca: vira API do Horizon
+Valhelsia Core,valhelsia_core,Não precisa,,none,library,custom,,biblioteca: vira API do Horizon
+XyCraft Core,xycraft_core,Não precisa,,none,library,desconhecida,,biblioteca: vira API do Horizon
+XyCraft Override,xycraft_override,Não precisa,,none,other,desconhecida,,ferramenta de pack
+Yeetus Experimentus,yeetusexperimentus,Não precisa,,none,other,ARR (só uso pessoal),,ferramenta de pack
+YetAnotherConfigLib,yet_another_config_lib_v3,Não precisa,,none,library,copyleft,,biblioteca: vira API do Horizon
+YUNG's API,yungsapi,Não precisa,,none,library,copyleft,,biblioteca: vira API do Horizon
+Zero CORE 2,zerocore,Não precisa,,none,library,desconhecida,,biblioteca: vira API do Horizon

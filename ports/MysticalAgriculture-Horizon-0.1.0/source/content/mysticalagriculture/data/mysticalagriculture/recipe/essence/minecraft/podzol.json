@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " E ",
+    "ENE",
+    " E "
+  ],
+  "key": {
+    "E": "mysticalagriculture:dirt_essence",
+    "N": "mysticalagriculture:nature_essence"
+  },
+  "result": {
+    "id": "minecraft:podzol",
+    "count": 12
+  }
+}

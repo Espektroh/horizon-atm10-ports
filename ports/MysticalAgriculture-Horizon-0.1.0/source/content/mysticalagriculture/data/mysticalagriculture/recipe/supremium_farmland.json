@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "mysticalagriculture:supremium_essence",
+    "minecraft:farmland"
+  ],
+  "group": "mysticalagriculture:farmland",
+  "result": {
+    "id": "mysticalagriculture:supremium_farmland"
+  }
+}

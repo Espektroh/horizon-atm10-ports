@@ -1,0 +1,12 @@
+[package]
+name = "horizon-mod-mekanism"
+version = "0.6.0"
+edition = "2024"
+license = "MIT"
+description = "Mekanism for Horizon: energy, machines, cables, a native mod"
+
+[lib]
+# This exact source is also injected as a same-crate module by horizon-mixins.
+path = "mixins/mekanism_native/runtime.rs"
+
+[workspace]

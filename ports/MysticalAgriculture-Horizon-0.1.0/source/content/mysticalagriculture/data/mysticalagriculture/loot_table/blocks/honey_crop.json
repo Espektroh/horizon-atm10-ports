@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "mysticalagriculture:blocks/honey_crop",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "mysticalagriculture:honey_seeds"
+        }
+      ]
+    },
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "mysticalagriculture:honey_essence"
+        }
+      ],
+      "condition": {
+        "block": "mysticalagriculture:honey_crop",
+        "properties": {
+          "age": "7"
+        },
+        "type": "minecraft:block_state_property"
+      }
+    }
+  ]
+}

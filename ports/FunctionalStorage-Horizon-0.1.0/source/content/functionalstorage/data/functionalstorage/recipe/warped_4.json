@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "CPC",
+    "PPP",
+    "CPC"
+  ],
+  "key": {
+    "P": "minecraft:warped_planks",
+    "C": [
+      "minecraft:chest",
+      "minecraft:trapped_chest"
+    ]
+  },
+  "result": {
+    "id": "functionalstorage:warped_4",
+    "count": 4
+  }
+}

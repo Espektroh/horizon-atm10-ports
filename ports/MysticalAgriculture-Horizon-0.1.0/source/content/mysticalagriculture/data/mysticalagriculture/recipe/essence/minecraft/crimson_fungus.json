@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "   ",
+    "EFE",
+    "   "
+  ],
+  "key": {
+    "E": "mysticalagriculture:nature_essence",
+    "F": "mysticalagriculture:nether_essence"
+  },
+  "result": {
+    "id": "minecraft:crimson_fungus",
+    "count": 4
+  }
+}

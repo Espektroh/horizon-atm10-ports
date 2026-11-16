@@ -1,0 +1,9 @@
+{
+  "type": "mekanism:crushing",
+  "input": "minecraft:cobblestone",
+  "input_count": 1,
+  "output": {
+    "id": "minecraft:gravel",
+    "count": 1
+  }
+}

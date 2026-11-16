@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ici",
+    "cdc",
+    "ici"
+  ],
+  "key": {
+    "c": "powah:capacitor_basic",
+    "d": "powah:dielectric_casing",
+    "i": "minecraft:iron_ingot"
+  },
+  "result": {
+    "id": "powah:energy_cell_basic"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "type": "mekanism:infuse_conversion",
+  "input": "minecraft:coal",
+  "infuse_type": "carbon",
+  "amount": 10
+}

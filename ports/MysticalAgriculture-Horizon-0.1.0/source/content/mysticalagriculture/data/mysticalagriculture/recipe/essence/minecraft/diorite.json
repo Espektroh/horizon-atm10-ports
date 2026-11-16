@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " Q ",
+    "EEE",
+    " E "
+  ],
+  "key": {
+    "E": "mysticalagriculture:stone_essence",
+    "Q": "mysticalagriculture:nether_quartz_essence"
+  },
+  "result": {
+    "id": "minecraft:diorite",
+    "count": 16
+  }
+}

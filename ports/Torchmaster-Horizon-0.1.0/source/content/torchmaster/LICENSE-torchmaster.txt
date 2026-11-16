@@ -1,0 +1,3 @@
+Textures, models and lang: Torchmaster by Xalcon, MIT License.
+https://github.com/xalcon/TorchMaster
+Modified: blockstates, recipes and loot tables rewritten for Horizon.

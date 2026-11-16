@@ -1,0 +1,11 @@
+{
+  "template": "minecraft:white_glazed_terracotta",
+  "properties": {
+    "hardness": 2.0,
+    "explosion_resistance": 3.0,
+    "sounds": "minecraft:spruce_planks",
+    "requires_tool": false,
+    "map_color": 34
+  },
+  "item": true
+}

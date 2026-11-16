@@ -1,0 +1,12 @@
+[package]
+name = "horizon-mod-powah"
+version = "0.1.0"
+edition = "2024"
+license = "LGPL-3.0-only"
+description = "Powah for Horizon, a native mod (rules)"
+
+[lib]
+# This exact source is also injected as a same-crate module by horizon-mixins.
+path = "mixins/powah_native/runtime.rs"
+
+[workspace]

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "EEE",
+    "E E",
+    "EEE"
+  ],
+  "key": {
+    "E": "mysticalagriculture:deepslate_essence"
+  },
+  "result": {
+    "id": "minecraft:cobbled_deepslate",
+    "count": 24
+  }
+}

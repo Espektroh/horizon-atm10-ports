@@ -1,0 +1,9 @@
+id = "mekanism"
+name = "Mekanism"
+version = "10.7.19-horizon.6"
+description = "Mekanism para Horizon: energia, maquinas, infusor, compressor de osmio, aco, obsidiana refinada, cubos e cabos de todos os tiers. Precisa do mod nativo mekanism_native 0.6.0."
+authors = ["Mekanism team (original)", "Espektroh (port Horizon)"]
+api = "0.2"
+side = "both"
+capabilities = ["registries"]
+namespaces = ["mekanismgenerators"]

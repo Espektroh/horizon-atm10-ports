@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "E  ",
+    " E ",
+    "  E"
+  ],
+  "key": {
+    "E": "mysticalagriculture:nature_essence"
+  },
+  "result": {
+    "id": "minecraft:apple",
+    "count": 8
+  }
+}

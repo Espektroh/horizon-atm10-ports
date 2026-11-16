@@ -1,0 +1,12 @@
+{
+  "type": "powah:energizing",
+  "energy": 10000,
+  "ingredients": [
+    "minecraft:iron_ingot",
+    "minecraft:gold_ingot"
+  ],
+  "result": {
+    "id": "powah:steel_energized",
+    "count": 2
+  }
+}

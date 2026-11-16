@@ -1,0 +1,9 @@
+{
+  "values": [
+    "mekanismtools:osmium_chestplate",
+    "mekanismtools:steel_chestplate",
+    "mekanismtools:lapis_lazuli_chestplate",
+    "mekanismtools:refined_glowstone_chestplate",
+    "mekanismtools:refined_obsidian_chestplate"
+  ]
+}

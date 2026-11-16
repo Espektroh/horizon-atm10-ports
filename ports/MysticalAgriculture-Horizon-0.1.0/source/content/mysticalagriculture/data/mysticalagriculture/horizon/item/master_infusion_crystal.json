@@ -1,0 +1,6 @@
+{
+  "template": "minecraft:flint",
+  "max_stack_size": 1,
+  "rarity": "epic",
+  "crafting_remainder": "mysticalagriculture:master_infusion_crystal"
+}

@@ -1,0 +1,11 @@
+{
+  "type": "mekanism:metallurgic_infusing",
+  "input": "minecraft:copper_ingot",
+  "input_count": 1,
+  "infuse_type": "redstone",
+  "infuse_amount": 10,
+  "output": {
+    "id": "mekanism:alloy_infused",
+    "count": 1
+  }
+}

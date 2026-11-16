@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "mysticalagriculture:blocks/osmium_crop",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "mysticalagriculture:osmium_seeds"
+        }
+      ]
+    },
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "mysticalagriculture:osmium_essence"
+        }
+      ],
+      "condition": {
+        "block": "mysticalagriculture:osmium_crop",
+        "properties": {
+          "age": "7"
+        },
+        "type": "minecraft:block_state_property"
+      }
+    }
+  ]
+}

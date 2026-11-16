@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "mysticalagradditions:insanium_block",
+    "mysticalagradditions:insanium_ingot_block",
+    "mysticalagradditions:insanium_gemstone_block",
+    "mysticalagradditions:nether_inferium_ore",
+    "mysticalagradditions:nether_prosperity_ore",
+    "mysticalagradditions:end_inferium_ore",
+    "mysticalagradditions:end_prosperity_ore",
+    "mysticalagradditions:nether_star_crux",
+    "mysticalagradditions:dragon_egg_crux"
+  ]
+}

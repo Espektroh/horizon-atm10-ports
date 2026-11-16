@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "EEE",
+    "E E",
+    "EEE"
+  ],
+  "key": {
+    "E": "mysticalagriculture:amethyst_essence"
+  },
+  "result": {
+    "id": "minecraft:amethyst_shard",
+    "count": 20
+  }
+}

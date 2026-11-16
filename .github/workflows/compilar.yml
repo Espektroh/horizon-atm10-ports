@@ -1,0 +1,33 @@
+name: Compilar mods (Horizon 66f3981)
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - name: Dependências do sistema
+        run: sudo apt-get update && sudo apt-get install -y --no-install-recommends libasound2-dev libudev-dev
+      - name: Rust
+        run: rustup toolchain install 1.95.0 --profile minimal && rustup toolchain install stable --profile minimal
+      - uses: Swatinem/rust-cache@v2
+        with:
+          workspaces: |
+            ../ci-work/horizon-mixins
+            ../ci-work/staged
+      - name: Aplicar mixins e compilar
+        run: tools/ci_check.sh "${{ github.workspace }}/../ci-work"
+      - name: Log
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: logs
+          path: |
+            ${{ github.workspace }}/../ci-work/check.log
+            ${{ github.workspace }}/../ci-work/apply.json
+          if-no-files-found: ignore

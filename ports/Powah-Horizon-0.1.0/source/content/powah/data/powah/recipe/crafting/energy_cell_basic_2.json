@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "iii",
+    "cdc",
+    "iii"
+  ],
+  "key": {
+    "c": "powah:energy_cell_starter",
+    "d": "powah:dielectric_casing",
+    "i": "minecraft:iron_ingot"
+  },
+  "result": {
+    "id": "powah:energy_cell_basic"
+  }
+}

@@ -1,0 +1,11 @@
+[package]
+name = "powah-glue-mockcheck"
+version = "0.0.0"
+edition = "2024"
+[dependencies]
+serde_json = "1"
+horizon_world = { path = "horizon_world" }
+horizon_core = { path = "horizon_core" }
+horizon_client = { path = "horizon_client" }
+[workspace]
+members = ["horizon_world", "horizon_core", "horizon_client"]

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "EEE",
+    "   ",
+    "   "
+  ],
+  "key": {
+    "E": "mysticalagriculture:dye_essence"
+  },
+  "result": {
+    "id": "minecraft:white_dye",
+    "count": 6
+  }
+}

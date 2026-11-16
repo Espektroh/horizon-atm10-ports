@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "PPP",
+    "PAP",
+    "PPP"
+  ],
+  "key": {
+    "A": "mekanism:alloy_atomic",
+    "P": "mekanism:elite_universal_cable"
+  },
+  "result": {
+    "id": "mekanism:ultimate_universal_cable",
+    "count": 8
+  }
+}

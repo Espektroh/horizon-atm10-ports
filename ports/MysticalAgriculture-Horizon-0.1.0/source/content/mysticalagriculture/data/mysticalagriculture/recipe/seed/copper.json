@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "mysticalagriculture:seeds",
+  "pattern": [
+    "MEM",
+    "ESE",
+    "MEM"
+  ],
+  "key": {
+    "M": "minecraft:copper_ingot",
+    "E": "mysticalagriculture:tertium_essence",
+    "S": "mysticalagriculture:prosperity_seed_base"
+  },
+  "result": {
+    "id": "mysticalagriculture:copper_seeds"
+  }
+}

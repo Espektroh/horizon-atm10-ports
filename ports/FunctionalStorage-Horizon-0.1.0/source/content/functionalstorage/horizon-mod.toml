@@ -1,0 +1,8 @@
+id = "functionalstorage"
+name = "Functional Storage"
+version = "1.5.8-horizon.1"
+description = "Gavetas 1x1, 1x2 e 2x2 das 10 madeiras, upgrades de armazenamento (ferro, cobre, ouro, diamante, netherita) e de vazio. Precisa do mod nativo functionalstorage_native 0.1.0."
+authors = ["Buuz135, Rid (original, MIT)", "port Horizon"]
+api = "0.2"
+side = "both"
+capabilities = ["registries"]

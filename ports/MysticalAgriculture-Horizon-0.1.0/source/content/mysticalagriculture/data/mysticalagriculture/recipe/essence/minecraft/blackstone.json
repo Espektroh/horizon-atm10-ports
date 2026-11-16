@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "EEE",
+    "EFE",
+    "EEE"
+  ],
+  "key": {
+    "E": "mysticalagriculture:nether_essence",
+    "F": "mysticalagriculture:stone_essence"
+  },
+  "result": {
+    "id": "minecraft:blackstone",
+    "count": 24
+  }
+}

@@ -1,0 +1,11 @@
+powah_native 0.1.0 - Powah para Horizon (mod nativo)
+
+Port do Powah (Powah! Rearchitected) 6.2.10, de owmii, Technici4n e shartte,
+licenciado sob a GNU Lesser General Public License v3 (LGPLv3).
+Fonte original: https://github.com/Technici4n/Powah (ramo 1.21.1).
+
+Este código Rust foi escrito para o port; os números e regras (energia por
+tier, alcance do orbe, aquecimento das hastes, combustível do Furnator e do
+Magmator, a regra de receita do orbe) vêm do código do original. Distribuído
+também sob a LGPLv3; o texto da licença vai em LICENSE-original.txt dentro do
+powah.hmod.

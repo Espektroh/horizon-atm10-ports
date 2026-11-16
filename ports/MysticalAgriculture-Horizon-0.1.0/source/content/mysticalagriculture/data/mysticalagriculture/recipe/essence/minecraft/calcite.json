@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "EEE",
+    "EAE",
+    "EEE"
+  ],
+  "key": {
+    "E": "mysticalagriculture:stone_essence",
+    "A": "mysticalagriculture:amethyst_essence"
+  },
+  "result": {
+    "id": "minecraft:calcite",
+    "count": 20
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "block.mysticalagradditions.insanium_block": "Bloco de Insanium",
+  "block.mysticalagradditions.insanium_ingot_block": "Bloco de Lingote de Insanium",
+  "block.mysticalagradditions.insanium_gemstone_block": "Bloco de Gema de Insanium",
+  "block.mysticalagradditions.insanium_farmland": "Terra Arada de Insanium",
+  "block.mysticalagradditions.nether_inferium_ore": "Minério de Inferium do Nether",
+  "block.mysticalagradditions.nether_prosperity_ore": "Minério de Prosperidade do Nether",
+  "block.mysticalagradditions.end_inferium_ore": "Minério de Inferium do End",
+  "block.mysticalagradditions.end_prosperity_ore": "Minério de Prosperidade do End",
+  "block.mysticalagradditions.nether_star_crux": "Crux da Estrela do Nether",
+  "block.mysticalagradditions.dragon_egg_crux": "Crux do Ovo de Dragão",
+  "item.mysticalagradditions.insanium_essence": "Essência de Insanium",
+  "item.mysticalagradditions.insanium_ingot": "Lingote de Insanium",
+  "item.mysticalagradditions.insanium_nugget": "Pepita de Insanium",
+  "item.mysticalagradditions.insanium_gemstone": "Gema de Insanium",
+  "item.mysticalagradditions.withering_soul": "Alma do Wither",
+  "item.mysticalagradditions.dragon_scale": "Escama de Dragão",
+  "item.mysticalagradditions.nether_star_shard": "Fragmento de Estrela do Nether",
+  "item.mysticalagradditions.dragon_egg_chunk": "Pedaço de Ovo de Dragão",
+  "itemGroup.mysticalagradditions": "Mystical Agradditions"
+}

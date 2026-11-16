@@ -1,0 +1,8 @@
+id = "mekanismtools"
+name = "Mekanism Tools"
+version = "10.7.19-horizon.1"
+description = "Ferramentas, paxels e armaduras de osmio, aco, lapis-lazuli, pedra luminosa refinada e obsidiana refinada. Precisa do mod de conteudo mekanism (os lingotes)."
+authors = ["Mekanism team (original, MIT)", "Espektroh (port Horizon)"]
+api = "0.2"
+side = "both"
+capabilities = ["registries"]

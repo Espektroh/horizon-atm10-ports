@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "facing=up": {
+      "model": "powah:block/energizing_rod_starter"
+    },
+    "facing=down": {
+      "model": "powah:block/energizing_rod_starter",
+      "x": 180
+    },
+    "facing=north": {
+      "model": "powah:block/energizing_rod_starter",
+      "x": 90
+    },
+    "facing=south": {
+      "model": "powah:block/energizing_rod_starter",
+      "x": 90,
+      "y": 180
+    },
+    "facing=east": {
+      "model": "powah:block/energizing_rod_starter",
+      "x": 90,
+      "y": 90
+    },
+    "facing=west": {
+      "model": "powah:block/energizing_rod_starter",
+      "x": 90,
+      "y": 270
+    }
+  }
+}

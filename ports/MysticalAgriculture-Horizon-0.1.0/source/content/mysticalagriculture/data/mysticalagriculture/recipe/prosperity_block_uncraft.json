@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "mysticalagriculture:prosperity_block"
+  ],
+  "result": {
+    "id": "mysticalagriculture:prosperity_shard",
+    "count": 9
+  }
+}

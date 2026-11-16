@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "mysticalagriculture:prudentium_essence",
+    "minecraft:farmland"
+  ],
+  "group": "mysticalagriculture:farmland",
+  "result": {
+    "id": "mysticalagriculture:prudentium_farmland"
+  }
+}

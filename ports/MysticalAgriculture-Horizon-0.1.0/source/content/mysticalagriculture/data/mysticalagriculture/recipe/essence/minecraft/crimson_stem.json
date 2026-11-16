@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "   ",
+    "ENE",
+    "   "
+  ],
+  "key": {
+    "E": "mysticalagriculture:wood_essence",
+    "N": "mysticalagriculture:nether_essence"
+  },
+  "result": {
+    "id": "minecraft:crimson_stem",
+    "count": 12
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "mekanism:enriching",
+  "input": "#minecraft:emerald_ores",
+  "input_count": 1,
+  "output": {
+    "id": "minecraft:emerald",
+    "count": 2
+  }
+}

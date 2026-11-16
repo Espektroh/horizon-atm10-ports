@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "PPP",
+    "PAP",
+    "PPP"
+  ],
+  "key": {
+    "A": "mekanism:alloy_infused",
+    "P": "mekanism:basic_universal_cable"
+  },
+  "result": {
+    "id": "mekanism:advanced_universal_cable",
+    "count": 8
+  }
+}

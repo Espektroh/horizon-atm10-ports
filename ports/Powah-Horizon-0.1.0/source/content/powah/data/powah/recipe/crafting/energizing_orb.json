@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ggg",
+    "gcg",
+    "rrr"
+  ],
+  "key": {
+    "c": "powah:dielectric_casing",
+    "g": "minecraft:glass",
+    "r": "powah:dielectric_rod_horizontal"
+  },
+  "result": {
+    "id": "powah:energizing_orb"
+  }
+}

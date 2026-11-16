@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "CO",
+    "PL"
+  ],
+  "key": {
+    "C": "minecraft:cyan_dye",
+    "O": "minecraft:orange_dye",
+    "P": "minecraft:pink_dye",
+    "L": "minecraft:lime_dye"
+  },
+  "result": {
+    "id": "mysticalagriculture:dye_agglomeratio"
+  }
+}
