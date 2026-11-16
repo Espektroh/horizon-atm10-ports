@@ -18,16 +18,16 @@ jobs:
       - uses: Swatinem/rust-cache@v2
         with:
           workspaces: |
-            ../ci-work/horizon-mixins
-            ../ci-work/staged
+            ${{ runner.temp }}/ci-work/horizon-mixins
+            ${{ runner.temp }}/ci-work/staged
       - name: Aplicar mixins e compilar
-        run: tools/ci_check.sh "${{ github.workspace }}/../ci-work"
+        run: tools/ci_check.sh "${{ runner.temp }}/ci-work"
       - name: Log
         if: always()
         uses: actions/upload-artifact@v4
         with:
           name: logs
           path: |
-            ${{ github.workspace }}/../ci-work/check.log
-            ${{ github.workspace }}/../ci-work/apply.json
+            ${{ runner.temp }}/ci-work/check.log
+            ${{ runner.temp }}/ci-work/apply.json
           if-no-files-found: ignore

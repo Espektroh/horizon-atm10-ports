@@ -12,6 +12,13 @@ mkdir -p "$WORK"; cd "$WORK"
 if [ ! -d horizon/.git ]; then git clone --filter=blob:none https://github.com/horizon-rust/horizon horizon; fi
 git -C horizon fetch -q --filter=blob:none origin "$HORIZON_REV" || true
 git -C horizon checkout -q "$HORIZON_REV"
+# O horizon-mixins recusa symlinks (ex.: CLAUDE.md -> AGENTS.md). Troca cada um por uma cópia do alvo
+# (ou apaga, se o alvo não for um arquivo). Não muda nada que o cargo compila.
+while IFS= read -r -d '' l; do
+  t=$(readlink -f "$l" || true)
+  if [ -n "$t" ] && [ -f "$t" ]; then cp --remove-destination "$t" "$l"; else rm -f "$l"; fi
+  echo "symlink resolvido: ${l#horizon/}"
+done < <(find horizon -path horizon/.git -prune -o -type l -print0)
 
 if [ ! -d horizon-mixins/.git ]; then git clone https://github.com/horizon-rust/horizon-mixins horizon-mixins; fi
 git -C horizon-mixins fetch -q origin "$MIXINS_REV" || true
