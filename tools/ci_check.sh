@@ -9,9 +9,13 @@ ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 WORK="${1:-$ROOT/../ci-work}"
 mkdir -p "$WORK"; cd "$WORK"
 
-if [ ! -d horizon/.git ]; then git clone --filter=blob:none https://github.com/horizon-rust/horizon horizon; fi
-git -C horizon fetch -q --filter=blob:none origin "$HORIZON_REV" || true
-git -C horizon checkout -q "$HORIZON_REV"
+# git init + fetch (e não clone): o cache do CI recria horizon-mixins/target antes, e o clone recusaria a pasta.
+fetch_rev() { # pasta url rev
+  if [ ! -d "$1/.git" ]; then git init -q "$1"; git -C "$1" remote add origin "$2"; fi
+  git -C "$1" fetch -q --depth 1 origin "$3"
+  git -C "$1" checkout -q -f FETCH_HEAD
+}
+fetch_rev horizon https://github.com/horizon-rust/horizon "$HORIZON_REV"
 # O horizon-mixins recusa symlinks (ex.: CLAUDE.md -> AGENTS.md). Troca cada um por uma cópia do alvo
 # (ou apaga, se o alvo não for um arquivo). Não muda nada que o cargo compila.
 while IFS= read -r -d '' l; do
@@ -20,9 +24,7 @@ while IFS= read -r -d '' l; do
   echo "symlink resolvido: ${l#horizon/}"
 done < <(find horizon -path horizon/.git -prune -o -type l -print0)
 
-if [ ! -d horizon-mixins/.git ]; then git clone https://github.com/horizon-rust/horizon-mixins horizon-mixins; fi
-git -C horizon-mixins fetch -q origin "$MIXINS_REV" || true
-git -C horizon-mixins checkout -q "$MIXINS_REV"
+fetch_rev horizon-mixins https://github.com/horizon-rust/horizon-mixins "$MIXINS_REV"
 (cd horizon-mixins && cargo build --locked -q -p horizon-mixins-cli)
 MIXINS="$WORK/horizon-mixins/target/debug/horizon-mixins"
 
