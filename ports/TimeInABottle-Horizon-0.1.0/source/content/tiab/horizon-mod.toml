@@ -1,0 +1,9 @@
+id = "tiab"
+name = "Time In A Bottle"
+version = "4.0.0-horizon.1"
+description = "Tempo na Garrafa: acumula tempo no inventario e acelera blocos (maquinas, fornalhas, plantas). Precisa do mod nativo tiab_native."
+authors = ["lumien (Random Things, MIT)", "haoict (Time In A Bottle standalone, MIT)", "port Horizon"]
+# A content mod: one item from data/ and assets/, no code (API 0.2).
+api = "0.2"
+side = "both"
+capabilities = ["registries"]

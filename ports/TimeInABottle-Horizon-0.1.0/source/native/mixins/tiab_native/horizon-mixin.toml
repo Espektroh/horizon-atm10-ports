@@ -1,0 +1,83 @@
+[mod]
+id = "tiab_native"
+version = "0.1.0"
+priority = 80
+
+# Time In A Bottle for Horizon (content mod `tiab`). Written for Nightly 66f3981.
+# Hooks: an item's inventory tick (API 39), tooltips (API 12), using an item on a
+# block (API 13), the end of a server level's tick, the server's start, Options > Mods.
+# Every API used: APIS.md.
+[compatibility]
+horizon_revision = "66f3981f522b24c250b21523a70080965b940424"
+
+[[module]]
+id = "runtime"
+file = "crates/horizon-client/src/game.rs"
+name = "tiab_rt"
+source = "runtime.rs"
+
+[[module]]
+id = "glue"
+file = "crates/horizon-client/src/game.rs"
+name = "tiab_glue"
+source = "glue.rs"
+
+[[injection]]
+id = "use-item-on"
+kind = "HEAD"
+target = "horizon_client::game::native_hooks::Game<'_>::native_use_item_on"
+helper = "use_item_on.rs"
+bindings = [
+  { name = "game", ty = "&mut crate::game::Game<'_>", value = "&mut *self" },
+  { name = "stack", ty = "&horizon_client::items::ItemStack", value = "stack" },
+  { name = "pos", ty = "[i32; 3]", value = "pos" },
+  { name = "claimed", ty = "&mut bool", value = "&mut *claimed" },
+]
+
+[[injection]]
+id = "inventory-tick"
+kind = "HEAD"
+target = "horizon_client::game::native_hooks::Game<'_>::native_inventory_tick"
+helper = "inventory_tick.rs"
+bindings = [
+  { name = "game", ty = "&mut crate::game::Game<'_>", value = "&mut *self" },
+  { name = "slot", ty = "i32", value = "slot" },
+]
+
+[[injection]]
+id = "tooltip"
+kind = "HEAD"
+target = "horizon_client::game::native_hooks::Game<'_>::native_tooltip"
+helper = "tooltip.rs"
+bindings = [
+  { name = "stack", ty = "&horizon_client::items::ItemStack", value = "stack" },
+  { name = "lines", ty = "&mut Vec<(horizon_client::text::Text, u32)>", value = "&mut *lines" },
+]
+
+[[injection]]
+id = "level-tick-post"
+kind = "HEAD"
+target = "horizon_client::game::native_hooks::Game<'_>::native_level_tick_post"
+helper = "level_tick_post.rs"
+bindings = [
+  { name = "game", ty = "&mut crate::game::Game<'_>", value = "&mut *self" },
+  { name = "dimension", ty = "&str", value = "dimension" },
+]
+
+[[injection]]
+id = "server-start"
+kind = "HEAD"
+target = "horizon_client::game::native_hooks::Game<'_>::native_server_about_to_start"
+helper = "server_start.rs"
+bindings = [
+  { name = "dedicated", ty = "bool", value = "dedicated" },
+]
+
+[[injection]]
+id = "list"
+kind = "HEAD"
+target = "horizon_client::game::native_hooks::Game<'_>::native_mods"
+helper = "list.rs"
+bindings = [
+  { name = "mods", ty = "&mut Vec<crate::game::native_hooks::NativeMod>", value = "&mut *mods" },
+]

@@ -1,0 +1,8 @@
+{
+  "item.tiab.time_in_a_bottle": "Time in a bottle",
+  "item.tiab.time_in_a_bottle.tooltip.stored_time": "Stored time %s:%s:%s",
+  "item.tiab.time_in_a_bottle.tooltip.total_accumulated_time": "Total accumulated time %s:%s:%s",
+  "message.tiab.rate": "Time rate: x%s (%s s left)",
+  "message.tiab.not_enough": "Not enough stored time: %s s needed",
+  "message.tiab.max": "Already at the maximum rate: x%s"
+}

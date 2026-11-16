@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "GGG",
+    "DCD",
+    "LBL"
+  ],
+  "key": {
+    "G": "minecraft:gold_ingot",
+    "D": "minecraft:diamond",
+    "L": "minecraft:lapis_lazuli",
+    "C": "minecraft:clock",
+    "B": "minecraft:glass_bottle"
+  },
+  "result": {
+    "id": "tiab:time_in_a_bottle"
+  }
+}

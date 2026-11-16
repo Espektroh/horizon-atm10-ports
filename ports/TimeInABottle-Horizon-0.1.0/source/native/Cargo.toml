@@ -1,0 +1,13 @@
+[package]
+name = "horizon-mod-tiab"
+version = "0.1.0"
+edition = "2024"
+rust-version = "1.95"
+license = "MIT"
+description = "Time In A Bottle for Horizon, a native mod (rules)"
+
+[lib]
+path = "mixins/tiab_native/runtime.rs"
+
+[workspace]
+resolver = "2"

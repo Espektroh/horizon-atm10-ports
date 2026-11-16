@@ -1,0 +1,8 @@
+{
+  "item.tiab.time_in_a_bottle": "Tempo na Garrafa",
+  "item.tiab.time_in_a_bottle.tooltip.stored_time": "Tempo guardado %s:%s:%s",
+  "item.tiab.time_in_a_bottle.tooltip.total_accumulated_time": "Tempo total acumulado %s:%s:%s",
+  "message.tiab.rate": "Velocidade do tempo: x%s (%s s restantes)",
+  "message.tiab.not_enough": "Tempo guardado insuficiente: precisa de %s s",
+  "message.tiab.max": "Ja esta na velocidade maxima: x%s"
+}
