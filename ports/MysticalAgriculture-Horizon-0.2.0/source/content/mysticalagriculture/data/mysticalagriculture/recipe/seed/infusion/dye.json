@@ -1,0 +1,17 @@
+{
+  "type": "mysticalagriculture:infusion",
+  "input": "mysticalagriculture:prosperity_seed_base",
+  "ingredients": [
+    "mysticalagriculture:dye_agglomeratio",
+    "mysticalagriculture:prudentium_essence",
+    "mysticalagriculture:dye_agglomeratio",
+    "mysticalagriculture:prudentium_essence",
+    "mysticalagriculture:dye_agglomeratio",
+    "mysticalagriculture:prudentium_essence",
+    "mysticalagriculture:dye_agglomeratio",
+    "mysticalagriculture:prudentium_essence"
+  ],
+  "result": {
+    "id": "mysticalagriculture:dye_seeds"
+  }
+}

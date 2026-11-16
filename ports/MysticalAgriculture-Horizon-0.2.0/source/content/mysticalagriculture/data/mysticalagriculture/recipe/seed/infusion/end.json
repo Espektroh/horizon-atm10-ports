@@ -1,0 +1,17 @@
+{
+  "type": "mysticalagriculture:infusion",
+  "input": "mysticalagriculture:prosperity_seed_base",
+  "ingredients": [
+    "mysticalagriculture:end_agglomeratio",
+    "mysticalagriculture:imperium_essence",
+    "mysticalagriculture:end_agglomeratio",
+    "mysticalagriculture:imperium_essence",
+    "mysticalagriculture:end_agglomeratio",
+    "mysticalagriculture:imperium_essence",
+    "mysticalagriculture:end_agglomeratio",
+    "mysticalagriculture:imperium_essence"
+  ],
+  "result": {
+    "id": "mysticalagriculture:end_seeds"
+  }
+}

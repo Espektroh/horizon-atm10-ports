@@ -1,0 +1,17 @@
+{
+  "type": "mysticalagriculture:infusion",
+  "input": "mysticalagriculture:prosperity_seed_base",
+  "ingredients": [
+    "mekanism:ingot_osmium",
+    "mysticalagriculture:imperium_essence",
+    "mekanism:ingot_osmium",
+    "mysticalagriculture:imperium_essence",
+    "mekanism:ingot_osmium",
+    "mysticalagriculture:imperium_essence",
+    "mekanism:ingot_osmium",
+    "mysticalagriculture:imperium_essence"
+  ],
+  "result": {
+    "id": "mysticalagriculture:osmium_seeds"
+  }
+}

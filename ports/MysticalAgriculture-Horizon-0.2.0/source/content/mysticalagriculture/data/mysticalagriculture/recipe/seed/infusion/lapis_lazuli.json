@@ -1,0 +1,17 @@
+{
+  "type": "mysticalagriculture:infusion",
+  "input": "mysticalagriculture:prosperity_seed_base",
+  "ingredients": [
+    "minecraft:lapis_lazuli",
+    "mysticalagriculture:imperium_essence",
+    "minecraft:lapis_lazuli",
+    "mysticalagriculture:imperium_essence",
+    "minecraft:lapis_lazuli",
+    "mysticalagriculture:imperium_essence",
+    "minecraft:lapis_lazuli",
+    "mysticalagriculture:imperium_essence"
+  ],
+  "result": {
+    "id": "mysticalagriculture:lapis_lazuli_seeds"
+  }
+}

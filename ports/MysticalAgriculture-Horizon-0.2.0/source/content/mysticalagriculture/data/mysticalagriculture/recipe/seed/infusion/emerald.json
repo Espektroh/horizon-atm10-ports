@@ -1,0 +1,17 @@
+{
+  "type": "mysticalagriculture:infusion",
+  "input": "mysticalagriculture:prosperity_seed_base",
+  "ingredients": [
+    "minecraft:emerald",
+    "mysticalagriculture:supremium_essence",
+    "minecraft:emerald",
+    "mysticalagriculture:supremium_essence",
+    "minecraft:emerald",
+    "mysticalagriculture:supremium_essence",
+    "minecraft:emerald",
+    "mysticalagriculture:supremium_essence"
+  ],
+  "result": {
+    "id": "mysticalagriculture:emerald_seeds"
+  }
+}

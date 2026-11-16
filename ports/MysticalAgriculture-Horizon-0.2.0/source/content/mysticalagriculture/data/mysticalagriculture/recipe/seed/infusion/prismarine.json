@@ -1,0 +1,17 @@
+{
+  "type": "mysticalagriculture:infusion",
+  "input": "mysticalagriculture:prosperity_seed_base",
+  "ingredients": [
+    "mysticalagriculture:prismarine_agglomeratio",
+    "mysticalagriculture:tertium_essence",
+    "mysticalagriculture:prismarine_agglomeratio",
+    "mysticalagriculture:tertium_essence",
+    "mysticalagriculture:prismarine_agglomeratio",
+    "mysticalagriculture:tertium_essence",
+    "mysticalagriculture:prismarine_agglomeratio",
+    "mysticalagriculture:tertium_essence"
+  ],
+  "result": {
+    "id": "mysticalagriculture:prismarine_seeds"
+  }
+}

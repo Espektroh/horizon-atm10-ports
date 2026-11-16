@@ -1,0 +1,17 @@
+{
+  "type": "mysticalagriculture:infusion",
+  "input": "mysticalagriculture:prosperity_seed_base",
+  "ingredients": [
+    "minecraft:quartz",
+    "mysticalagriculture:tertium_essence",
+    "minecraft:quartz",
+    "mysticalagriculture:tertium_essence",
+    "minecraft:quartz",
+    "mysticalagriculture:tertium_essence",
+    "minecraft:quartz",
+    "mysticalagriculture:tertium_essence"
+  ],
+  "result": {
+    "id": "mysticalagriculture:nether_quartz_seeds"
+  }
+}

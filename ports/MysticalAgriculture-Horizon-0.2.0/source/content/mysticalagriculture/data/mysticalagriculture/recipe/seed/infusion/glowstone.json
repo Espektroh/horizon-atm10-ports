@@ -1,0 +1,17 @@
+{
+  "type": "mysticalagriculture:infusion",
+  "input": "mysticalagriculture:prosperity_seed_base",
+  "ingredients": [
+    "minecraft:glowstone_dust",
+    "mysticalagriculture:tertium_essence",
+    "minecraft:glowstone_dust",
+    "mysticalagriculture:tertium_essence",
+    "minecraft:glowstone_dust",
+    "mysticalagriculture:tertium_essence",
+    "minecraft:glowstone_dust",
+    "mysticalagriculture:tertium_essence"
+  ],
+  "result": {
+    "id": "mysticalagriculture:glowstone_seeds"
+  }
+}

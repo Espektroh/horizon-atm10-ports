@@ -1,8 +1,0 @@
-id = "mysticalagriculture"
-name = "Mystical Agriculture"
-version = "8.0.28-horizon.1"
-description = "Sementes que crescem recursos: essencias de Inferium a Supremium, terras de essencia, sementes de recurso. Port do Mystical Agriculture (BlakeBr0, MIT). Precisa do mod nativo mysticalagriculture_native."
-authors = ["BlakeBr0 (original, MIT)", "port Horizon"]
-api = "0.2"
-side = "both"
-capabilities = ["registries"]

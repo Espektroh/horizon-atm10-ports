@@ -1,0 +1,17 @@
+{
+  "type": "mysticalagriculture:infusion",
+  "input": "mysticalagriculture:prosperity_seed_base",
+  "ingredients": [
+    "minecraft:iron_ingot",
+    "mysticalagriculture:tertium_essence",
+    "minecraft:iron_ingot",
+    "mysticalagriculture:tertium_essence",
+    "minecraft:iron_ingot",
+    "mysticalagriculture:tertium_essence",
+    "minecraft:iron_ingot",
+    "mysticalagriculture:tertium_essence"
+  ],
+  "result": {
+    "id": "mysticalagriculture:iron_seeds"
+  }
+}

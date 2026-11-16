@@ -1,0 +1,17 @@
+{
+  "type": "mysticalagriculture:infusion",
+  "input": "mysticalagriculture:prosperity_seed_base",
+  "ingredients": [
+    "minecraft:netherite_ingot",
+    "mysticalagriculture:supremium_essence",
+    "minecraft:netherite_ingot",
+    "mysticalagriculture:supremium_essence",
+    "minecraft:netherite_ingot",
+    "mysticalagriculture:supremium_essence",
+    "minecraft:netherite_ingot",
+    "mysticalagriculture:supremium_essence"
+  ],
+  "result": {
+    "id": "mysticalagriculture:netherite_seeds"
+  }
+}

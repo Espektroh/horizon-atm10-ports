@@ -1,0 +1,17 @@
+{
+  "type": "mysticalagriculture:infusion",
+  "input": "mysticalagriculture:prosperity_seed_base",
+  "ingredients": [
+    "mysticalagriculture:honey_agglomeratio",
+    "mysticalagriculture:prudentium_essence",
+    "mysticalagriculture:honey_agglomeratio",
+    "mysticalagriculture:prudentium_essence",
+    "mysticalagriculture:honey_agglomeratio",
+    "mysticalagriculture:prudentium_essence",
+    "mysticalagriculture:honey_agglomeratio",
+    "mysticalagriculture:prudentium_essence"
+  ],
+  "result": {
+    "id": "mysticalagriculture:honey_seeds"
+  }
+}

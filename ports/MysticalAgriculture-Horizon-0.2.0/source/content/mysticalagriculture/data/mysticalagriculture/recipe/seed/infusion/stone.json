@@ -1,0 +1,17 @@
+{
+  "type": "mysticalagriculture:infusion",
+  "input": "mysticalagriculture:prosperity_seed_base",
+  "ingredients": [
+    "minecraft:stone",
+    "mysticalagriculture:inferium_essence",
+    "minecraft:stone",
+    "mysticalagriculture:inferium_essence",
+    "minecraft:stone",
+    "mysticalagriculture:inferium_essence",
+    "minecraft:stone",
+    "mysticalagriculture:inferium_essence"
+  ],
+  "result": {
+    "id": "mysticalagriculture:stone_seeds"
+  }
+}

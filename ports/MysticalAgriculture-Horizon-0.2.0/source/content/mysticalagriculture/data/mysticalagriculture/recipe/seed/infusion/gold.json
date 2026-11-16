@@ -1,0 +1,17 @@
+{
+  "type": "mysticalagriculture:infusion",
+  "input": "mysticalagriculture:prosperity_seed_base",
+  "ingredients": [
+    "minecraft:gold_ingot",
+    "mysticalagriculture:imperium_essence",
+    "minecraft:gold_ingot",
+    "mysticalagriculture:imperium_essence",
+    "minecraft:gold_ingot",
+    "mysticalagriculture:imperium_essence",
+    "minecraft:gold_ingot",
+    "mysticalagriculture:imperium_essence"
+  ],
+  "result": {
+    "id": "mysticalagriculture:gold_seeds"
+  }
+}

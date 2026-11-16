@@ -1,0 +1,17 @@
+{
+  "type": "mysticalagriculture:infusion",
+  "input": "mysticalagriculture:prosperity_seed_base",
+  "ingredients": [
+    "minecraft:deepslate",
+    "mysticalagriculture:inferium_essence",
+    "minecraft:deepslate",
+    "mysticalagriculture:inferium_essence",
+    "minecraft:deepslate",
+    "mysticalagriculture:inferium_essence",
+    "minecraft:deepslate",
+    "mysticalagriculture:inferium_essence"
+  ],
+  "result": {
+    "id": "mysticalagriculture:deepslate_seeds"
+  }
+}

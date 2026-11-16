@@ -1,0 +1,17 @@
+{
+  "type": "mysticalagriculture:infusion",
+  "input": "mysticalagriculture:prosperity_seed_base",
+  "ingredients": [
+    "minecraft:ice",
+    "mysticalagriculture:inferium_essence",
+    "minecraft:ice",
+    "mysticalagriculture:inferium_essence",
+    "minecraft:ice",
+    "mysticalagriculture:inferium_essence",
+    "minecraft:ice",
+    "mysticalagriculture:inferium_essence"
+  ],
+  "result": {
+    "id": "mysticalagriculture:ice_seeds"
+  }
+}

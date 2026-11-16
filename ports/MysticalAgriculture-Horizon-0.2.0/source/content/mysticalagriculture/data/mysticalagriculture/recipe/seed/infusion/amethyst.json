@@ -1,0 +1,17 @@
+{
+  "type": "mysticalagriculture:infusion",
+  "input": "mysticalagriculture:prosperity_seed_base",
+  "ingredients": [
+    "minecraft:amethyst_shard",
+    "mysticalagriculture:prudentium_essence",
+    "minecraft:amethyst_shard",
+    "mysticalagriculture:prudentium_essence",
+    "minecraft:amethyst_shard",
+    "mysticalagriculture:prudentium_essence",
+    "minecraft:amethyst_shard",
+    "mysticalagriculture:prudentium_essence"
+  ],
+  "result": {
+    "id": "mysticalagriculture:amethyst_seeds"
+  }
+}

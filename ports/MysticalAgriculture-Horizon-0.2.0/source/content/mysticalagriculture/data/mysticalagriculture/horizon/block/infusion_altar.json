@@ -1,0 +1,46 @@
+{
+  "template": "minecraft:stone",
+  "properties": {
+    "hardness": 10.0,
+    "explosion_resistance": 12.0,
+    "sounds": "minecraft:stone",
+    "requires_tool": true,
+    "occludes": false
+  },
+  "shapes": {
+    "default": [
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.5,
+        1.0
+      ],
+      [
+        0.03125,
+        0.5,
+        0.03125,
+        0.96875,
+        0.625,
+        0.96875
+      ],
+      [
+        0.3125,
+        0.625,
+        0.3125,
+        0.6875,
+        0.8125,
+        0.6875
+      ],
+      [
+        0.125,
+        0.8125,
+        0.125,
+        0.875,
+        0.90625,
+        0.875
+      ]
+    ]
+  }
+}

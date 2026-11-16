@@ -1,0 +1,17 @@
+{
+  "type": "mysticalagriculture:infusion",
+  "input": "mysticalagriculture:prosperity_seed_base",
+  "ingredients": [
+    "mysticalagradditions:dragon_scale",
+    "mysticalagradditions:insanium_essence",
+    "mysticalagradditions:dragon_scale",
+    "mysticalagradditions:insanium_essence",
+    "mysticalagradditions:dragon_scale",
+    "mysticalagradditions:insanium_essence",
+    "mysticalagradditions:dragon_scale",
+    "mysticalagradditions:insanium_essence"
+  ],
+  "result": {
+    "id": "mysticalagriculture:dragon_egg_seeds"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "mysticalagriculture:inferium_block",
+    "mysticalagriculture:inferium_ingot_block",
+    "mysticalagriculture:inferium_gemstone_block",
+    "mysticalagriculture:prudentium_block",
+    "mysticalagriculture:prudentium_ingot_block",
+    "mysticalagriculture:prudentium_gemstone_block",
+    "mysticalagriculture:tertium_block",
+    "mysticalagriculture:tertium_ingot_block",
+    "mysticalagriculture:tertium_gemstone_block",
+    "mysticalagriculture:imperium_block",
+    "mysticalagriculture:imperium_ingot_block",
+    "mysticalagriculture:imperium_gemstone_block",
+    "mysticalagriculture:supremium_block",
+    "mysticalagriculture:supremium_ingot_block",
+    "mysticalagriculture:supremium_gemstone_block",
+    "mysticalagriculture:prosperity_block",
+    "mysticalagriculture:prosperity_ingot_block",
+    "mysticalagriculture:prosperity_gemstone_block",
+    "mysticalagriculture:inferium_ore",
+    "mysticalagriculture:deepslate_inferium_ore",
+    "mysticalagriculture:prosperity_ore",
+    "mysticalagriculture:deepslate_prosperity_ore",
+    "mysticalagriculture:infusion_altar",
+    "mysticalagriculture:infusion_pedestal"
+  ]
+}

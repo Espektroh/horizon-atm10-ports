@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  E",
+    " S ",
+    "R  "
+  ],
+  "key": {
+    "S": "minecraft:stick",
+    "R": "minecraft:stone",
+    "E": "mysticalagriculture:inferium_essence"
+  },
+  "result": {
+    "id": "mysticalagriculture:wand"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " BI",
+    "IWI",
+    " I "
+  ],
+  "key": {
+    "I": "minecraft:iron_ingot",
+    "W": "minecraft:bowl",
+    "B": "minecraft:bone_meal"
+  },
+  "result": {
+    "id": "mysticalagriculture:watering_can"
+  }
+}

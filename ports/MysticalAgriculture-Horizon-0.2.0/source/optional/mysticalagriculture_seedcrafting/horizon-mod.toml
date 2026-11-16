@@ -1,0 +1,8 @@
+id = "mysticalagriculture_seedcrafting"
+name = "Mystical Agriculture: sementes na bancada"
+version = "8.0.28-horizon.2"
+description = "Opcional: receitas de bancada (MEM/ESE/MEM) para as sementes, como a opcao seedCraftingRecipes do original. Sem ela as sementes so saem do Altar de Infusao."
+authors = ["BlakeBr0 (original, MIT)", "port Horizon"]
+api = "0.2"
+side = "both"
+capabilities = ["registries"]

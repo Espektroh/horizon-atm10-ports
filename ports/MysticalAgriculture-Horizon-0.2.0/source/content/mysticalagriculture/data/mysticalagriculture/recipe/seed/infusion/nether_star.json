@@ -1,0 +1,17 @@
+{
+  "type": "mysticalagriculture:infusion",
+  "input": "mysticalagriculture:prosperity_seed_base",
+  "ingredients": [
+    "minecraft:nether_star",
+    "mysticalagradditions:insanium_essence",
+    "minecraft:nether_star",
+    "mysticalagradditions:insanium_essence",
+    "minecraft:nether_star",
+    "mysticalagradditions:insanium_essence",
+    "minecraft:nether_star",
+    "mysticalagradditions:insanium_essence"
+  ],
+  "result": {
+    "id": "mysticalagriculture:nether_star_seeds"
+  }
+}

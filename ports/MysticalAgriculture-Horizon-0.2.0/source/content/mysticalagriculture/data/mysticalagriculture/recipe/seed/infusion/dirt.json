@@ -1,0 +1,17 @@
+{
+  "type": "mysticalagriculture:infusion",
+  "input": "mysticalagriculture:prosperity_seed_base",
+  "ingredients": [
+    "minecraft:dirt",
+    "mysticalagriculture:inferium_essence",
+    "minecraft:dirt",
+    "mysticalagriculture:inferium_essence",
+    "minecraft:dirt",
+    "mysticalagriculture:inferium_essence",
+    "minecraft:dirt",
+    "mysticalagriculture:inferium_essence"
+  ],
+  "result": {
+    "id": "mysticalagriculture:dirt_seeds"
+  }
+}

@@ -7,7 +7,7 @@ redistribuição.
 | Pacote | Mod original | Licença | Estado |
 |---|---|---|---|
 | `ports/Mekanism-Horizon-0.6.1` | Mekanism + Mekanism Tools | MIT | Testado no jogo (0.6.0); 0.6.1 aguarda Build |
-| `ports/MysticalAgriculture-Horizon-0.1.0` | Mystical Agriculture | MIT | Testado no jogo |
+| `ports/MysticalAgriculture-Horizon-0.2.0` | Mystical Agriculture | MIT | 0.1.0 testada no jogo; 0.2.0 (altar, regadores) aguarda Build |
 | `ports/Torchmaster-Horizon-0.1.0` | Torchmaster | MIT | Testado no jogo |
 | `ports/Powah-Horizon-0.1.0` | Powah! | MIT | Aguarda Build e teste no jogo |
 | `ports/FunctionalStorage-Horizon-0.1.0` | Functional Storage | LGPL-3.0 | Aguarda Build e teste no jogo |

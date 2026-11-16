@@ -1,0 +1,17 @@
+{
+  "type": "mysticalagriculture:infusion",
+  "input": "mysticalagriculture:prosperity_seed_base",
+  "ingredients": [
+    "minecraft:redstone",
+    "mysticalagriculture:tertium_essence",
+    "minecraft:redstone",
+    "mysticalagriculture:tertium_essence",
+    "minecraft:redstone",
+    "mysticalagriculture:tertium_essence",
+    "minecraft:redstone",
+    "mysticalagriculture:tertium_essence"
+  ],
+  "result": {
+    "id": "mysticalagriculture:redstone_seeds"
+  }
+}

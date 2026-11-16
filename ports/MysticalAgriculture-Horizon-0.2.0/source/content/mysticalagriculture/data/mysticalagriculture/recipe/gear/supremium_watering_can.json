@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "FGF",
+    "ISI",
+    "FGF"
+  ],
+  "key": {
+    "G": "mysticalagriculture:supremium_ingot",
+    "I": "mysticalagriculture:supremium_ingot",
+    "S": "mysticalagriculture:imperium_watering_can",
+    "F": "mysticalagriculture:mystical_fertilizer"
+  },
+  "result": {
+    "id": "mysticalagriculture:supremium_watering_can"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "mysticalagriculture:infusion",
+  "input": "mysticalagriculture:prosperity_seed_base",
+  "ingredients": [
+    "minecraft:obsidian",
+    "mysticalagriculture:tertium_essence",
+    "minecraft:obsidian",
+    "mysticalagriculture:tertium_essence",
+    "minecraft:obsidian",
+    "mysticalagriculture:tertium_essence",
+    "minecraft:obsidian",
+    "mysticalagriculture:tertium_essence"
+  ],
+  "result": {
+    "id": "mysticalagriculture:obsidian_seeds"
+  }
+}

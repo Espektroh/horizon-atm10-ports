@@ -1,0 +1,17 @@
+{
+  "type": "mysticalagriculture:infusion",
+  "input": "mysticalagriculture:prosperity_seed_base",
+  "ingredients": [
+    "minecraft:coal",
+    "mysticalagriculture:prudentium_essence",
+    "minecraft:coal",
+    "mysticalagriculture:prudentium_essence",
+    "minecraft:coal",
+    "mysticalagriculture:prudentium_essence",
+    "minecraft:coal",
+    "mysticalagriculture:prudentium_essence"
+  ],
+  "result": {
+    "id": "mysticalagriculture:coal_seeds"
+  }
+}

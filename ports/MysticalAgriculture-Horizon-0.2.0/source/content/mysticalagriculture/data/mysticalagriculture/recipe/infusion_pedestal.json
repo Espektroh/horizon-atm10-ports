@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "GCG",
+    " S ",
+    " S "
+  ],
+  "key": {
+    "S": "minecraft:stone",
+    "C": "minecraft:red_wool",
+    "G": "minecraft:gold_ingot"
+  },
+  "result": {
+    "id": "mysticalagriculture:infusion_pedestal"
+  }
+}

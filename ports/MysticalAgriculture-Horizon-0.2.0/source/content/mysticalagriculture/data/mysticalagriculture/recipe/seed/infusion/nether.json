@@ -1,0 +1,17 @@
+{
+  "type": "mysticalagriculture:infusion",
+  "input": "mysticalagriculture:prosperity_seed_base",
+  "ingredients": [
+    "mysticalagriculture:nether_agglomeratio",
+    "mysticalagriculture:prudentium_essence",
+    "mysticalagriculture:nether_agglomeratio",
+    "mysticalagriculture:prudentium_essence",
+    "mysticalagriculture:nether_agglomeratio",
+    "mysticalagriculture:prudentium_essence",
+    "mysticalagriculture:nether_agglomeratio",
+    "mysticalagriculture:prudentium_essence"
+  ],
+  "result": {
+    "id": "mysticalagriculture:nether_seeds"
+  }
+}
