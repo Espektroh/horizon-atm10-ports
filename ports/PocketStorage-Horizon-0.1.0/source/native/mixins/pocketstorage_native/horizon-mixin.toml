@@ -1,0 +1,151 @@
+[mod]
+id = "pocketstorage_native"
+version = "0.1.0"
+priority = 100
+# Made for Nightly 66f3981 (2026-11-05). Uses server menus (API 10), item use
+# (API 13), tooltips (API 12), commands (API 8), pickups (API 40), item
+# entities (API 42), sneaking (API 351) and mod ingredient kinds.
+
+[compatibility]
+horizon_revision = "66f3981f522b24c250b21523a70080965b940424"
+
+[[module]]
+id = "runtime"
+file = "crates/horizon-client/src/game.rs"
+name = "pocketstorage_rt"
+source = "runtime.rs"
+
+[[module]]
+id = "glue"
+file = "crates/horizon-client/src/game.rs"
+name = "pocketstorage_glue"
+source = "glue.rs"
+
+[[injection]]
+id = "use-item"
+kind = "HEAD"
+target = "horizon_client::game::native_hooks::Game<'_>::native_use_item"
+helper = "use_item.rs"
+bindings = [
+  { name = "game", ty = "&mut crate::game::Game<'_>", value = "&mut *self" },
+  { name = "stack", ty = "&horizon_client::items::ItemStack", value = "stack" },
+  { name = "claimed", ty = "&mut bool", value = "&mut *claimed" },
+]
+
+[[injection]]
+id = "server-tick"
+kind = "HEAD"
+target = "horizon_client::game::native_hooks::Game<'_>::native_server_tick"
+helper = "server_tick.rs"
+bindings = [
+  { name = "game", ty = "&mut crate::game::Game<'_>", value = "&mut *self" },
+]
+
+[[injection]]
+id = "menu-clicked"
+kind = "HEAD"
+target = "horizon_client::game::native_hooks::Game<'_>::native_menu_clicked"
+helper = "menu_clicked.rs"
+bindings = [
+  { name = "game", ty = "&mut crate::game::Game<'_>", value = "&mut *self" },
+  { name = "uuid", ty = "u128", value = "uuid" },
+  { name = "window", ty = "i32", value = "window" },
+  { name = "slot", ty = "i32", value = "slot" },
+  { name = "button", ty = "i32", value = "button" },
+  { name = "mode", ty = "i32", value = "mode" },
+]
+
+[[injection]]
+id = "menu-closed"
+kind = "HEAD"
+target = "horizon_client::game::native_hooks::Game<'_>::native_menu_closed"
+helper = "menu_closed.rs"
+bindings = [
+  { name = "uuid", ty = "u128", value = "uuid" },
+  { name = "window", ty = "i32", value = "window" },
+]
+
+[[injection]]
+id = "item-picked-up"
+kind = "HEAD"
+target = "horizon_client::game::native_hooks::Game<'_>::native_item_picked_up"
+helper = "item_picked_up.rs"
+bindings = [
+  { name = "game", ty = "&mut crate::game::Game<'_>", value = "&mut *self" },
+  { name = "player", ty = "u128", value = "player" },
+  { name = "item", ty = "&str", value = "item" },
+  { name = "count", ty = "u32", value = "count" },
+  { name = "canceled", ty = "&mut bool", value = "&mut *canceled" },
+]
+
+[[injection]]
+id = "toggle-sneak"
+kind = "HEAD"
+target = "horizon_client::game::native_hooks::Game<'_>::native_player_toggle_sneak"
+helper = "toggle_sneak.rs"
+bindings = [
+  { name = "player", ty = "u128", value = "player" },
+  { name = "sneaking", ty = "bool", value = "sneaking" },
+]
+
+[[injection]]
+id = "register-commands"
+kind = "HEAD"
+target = "horizon_client::game::native_hooks::Game<'_>::native_register_commands"
+helper = "register_commands.rs"
+bindings = [
+  { name = "commands", ty = "&mut Vec<horizon_client::mod_api::NativeCommand>", value = "&mut *commands" },
+]
+
+[[injection]]
+id = "perform-command"
+kind = "HEAD"
+target = "horizon_client::game::native_hooks::Game<'_>::native_perform_command"
+helper = "perform_command.rs"
+bindings = [
+  { name = "game", ty = "&mut crate::game::Game<'_>", value = "&mut *self" },
+  { name = "player", ty = "&horizon_client::mod_api::NativeServerPlayer", value = "player" },
+  { name = "command", ty = "&str", value = "command" },
+  { name = "ran", ty = "&mut bool", value = "&mut *ran" },
+]
+
+[[injection]]
+id = "tooltip"
+kind = "HEAD"
+target = "horizon_client::game::native_hooks::Game<'_>::native_tooltip"
+helper = "tooltip.rs"
+bindings = [
+  { name = "stack", ty = "&horizon_client::items::ItemStack", value = "stack" },
+  { name = "lines", ty = "&mut Vec<(horizon_client::text::Text, u32)>", value = "&mut *lines" },
+]
+
+[[injection]]
+id = "ingredient"
+kind = "HEAD"
+target = "horizon_client::crafting::native_ingredient"
+helper = "ingredient.rs"
+bindings = [
+  { name = "kind", ty = "&str", value = "kind" },
+  { name = "data", ty = "&serde_json::Map<String, serde_json::Value>", value = "data" },
+  { name = "items", ty = "&mut Vec<String>", value = "&mut *items" },
+]
+
+[[injection]]
+id = "ingredient-test"
+kind = "HEAD"
+target = "horizon_client::crafting::native_ingredient_test"
+helper = "ingredient_test.rs"
+bindings = [
+  { name = "kind", ty = "&str", value = "kind" },
+  { name = "stack", ty = "&horizon_client::items::ItemStack", value = "stack" },
+  { name = "accept", ty = "&mut bool", value = "&mut *accept" },
+]
+
+[[injection]]
+id = "list"
+kind = "HEAD"
+target = "horizon_client::game::native_hooks::Game<'_>::native_mods"
+helper = "list.rs"
+bindings = [
+  { name = "mods", ty = "&mut Vec<crate::game::native_hooks::NativeMod>", value = "&mut *mods" },
+]

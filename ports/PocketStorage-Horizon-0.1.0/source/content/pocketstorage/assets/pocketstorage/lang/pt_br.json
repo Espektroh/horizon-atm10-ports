@@ -1,0 +1,22 @@
+{
+  "itemGroup.pocketstorage": "Pocket Storage",
+  "item.pocketstorage.psu_1": "Unidade de Armazenamento de Bolso Tier 1",
+  "item.pocketstorage.psu_1.info": "Guarda %s itens diferentes, até %s de cada.",
+  "item.pocketstorage.psu_1.info2": "Pega sozinho itens iguais ao que guarda",
+  "item.pocketstorage.psu_1.info3": "ao coletar; o excesso some.",
+  "item.pocketstorage.psu_2": "Unidade de Armazenamento de Bolso Tier 2",
+  "item.pocketstorage.psu_2.info": "Guarda %s itens diferentes, até %s de cada.",
+  "item.pocketstorage.psu_2.info2": "Pega sozinho itens iguais ao que guarda",
+  "item.pocketstorage.psu_2.info3": "ao coletar; o excesso some.",
+  "item.pocketstorage.psu_3": "Unidade de Armazenamento de Bolso Tier 3",
+  "item.pocketstorage.psu_3.info": "Guarda %s itens diferentes, até %s de cada.",
+  "item.pocketstorage.psu_3.info2": "Pega sozinho itens iguais ao que guarda",
+  "item.pocketstorage.psu_3.info3": "ao coletar; o excesso some.",
+  "item.pocketstorage.psu_4": "Unidade de Armazenamento de Bolso Tier 4",
+  "item.pocketstorage.psu_4.info": "Guarda %s itens diferentes, até %s de cada.",
+  "item.pocketstorage.psu_4.info2": "Pega sozinho itens iguais ao que guarda",
+  "item.pocketstorage.psu_4.info3": "ao coletar; o excesso some.",
+  "pocketstorage.util.no_data_items": "Só itens simples (sem dados) entram na Unidade de Armazenamento de Bolso.",
+  "pocketstorage.util.empty": "<  >",
+  "pocketstorage.util.count": "Quantidade "
+}

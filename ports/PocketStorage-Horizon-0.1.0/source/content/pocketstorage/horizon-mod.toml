@@ -1,0 +1,8 @@
+id = "pocketstorage"
+name = "Pocket Storage"
+version = "1.2.5-horizon.1"
+description = "Unidades de armazenamento de bolso (PSU tier 1 a 4) para Horizon. Precisa do mod nativo pocketstorage_native. Texturas, lang e receitas do Pocket Storage (MIT, Flanks255)."
+authors = ["Flanks255 (original, MIT)", "port Horizon"]
+api = "0.2"
+side = "both"
+capabilities = ["registries"]

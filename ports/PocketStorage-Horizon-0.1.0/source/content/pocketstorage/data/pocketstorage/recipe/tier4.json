@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ABA",
+    "CDC",
+    "ABA"
+  ],
+  "key": {
+    "A": "minecraft:piston",
+    "B": "minecraft:chest",
+    "C": "minecraft:nether_star",
+    "D": {
+      "neoforge:ingredient_type": "pocketstorage:empty_psu",
+      "item": "pocketstorage:psu_3"
+    }
+  },
+  "result": {
+    "id": "pocketstorage:psu_4",
+    "count": 1
+  }
+}
