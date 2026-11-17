@@ -1,4 +1,4 @@
-name: Compilar mods (Horizon 66f3981)
+name: Compilar mods
 on:
   push:
   pull_request:
@@ -7,6 +7,18 @@ permissions:
   contents: read
 jobs:
   check:
+    # 66f3981: o commit que os mods fixam. 2ebf00a (Nightly 07/11): o launcher 0.2.62+ compila
+    # primeiro na versão base da instância e só depois no commit fixado; se passar aqui, o Build
+    # do launcher termina na primeira etapa.
+    name: Horizon ${{ matrix.nome }}
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - nome: 66f3981
+            rev: 66f3981f522b24c250b21523a70080965b940424
+          - nome: Nightly 2ebf00a (07/11)
+            rev: 2ebf00a0281c592f79191e76fce0e7d522c6f425
     runs-on: ubuntu-latest
     timeout-minutes: 120
     steps:
@@ -17,16 +29,19 @@ jobs:
         run: rustup toolchain install 1.95.0 --profile minimal && rustup toolchain install stable --profile minimal
       - uses: Swatinem/rust-cache@v2
         with:
+          key: ${{ matrix.rev }}
           workspaces: |
             ${{ runner.temp }}/ci-work/horizon-mixins
             ${{ runner.temp }}/ci-work/staged
       - name: Aplicar mixins e compilar
+        env:
+          HORIZON_REV: ${{ matrix.rev }}
         run: tools/ci_check.sh "${{ runner.temp }}/ci-work"
       - name: Log
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: logs
+          name: logs-${{ matrix.rev }}
           path: |
             ${{ runner.temp }}/ci-work/check.log
             ${{ runner.temp }}/ci-work/apply.json

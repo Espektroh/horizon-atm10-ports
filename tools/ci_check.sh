@@ -3,7 +3,7 @@
 # Horizon 66f3981 + horizon-mixins 5a64af9 -> apply -> cargo check -p horizon-client.
 # Uso local: tools/ci_check.sh [pasta-de-trabalho]   (no CI roda sozinho)
 set -euo pipefail
-HORIZON_REV=66f3981f522b24c250b21523a70080965b940424
+HORIZON_REV=${HORIZON_REV:-66f3981f522b24c250b21523a70080965b940424}
 MIXINS_REV=5a64af938ec86b00d53d16a408aabc0038fb3e57
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 WORK="${1:-$ROOT/../ci-work}"
