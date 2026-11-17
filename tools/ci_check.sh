@@ -34,6 +34,8 @@ shopt -s nullglob
 for f in "$ROOT"/ports/*/*.hnmod; do
   tmp=$(mktemp -d); unzip -q "$f" -d "$tmp"
   for d in "$tmp"/mixins/*/; do cp -r "$d" "mods/$(basename "$d")"; done
+  # Como o launcher faz ao compilar fora do commit fixado (repin): aponta o mod para o Horizon desta run.
+  sed -i -E "s/^horizon_revision = \"[0-9a-f]{40}\"/horizon_revision = \"$HORIZON_REV\"/" mods/*/horizon-mixin.toml
   rm -rf "$tmp"
 done
 echo "Mods: $(ls mods | tr '\n' ' ')"
