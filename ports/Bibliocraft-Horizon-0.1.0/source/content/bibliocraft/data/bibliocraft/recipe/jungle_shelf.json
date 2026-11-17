@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:shelves",
+  "pattern": [
+    "SSS",
+    " P ",
+    "SSS"
+  ],
+  "key": {
+    "P": "minecraft:jungle_planks",
+    "S": "minecraft:jungle_slab"
+  },
+  "result": {
+    "id": "bibliocraft:jungle_shelf",
+    "count": 1
+  }
+}

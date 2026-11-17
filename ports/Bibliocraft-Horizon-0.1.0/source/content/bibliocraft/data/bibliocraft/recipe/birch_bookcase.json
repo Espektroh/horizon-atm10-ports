@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:bookcases",
+  "pattern": [
+    "PSP",
+    "PSP",
+    "PSP"
+  ],
+  "key": {
+    "P": "minecraft:birch_planks",
+    "S": "minecraft:birch_slab"
+  },
+  "result": {
+    "id": "bibliocraft:birch_bookcase",
+    "count": 1
+  }
+}

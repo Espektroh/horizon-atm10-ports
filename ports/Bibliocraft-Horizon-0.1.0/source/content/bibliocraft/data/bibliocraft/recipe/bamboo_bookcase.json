@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:bookcases",
+  "pattern": [
+    "PSP",
+    "PSP",
+    "PSP"
+  ],
+  "key": {
+    "P": "minecraft:bamboo_planks",
+    "S": "minecraft:bamboo_slab"
+  },
+  "result": {
+    "id": "bibliocraft:bamboo_bookcase",
+    "count": 1
+  }
+}

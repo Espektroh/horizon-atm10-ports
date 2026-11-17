@@ -1,0 +1,58 @@
+{
+  "template": "minecraft:furnace",
+  "properties": {
+    "hardness": 2.0,
+    "explosion_resistance": 3.0,
+    "sounds": "minecraft:spruce_planks",
+    "requires_tool": false,
+    "occludes": false
+  },
+  "item": true,
+  "shapes": {
+    "properties": [
+      "facing"
+    ],
+    "values": {
+      "north": [
+        [
+          0,
+          0,
+          0.5,
+          1,
+          1,
+          1
+        ]
+      ],
+      "east": [
+        [
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          1
+        ]
+      ],
+      "south": [
+        [
+          0,
+          0,
+          0,
+          1,
+          1,
+          0.5
+        ]
+      ],
+      "west": [
+        [
+          0.5,
+          0,
+          0,
+          1,
+          1,
+          1
+        ]
+      ]
+    }
+  }
+}

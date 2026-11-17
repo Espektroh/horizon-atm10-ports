@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:bookcases",
+  "pattern": [
+    "PSP",
+    "PSP",
+    "PSP"
+  ],
+  "key": {
+    "P": "minecraft:jungle_planks",
+    "S": "minecraft:jungle_slab"
+  },
+  "result": {
+    "id": "bibliocraft:jungle_bookcase",
+    "count": 1
+  }
+}

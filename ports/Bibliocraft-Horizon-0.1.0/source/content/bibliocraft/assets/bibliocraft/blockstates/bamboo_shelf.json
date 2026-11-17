@@ -1,0 +1,42 @@
+{
+  "variants": {
+    "facing=north,lit=false": {
+      "model": "bibliocraft:block/wood/bamboo/shelf",
+      "uvlock": true
+    },
+    "facing=north,lit=true": {
+      "model": "bibliocraft:block/wood/bamboo/shelf",
+      "uvlock": true
+    },
+    "facing=east,lit=false": {
+      "model": "bibliocraft:block/wood/bamboo/shelf",
+      "uvlock": true,
+      "y": 90
+    },
+    "facing=east,lit=true": {
+      "model": "bibliocraft:block/wood/bamboo/shelf",
+      "uvlock": true,
+      "y": 90
+    },
+    "facing=south,lit=false": {
+      "model": "bibliocraft:block/wood/bamboo/shelf",
+      "uvlock": true,
+      "y": 180
+    },
+    "facing=south,lit=true": {
+      "model": "bibliocraft:block/wood/bamboo/shelf",
+      "uvlock": true,
+      "y": 180
+    },
+    "facing=west,lit=false": {
+      "model": "bibliocraft:block/wood/bamboo/shelf",
+      "uvlock": true,
+      "y": 270
+    },
+    "facing=west,lit=true": {
+      "model": "bibliocraft:block/wood/bamboo/shelf",
+      "uvlock": true,
+      "y": 270
+    }
+  }
+}

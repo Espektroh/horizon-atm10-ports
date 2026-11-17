@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:shelves",
+  "pattern": [
+    "SSS",
+    " P ",
+    "SSS"
+  ],
+  "key": {
+    "P": "minecraft:crimson_planks",
+    "S": "minecraft:crimson_slab"
+  },
+  "result": {
+    "id": "bibliocraft:crimson_shelf",
+    "count": 1
+  }
+}

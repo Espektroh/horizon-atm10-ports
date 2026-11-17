@@ -1,0 +1,8 @@
+id = "bibliocraft"
+name = "Bibliocraft Legacy"
+version = "1.6.6-horizon.1"
+description = "Estantes, prateleiras, mesas e assentos das 11 madeiras do original e o pedestal de espada. Precisa do mod nativo bibliocraft_native 0.1.0."
+authors = ["IchHabeHunger54, Minecraftschurli (Bibliocraft Legacy, MIT)", "Nuchaz (BiblioCraft original)", "port Horizon"]
+api = "0.2"
+side = "both"
+capabilities = ["registries"]

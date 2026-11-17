@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:bookcases",
+  "pattern": [
+    "PSP",
+    "PSP",
+    "PSP"
+  ],
+  "key": {
+    "P": "minecraft:mangrove_planks",
+    "S": "minecraft:mangrove_slab"
+  },
+  "result": {
+    "id": "bibliocraft:mangrove_bookcase",
+    "count": 1
+  }
+}

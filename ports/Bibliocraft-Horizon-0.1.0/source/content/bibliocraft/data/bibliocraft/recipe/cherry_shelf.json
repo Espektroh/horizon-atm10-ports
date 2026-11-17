@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:shelves",
+  "pattern": [
+    "SSS",
+    " P ",
+    "SSS"
+  ],
+  "key": {
+    "P": "minecraft:cherry_planks",
+    "S": "minecraft:cherry_slab"
+  },
+  "result": {
+    "id": "bibliocraft:cherry_shelf",
+    "count": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:tables",
+  "pattern": [
+    "SSS",
+    " P ",
+    " P "
+  ],
+  "key": {
+    "P": "minecraft:crimson_planks",
+    "S": "minecraft:crimson_slab"
+  },
+  "result": {
+    "id": "bibliocraft:crimson_table",
+    "count": 1
+  }
+}

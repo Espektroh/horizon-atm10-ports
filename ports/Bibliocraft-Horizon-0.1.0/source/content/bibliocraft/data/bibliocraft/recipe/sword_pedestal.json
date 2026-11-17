@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:sword_pedestal",
+  "pattern": [
+    " S ",
+    "SWS"
+  ],
+  "key": {
+    "S": "minecraft:smooth_stone_slab",
+    "W": "minecraft:green_wool"
+  },
+  "result": {
+    "id": "bibliocraft:sword_pedestal",
+    "count": 1
+  }
+}

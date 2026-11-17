@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:shelves",
+  "pattern": [
+    "SSS",
+    " P ",
+    "SSS"
+  ],
+  "key": {
+    "P": "minecraft:oak_planks",
+    "S": "minecraft:oak_slab"
+  },
+  "result": {
+    "id": "bibliocraft:oak_shelf",
+    "count": 1
+  }
+}

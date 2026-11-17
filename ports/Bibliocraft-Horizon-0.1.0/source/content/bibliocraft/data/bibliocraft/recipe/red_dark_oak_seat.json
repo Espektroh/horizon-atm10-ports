@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:seats",
+  "pattern": [
+    " W ",
+    " S ",
+    "RSR"
+  ],
+  "key": {
+    "R": "minecraft:stick",
+    "S": "minecraft:dark_oak_slab",
+    "W": "minecraft:red_wool"
+  },
+  "result": {
+    "id": "bibliocraft:red_dark_oak_seat",
+    "count": 1
+  }
+}

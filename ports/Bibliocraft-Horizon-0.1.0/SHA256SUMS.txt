@@ -1,0 +1,2 @@
+433fca9f332ffe4fa2a78b2e8c62af7bf58ec1a3de5a6a6591399f3960e95545  bibliocraft.hmod
+bbe364c93bd9d8c272f110141b42e6147fcdc9846a7c4eb7e74a50552554f442  bibliocraft_native-0.1.0.hnmod

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:tables",
+  "pattern": [
+    "SSS",
+    " P ",
+    " P "
+  ],
+  "key": {
+    "P": "minecraft:bamboo_planks",
+    "S": "minecraft:bamboo_slab"
+  },
+  "result": {
+    "id": "bibliocraft:bamboo_table",
+    "count": 1
+  }
+}
