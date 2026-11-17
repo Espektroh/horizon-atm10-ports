@@ -1,0 +1,8 @@
+id = "mekmm"
+name = "Mekanism: MoreMachine"
+version = "1.4.3-horizon.1"
+description = "Mekanism MoreMachine: Reciclador, Estampador CNC, Torno CNC, Laminador CNC e Prensa. Precisa do mod nativo mekmm_native 0.1.0, do mekanism e do mekanism_native 0.6.x."
+authors = ["lostmyself8 / Jerry (original, MIT)", "Espektroh (port Horizon)"]
+api = "0.2"
+side = "both"
+capabilities = ["registries"]

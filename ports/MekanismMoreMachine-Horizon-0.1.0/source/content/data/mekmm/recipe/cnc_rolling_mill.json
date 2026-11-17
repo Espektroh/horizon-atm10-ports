@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ACA",
+    "SXS",
+    "ACA"
+  ],
+  "key": {
+    "A": "mekanism:alloy_infused",
+    "C": "mekanism:basic_control_circuit",
+    "S": "mekanism:ingot_steel",
+    "X": "mekanism:steel_casing"
+  },
+  "result": {
+    "id": "mekmm:cnc_rolling_mill",
+    "count": 1
+  }
+}

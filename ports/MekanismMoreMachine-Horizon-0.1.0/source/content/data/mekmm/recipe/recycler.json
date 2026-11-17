@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ACA",
+    "O#O",
+    "ACA"
+  ],
+  "key": {
+    "A": "mekanism:alloy_reinforced",
+    "C": "mekanism:advanced_control_circuit",
+    "O": "mekanism:ingot_osmium",
+    "#": "mekanism:crusher"
+  },
+  "result": {
+    "id": "mekmm:recycler",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "mekmm:stamper",
+  "input": [
+    "ae2:certus_quartz_crystal",
+    "ae2:charged_certus_quartz_crystal"
+  ],
+  "input_count": 1,
+  "mold": "ae2:calculation_processor_press",
+  "output": {
+    "id": "ae2:printed_calculation_processor",
+    "count": 1
+  }
+}

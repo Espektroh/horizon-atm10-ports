@@ -1,0 +1,9 @@
+{
+  "block.mekmm.recycler": "Recycler",
+  "block.mekmm.cnc_stamper": "CNC Stamper",
+  "block.mekmm.cnc_lathe": "CNC Lathe",
+  "block.mekmm.cnc_rolling_mill": "CNC Rolling Mill",
+  "block.mekmm.presser": "Presser",
+  "item.mekmm.scrap": "Scrap",
+  "container.mekmm.presser": "Presser"
+}

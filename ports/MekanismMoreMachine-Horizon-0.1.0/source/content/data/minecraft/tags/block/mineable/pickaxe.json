@@ -1,0 +1,9 @@
+{
+  "values": [
+    "mekmm:recycler",
+    "mekmm:cnc_stamper",
+    "mekmm:cnc_lathe",
+    "mekmm:cnc_rolling_mill",
+    "mekmm:presser"
+  ]
+}

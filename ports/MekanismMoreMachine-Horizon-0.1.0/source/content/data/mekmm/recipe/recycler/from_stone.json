@@ -1,0 +1,17 @@
+{
+  "type": "mekmm:recycler",
+  "input": [
+    "minecraft:stone",
+    "minecraft:andesite",
+    "minecraft:diorite",
+    "minecraft:granite",
+    "minecraft:deepslate",
+    "minecraft:tuff"
+  ],
+  "input_count": 1,
+  "chance": 0.17,
+  "output": {
+    "id": "mekmm:scrap",
+    "count": 1
+  }
+}

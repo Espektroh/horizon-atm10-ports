@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "A#A",
+    "CMC",
+    "A#A"
+  ],
+  "key": {
+    "A": "mekanism:alloy_atomic",
+    "#": "minecraft:piston",
+    "C": "mekanism:elite_control_circuit",
+    "M": "mekmm:cnc_stamper"
+  },
+  "result": {
+    "id": "mekmm:presser",
+    "count": 1
+  }
+}

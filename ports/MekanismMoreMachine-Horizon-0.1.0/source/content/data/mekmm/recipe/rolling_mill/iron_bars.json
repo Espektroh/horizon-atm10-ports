@@ -1,0 +1,9 @@
+{
+  "type": "mekmm:rolling_mill",
+  "input": "minecraft:iron_ingot",
+  "input_count": 3,
+  "output": {
+    "id": "minecraft:iron_bars",
+    "count": 8
+  }
+}

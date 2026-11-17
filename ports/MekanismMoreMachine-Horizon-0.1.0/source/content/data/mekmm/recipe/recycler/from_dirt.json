@@ -1,0 +1,13 @@
+{
+  "type": "mekmm:recycler",
+  "input": [
+    "minecraft:dirt",
+    "minecraft:grass_block"
+  ],
+  "input_count": 1,
+  "chance": 0.17,
+  "output": {
+    "id": "mekmm:scrap",
+    "count": 1
+  }
+}

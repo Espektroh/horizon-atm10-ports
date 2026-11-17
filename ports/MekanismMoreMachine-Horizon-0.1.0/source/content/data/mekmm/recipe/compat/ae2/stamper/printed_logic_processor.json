@@ -1,0 +1,10 @@
+{
+  "type": "mekmm:stamper",
+  "input": "minecraft:gold_ingot",
+  "input_count": 1,
+  "mold": "ae2:logic_processor_press",
+  "output": {
+    "id": "ae2:printed_logic_processor",
+    "count": 1
+  }
+}

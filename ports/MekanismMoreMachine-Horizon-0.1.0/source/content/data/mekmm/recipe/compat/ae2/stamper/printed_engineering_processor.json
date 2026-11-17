@@ -1,0 +1,10 @@
+{
+  "type": "mekmm:stamper",
+  "input": "minecraft:diamond",
+  "input_count": 1,
+  "mold": "ae2:engineering_processor_press",
+  "output": {
+    "id": "ae2:printed_engineering_processor",
+    "count": 1
+  }
+}

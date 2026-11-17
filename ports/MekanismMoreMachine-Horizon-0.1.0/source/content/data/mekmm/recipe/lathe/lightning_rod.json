@@ -1,0 +1,9 @@
+{
+  "type": "mekmm:lathe",
+  "input": "minecraft:copper_ingot",
+  "input_count": 3,
+  "output": {
+    "id": "minecraft:lightning_rod",
+    "count": 1
+  }
+}

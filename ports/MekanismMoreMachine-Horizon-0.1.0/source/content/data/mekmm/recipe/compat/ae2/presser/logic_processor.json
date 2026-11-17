@@ -1,0 +1,13 @@
+{
+  "type": "mekmm:pressing",
+  "primary_input": "ae2:printed_logic_processor",
+  "primary_count": 1,
+  "secondary_input": "minecraft:redstone",
+  "secondary_count": 1,
+  "tertiary_input": "ae2:printed_silicon",
+  "tertiary_count": 1,
+  "output": {
+    "id": "ae2:logic_processor",
+    "count": 1
+  }
+}

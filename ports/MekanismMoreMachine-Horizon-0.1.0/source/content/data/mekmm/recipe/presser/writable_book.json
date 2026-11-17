@@ -1,0 +1,13 @@
+{
+  "type": "mekmm:pressing",
+  "primary_input": "minecraft:book",
+  "primary_count": 1,
+  "secondary_input": "minecraft:ink_sac",
+  "secondary_count": 1,
+  "tertiary_input": "minecraft:feather",
+  "tertiary_count": 1,
+  "output": {
+    "id": "minecraft:writable_book",
+    "count": 1
+  }
+}

@@ -15,6 +15,7 @@ redistribuição.
 | `ports/MekanismGenerators-Horizon-0.1.0` | Mekanism: Generators (solar, calor, eólico) | MIT | Aguarda Build e teste no jogo; traz um `mekanism.hmod` corrigido |
 | `ports/TimeInABottle-Horizon-0.1.0` | Time In A Bottle | MIT | Aguarda Build e teste no jogo |
 | `ports/PocketStorage-Horizon-0.1.0` | Pocket Storage | MIT | Aguarda Build e teste no jogo |
+| `ports/MekanismMoreMachine-Horizon-0.1.0` | Mekanism: MoreMachine (5 máquinas de itens) | MIT | Aguarda Build e teste no jogo |
 
 Cada pacote tem o `.hmod` de conteúdo, o `.hnmod` nativo, `instalar.ps1` (Windows, com backup), `LEIA-ME.md`
 (o que funciona, as limitações e um roteiro de teste), `APIS.md` (cada API do Horizon usada, com arquivo:linha),

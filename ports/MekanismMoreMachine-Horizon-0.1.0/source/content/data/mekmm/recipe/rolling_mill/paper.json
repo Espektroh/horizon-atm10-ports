@@ -1,0 +1,9 @@
+{
+  "type": "mekmm:rolling_mill",
+  "input": "minecraft:sugar_cane",
+  "input_count": 1,
+  "output": {
+    "id": "minecraft:paper",
+    "count": 2
+  }
+}

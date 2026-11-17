@@ -1,0 +1,9 @@
+{
+  "type": "mekmm:lathe",
+  "input": "#minecraft:planks",
+  "input_count": 1,
+  "output": {
+    "id": "minecraft:stick",
+    "count": 4
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ACA",
+    "#X#",
+    "ACA"
+  ],
+  "key": {
+    "A": "mekanism:alloy_infused",
+    "C": "mekanism:basic_control_circuit",
+    "#": "minecraft:piston",
+    "X": "mekanism:steel_casing"
+  },
+  "result": {
+    "id": "mekmm:cnc_stamper",
+    "count": 1
+  }
+}

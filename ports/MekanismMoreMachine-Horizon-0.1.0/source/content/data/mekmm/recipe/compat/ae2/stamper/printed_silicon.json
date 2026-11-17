@@ -1,0 +1,10 @@
+{
+  "type": "mekmm:stamper",
+  "input": "ae2:silicon",
+  "input_count": 1,
+  "mold": "ae2:silicon_press",
+  "output": {
+    "id": "ae2:printed_silicon",
+    "count": 1
+  }
+}

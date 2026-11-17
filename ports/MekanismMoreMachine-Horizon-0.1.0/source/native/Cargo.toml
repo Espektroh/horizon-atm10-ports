@@ -1,0 +1,12 @@
+[package]
+name = "horizon-mod-mekmm"
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+description = "Mekanism: MoreMachine for Horizon: recycler, CNC stamper, lathe, rolling mill and presser (native mod)"
+
+[lib]
+# This exact source is also injected as a same-crate module by horizon-mixins.
+path = "mixins/mekmm_native/runtime.rs"
+
+[workspace]
