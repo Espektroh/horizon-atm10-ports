@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "sushigocrafting:blocks/cutting_board",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "sushigocrafting:cutting_board"
+        }
+      ],
+      "condition": {
+        "type": "minecraft:survives_explosion"
+      }
+    }
+  ]
+}

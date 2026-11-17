@@ -1,0 +1,6 @@
+{
+  "type": "sushigocrafting:cutting_board",
+  "ingredient": "cucumber",
+  "input": "#c:crops/cucumber",
+  "result": "sushigocrafting:cucumber_slices"
+}

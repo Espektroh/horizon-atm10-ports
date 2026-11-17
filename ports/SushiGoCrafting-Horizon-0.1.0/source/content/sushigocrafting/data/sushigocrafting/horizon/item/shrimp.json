@@ -1,0 +1,32 @@
+{
+  "template": "minecraft:bread",
+  "max_stack_size": 64,
+  "components": {
+    "minecraft:food": {
+      "nutrition": 2,
+      "saturation": 1.2
+    },
+    "minecraft:consumable": {
+      "consume_seconds": 1.6,
+      "animation": "eat",
+      "sound": "minecraft:entity.generic.eat",
+      "has_consume_particles": true,
+      "on_consume_effects": [
+        {
+          "type": "minecraft:apply_effects",
+          "probability": 0.01,
+          "effects": [
+            {
+              "id": "minecraft:poison",
+              "duration": 100,
+              "amplifier": 0,
+              "ambient": false,
+              "show_particles": false,
+              "show_icon": true
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

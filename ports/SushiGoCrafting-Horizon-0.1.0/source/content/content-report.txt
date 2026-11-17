@@ -1,0 +1,38 @@
+sushi | nutrição | saturação | efeitos (ticks, nível 0 = I)
+salmon_maki | 5 | 10.0 | small_bites 1050 t nv 0
+tuna_maki | 5 | 10.0 | acquired_taste 1050 t nv 0
+avocado_maki | 3 | 7.5 | -
+cucumber_maki | 3 | 7.5 | -
+crab_maki | 3 | 6.0 | speed 105 t nv 0
+salmon_gunkan | 5 | 10.0 | small_bites 1050 t nv 0
+tuna_gunkan | 5 | 10.0 | acquired_taste 1050 t nv 0
+wakame_gunkan | 1 | 2.0 | -
+tobiko_tuna_cucumber_california | 11 | 34.375 | acquired_taste 2362 t nv 1
+tuna_cucumber_california | 10 | 25.0 | acquired_taste 1575 t nv 1
+tobiko_tuna_california | 8 | 20.0 | acquired_taste 1890 t nv 1
+tuna_california | 7 | 13.125 | acquired_taste 1260 t nv 1
+tobiko_tuna_cheese_california | 10 | 31.25 | acquired_taste 1890 t nv 1, saturation 945 t nv 1
+tuna_cheese_california | 8 | 20.0 | acquired_taste 1260 t nv 1, saturation 630 t nv 1
+tobiko_salmon_cucumber_california | 11 | 34.375 | small_bites 2362 t nv 1
+salmon_cucumber_california | 10 | 25.0 | small_bites 1575 t nv 1
+tobiko_salmon_california | 8 | 20.0 | small_bites 1890 t nv 1
+salmon_california | 7 | 13.125 | small_bites 1260 t nv 1
+tobiko_salmon_cheese_california | 10 | 31.25 | small_bites 1890 t nv 1, saturation 945 t nv 1
+salmon_cheese_california | 8 | 20.0 | small_bites 1260 t nv 1, saturation 630 t nv 1
+tobiko_crab_cucumber_california | 10 | 31.25 | speed 235 t nv 1
+crab_cucumber_california | 8 | 20.0 | speed 157 t nv 1
+tobiko_crab_california | 7 | 17.5 | speed 189 t nv 1
+crab_california | 6 | 11.25 | speed 126 t nv 1
+tobiko_crab_cheese_california | 8 | 25.0 | speed 189 t nv 1, saturation 945 t nv 1
+crab_cheese_california | 7 | 17.5 | speed 126 t nv 1, saturation 630 t nv 1
+salmon_nigiri | 5 | 10.0 | small_bites 1050 t nv 0
+tuna_nigiri | 5 | 10.0 | acquired_taste 1050 t nv 0
+shrimp_nigiri | 3 | 6.0 | steady_hands 2100 t nv 0
+onigiri | 1 | 1.875 | -
+salmon_temaki | 7 | 17.5 | small_bites 1260 t nv 1
+tuna_temaki | 7 | 17.5 | acquired_taste 1260 t nv 1
+shrimp_temaki | 6 | 15.0 | steady_hands 2520 t nv 1
+chicken_temaki | 6 | 15.0 | slow_falling 420 t nv 1
+
+porções (min-max por corte/drop): avocado_slices 2-11, tuna_fillet 33-64, salmon_fillet 17-64, cooked_rice 2-17, cucumber_slices 3-13, imitation_crab 2-7, sesame_seed 2-17, tobiko 1-4, cheese 4-21, shrimp 1-2, soy_sauce 3-12, wasabi_paste 3-12
+blocks 13, items 59, tab 67

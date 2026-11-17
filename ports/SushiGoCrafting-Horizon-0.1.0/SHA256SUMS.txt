@@ -1,0 +1,2 @@
+bf1df38a14ef2ee0e2f11b6efc0c6182d79c8877dee34f74e2077a23b33c22a6  sushigocrafting.hmod
+ab4ac4172d75471d5ffe0ad84c3d58457c69b71c24674e6d6939baaadb65837e  sushigocrafting_native-0.1.0.hnmod

@@ -1,0 +1,28 @@
+{
+  "template": "minecraft:seagrass",
+  "item": false,
+  "state_properties": {
+    "age": {
+      "type": "enum",
+      "values": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ]
+    }
+  },
+  "default_state": {
+    "age": "0"
+  },
+  "properties": {
+    "random_ticks": {
+      "property": "age",
+      "values": [
+        "0",
+        "1",
+        "2"
+      ]
+    }
+  }
+}

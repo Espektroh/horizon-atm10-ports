@@ -1,0 +1,6 @@
+{
+  "parent": "sushigocrafting:block/big_crop",
+  "textures": {
+    "crop": "sushigocrafting:block/rice_stage_3"
+  }
+}

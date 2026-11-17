@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "sushigocrafting:block/rice_cooker",
+      "y": 270
+    },
+    "facing=north": {
+      "model": "sushigocrafting:block/rice_cooker",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "sushigocrafting:block/rice_cooker"
+    },
+    "facing=west": {
+      "model": "sushigocrafting:block/rice_cooker",
+      "y": 90
+    }
+  }
+}

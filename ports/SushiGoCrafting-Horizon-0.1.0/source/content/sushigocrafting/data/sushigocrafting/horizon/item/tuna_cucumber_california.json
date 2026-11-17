@@ -1,0 +1,31 @@
+{
+  "template": "minecraft:bread",
+  "components": {
+    "minecraft:food": {
+      "nutrition": 10,
+      "saturation": 25.0
+    },
+    "minecraft:consumable": {
+      "consume_seconds": 1.6,
+      "animation": "eat",
+      "sound": "minecraft:entity.generic.eat",
+      "has_consume_particles": true,
+      "on_consume_effects": [
+        {
+          "type": "minecraft:apply_effects",
+          "probability": 1.0,
+          "effects": [
+            {
+              "id": "sushigocrafting:acquired_taste",
+              "duration": 1575,
+              "amplifier": 1,
+              "ambient": false,
+              "show_particles": false,
+              "show_icon": true
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

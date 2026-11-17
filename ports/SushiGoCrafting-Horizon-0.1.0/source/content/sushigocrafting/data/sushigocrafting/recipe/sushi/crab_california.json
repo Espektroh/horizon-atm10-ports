@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "NCF",
+    "A  ",
+    " R "
+  ],
+  "key": {
+    "R": "sushigocrafting:roller",
+    "N": "sushigocrafting:nori_sheets",
+    "C": "sushigocrafting:cooked_rice",
+    "F": "sushigocrafting:imitation_crab",
+    "A": "sushigocrafting:avocado_slices"
+  },
+  "result": {
+    "id": "sushigocrafting:crab_california",
+    "count": 1
+  }
+}

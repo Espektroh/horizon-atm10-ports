@@ -1,0 +1,8 @@
+id = "sushigocrafting"
+name = "Sushi Go Crafting"
+version = "0.6.7-horizon.1"
+description = "Arroz, pepino, soja, wasabi, gergelim, abacateiro, peixes, ingredientes, 34 sushis, tabua de corte, panela de arroz e barril de fermentacao. Port do Sushi Go Crafting (Buuz135, MIT). Precisa do mod nativo sushigocrafting_native."
+authors = ["Buuz135 (original, MIT)", "port Horizon"]
+api = "0.2"
+side = "both"
+capabilities = ["registries"]

@@ -1,0 +1,9 @@
+{
+  "template": "minecraft:bread",
+  "components": {
+    "minecraft:food": {
+      "nutrition": 3,
+      "saturation": 7.5
+    }
+  }
+}

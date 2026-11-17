@@ -1,0 +1,13 @@
+[package]
+name = "horizon-mod-sushigocrafting"
+version = "0.1.0"
+edition = "2024"
+rust-version = "1.95"
+license = "MIT"
+description = "Sushi Go Crafting for Horizon, a native mod (rules)"
+
+[lib]
+path = "mixins/sushigocrafting_native/runtime.rs"
+
+[workspace]
+resolver = "2"

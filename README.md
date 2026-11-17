@@ -17,6 +17,7 @@ redistribuição.
 | `ports/PocketStorage-Horizon-0.1.0` | Pocket Storage | MIT | Aguarda Build e teste no jogo |
 | `ports/MekanismMoreMachine-Horizon-0.1.0` | Mekanism: MoreMachine (5 máquinas de itens) | MIT | Aguarda Build e teste no jogo |
 | `ports/Bibliocraft-Horizon-0.1.0` | Bibliocraft Legacy (estante, prateleira, mesa, pedestal, assento) | MIT | Aguarda Build e teste no jogo |
+| `ports/SushiGoCrafting-Horizon-0.1.0` | Sushi Go Crafting | MIT | Aguarda Build e teste no jogo |
 
 Cada pacote tem o `.hmod` de conteúdo, o `.hnmod` nativo, `instalar.ps1` (Windows, com backup), `LEIA-ME.md`
 (o que funciona, as limitações e um roteiro de teste), `APIS.md` (cada API do Horizon usada, com arquivo:linha),

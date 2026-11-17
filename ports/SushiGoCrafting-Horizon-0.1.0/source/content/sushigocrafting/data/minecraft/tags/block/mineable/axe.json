@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "sushigocrafting:avocado_log",
+    "sushigocrafting:avocado_leaves_logged",
+    "sushigocrafting:cutting_board",
+    "sushigocrafting:roller",
+    "sushigocrafting:fermentation_barrel"
+  ]
+}

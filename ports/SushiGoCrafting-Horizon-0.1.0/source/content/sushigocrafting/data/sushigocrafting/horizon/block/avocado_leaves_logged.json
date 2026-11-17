@@ -1,0 +1,6 @@
+{
+  "template": "minecraft:oak_log",
+  "properties": {
+    "occludes": false
+  }
+}

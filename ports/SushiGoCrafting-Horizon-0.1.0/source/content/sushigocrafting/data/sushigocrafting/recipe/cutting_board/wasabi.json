@@ -1,0 +1,6 @@
+{
+  "type": "sushigocrafting:cutting_board",
+  "ingredient": "wasabi",
+  "input": "#c:crops/wasabi_root",
+  "result": "sushigocrafting:wasabi_paste"
+}

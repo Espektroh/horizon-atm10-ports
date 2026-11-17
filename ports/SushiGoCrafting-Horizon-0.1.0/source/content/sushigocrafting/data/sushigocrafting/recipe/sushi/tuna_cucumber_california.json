@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "NCF",
+    "AX ",
+    " R "
+  ],
+  "key": {
+    "R": "sushigocrafting:roller",
+    "N": "sushigocrafting:nori_sheets",
+    "C": "sushigocrafting:cooked_rice",
+    "F": "sushigocrafting:tuna_fillet",
+    "A": "sushigocrafting:avocado_slices",
+    "X": "sushigocrafting:cucumber_slices"
+  },
+  "result": {
+    "id": "sushigocrafting:tuna_cucumber_california",
+    "count": 1
+  }
+}

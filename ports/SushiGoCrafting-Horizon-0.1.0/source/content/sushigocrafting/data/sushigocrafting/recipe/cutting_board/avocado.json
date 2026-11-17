@@ -1,0 +1,6 @@
+{
+  "type": "sushigocrafting:cutting_board",
+  "ingredient": "avocado",
+  "input": "#c:fruits/avocado",
+  "result": "sushigocrafting:avocado_slices"
+}

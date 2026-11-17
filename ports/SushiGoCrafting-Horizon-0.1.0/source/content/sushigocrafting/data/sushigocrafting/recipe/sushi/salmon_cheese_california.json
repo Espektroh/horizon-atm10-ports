@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "NCF",
+    "AX ",
+    " R "
+  ],
+  "key": {
+    "R": "sushigocrafting:roller",
+    "N": "sushigocrafting:nori_sheets",
+    "C": "sushigocrafting:cooked_rice",
+    "F": "sushigocrafting:salmon_fillet",
+    "A": "sushigocrafting:avocado_slices",
+    "X": "sushigocrafting:cheese"
+  },
+  "result": {
+    "id": "sushigocrafting:salmon_cheese_california",
+    "count": 1
+  }
+}

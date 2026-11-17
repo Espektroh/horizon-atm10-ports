@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "F ",
+    "C ",
+    "NR"
+  ],
+  "key": {
+    "R": "sushigocrafting:roller",
+    "N": "sushigocrafting:nori_sheets",
+    "C": "sushigocrafting:cooked_rice",
+    "F": "minecraft:seagrass"
+  },
+  "result": {
+    "id": "sushigocrafting:wakame_gunkan",
+    "count": 1
+  }
+}

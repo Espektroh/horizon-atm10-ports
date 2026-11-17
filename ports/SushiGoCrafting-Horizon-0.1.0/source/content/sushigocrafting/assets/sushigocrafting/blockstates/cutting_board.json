@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "sushigocrafting:block/cutting_board",
+      "y": 270
+    },
+    "facing=north": {
+      "model": "sushigocrafting:block/cutting_board",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "sushigocrafting:block/cutting_board"
+    },
+    "facing=west": {
+      "model": "sushigocrafting:block/cutting_board",
+      "y": 90
+    }
+  }
+}

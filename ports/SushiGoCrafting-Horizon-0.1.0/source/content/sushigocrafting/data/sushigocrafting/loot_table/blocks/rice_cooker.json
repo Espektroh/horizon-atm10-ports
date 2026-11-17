@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "sushigocrafting:blocks/rice_cooker",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "sushigocrafting:rice_cooker"
+        }
+      ],
+      "condition": {
+        "type": "minecraft:survives_explosion"
+      }
+    }
+  ]
+}

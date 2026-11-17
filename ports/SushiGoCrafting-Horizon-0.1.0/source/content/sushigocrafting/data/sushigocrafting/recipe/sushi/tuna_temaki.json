@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "NCF",
+    "AR "
+  ],
+  "key": {
+    "R": "sushigocrafting:roller",
+    "N": "sushigocrafting:nori_sheets",
+    "C": "sushigocrafting:cooked_rice",
+    "F": "sushigocrafting:tuna_fillet",
+    "A": "sushigocrafting:avocado_slices"
+  },
+  "result": {
+    "id": "sushigocrafting:tuna_temaki",
+    "count": 1
+  }
+}

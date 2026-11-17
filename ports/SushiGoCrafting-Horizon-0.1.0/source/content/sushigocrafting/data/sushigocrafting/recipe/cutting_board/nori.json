@@ -1,0 +1,10 @@
+{
+  "type": "sushigocrafting:cutting_board",
+  "ingredient": "nori",
+  "input": "minecraft:dried_kelp_block",
+  "result": "sushigocrafting:nori_sheets",
+  "count": {
+    "min": 5,
+    "max": 8
+  }
+}

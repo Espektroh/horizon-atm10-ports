@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "IGI",
+    "IFI",
+    "IRI"
+  ],
+  "key": {
+    "F": "minecraft:furnace",
+    "G": "minecraft:light_weighted_pressure_plate",
+    "I": "minecraft:iron_ingot",
+    "R": "minecraft:redstone"
+  },
+  "result": {
+    "id": "sushigocrafting:rice_cooker",
+    "count": 1
+  }
+}

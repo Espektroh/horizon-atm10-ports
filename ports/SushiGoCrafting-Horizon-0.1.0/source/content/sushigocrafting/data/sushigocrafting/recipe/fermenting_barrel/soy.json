@@ -1,0 +1,12 @@
+{
+  "type": "sushigocrafting:fermenting_barrel",
+  "fluid": {
+    "amount": 250,
+    "id": "minecraft:water"
+  },
+  "output": {
+    "count": 1,
+    "id": "sushigocrafting:soy_sauce"
+  },
+  "input": "#c:crops/soybean"
+}

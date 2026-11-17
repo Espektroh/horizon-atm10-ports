@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "IGI",
+    "IFI",
+    "III"
+  ],
+  "key": {
+    "F": "minecraft:furnace",
+    "G": "#minecraft:wooden_pressure_plates",
+    "I": "#minecraft:planks"
+  },
+  "result": {
+    "id": "sushigocrafting:fermentation_barrel",
+    "count": 1
+  }
+}
