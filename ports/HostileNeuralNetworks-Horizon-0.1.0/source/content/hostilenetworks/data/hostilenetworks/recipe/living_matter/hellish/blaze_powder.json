@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "hostilenetworks:nether_prediction",
+    "minecraft:gunpowder"
+  ],
+  "result": {
+    "id": "minecraft:blaze_powder",
+    "count": 2
+  }
+}

@@ -1,0 +1,10 @@
+hostilenetworks_native 0.1.0 - Hostile Neural Networks para Horizon (mod nativo)
+
+Port do Hostile Neural Networks 6.5.1, de Shadows_of_Fire (Brennan Ward),
+licenciado sob a licença MIT (Copyright (c) 2021 Brennan Ward).
+Fonte original: https://github.com/Shadows-of-Fire/Hostile-Neural-Networks (ramo 1.21).
+
+Este código Rust foi escrito para o port; os números e regras (tiers, dados por
+abate, precisão, custo de energia, tempo de simulação, drops do fabricador) vêm
+dos arquivos de dados e do código do original. Distribuído também sob a MIT; o
+texto da licença vai em LICENSE-original.txt dentro do hostilenetworks.hmod.

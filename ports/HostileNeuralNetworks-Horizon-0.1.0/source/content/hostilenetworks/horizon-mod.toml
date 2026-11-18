@@ -1,0 +1,8 @@
+id = "hostilenetworks"
+name = "Hostile Neural Networks"
+version = "6.5.1-horizon.1"
+description = "Hostile Neural Networks para Horizon: Deep Learner, Data Models (24 mobs vanilla, 5 tiers), Camara de Simulacao e Fabricador de Loot. Port do Hostile Neural Networks (Shadows_of_Fire, MIT). Precisa do mod nativo hostilenetworks_native."
+authors = ["Shadows_of_Fire (original, MIT)", "port Horizon"]
+api = "0.2"
+side = "both"
+capabilities = ["registries"]

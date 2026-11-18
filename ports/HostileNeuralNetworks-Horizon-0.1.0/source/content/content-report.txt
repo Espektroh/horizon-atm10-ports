@@ -1,0 +1,4 @@
+blocos: 2
+itens: 55
+receitas: 28
+fora: data_center, data_center_io_port, fab_directive, twilight_prediction (e receitas deles)

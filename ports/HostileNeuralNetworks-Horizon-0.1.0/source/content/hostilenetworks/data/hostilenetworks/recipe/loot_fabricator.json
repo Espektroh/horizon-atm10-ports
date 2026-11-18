@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " I ",
+    "GOG",
+    "NCN"
+  ],
+  "key": {
+    "C": "minecraft:comparator",
+    "G": "minecraft:diamond",
+    "I": "minecraft:netherite_ingot",
+    "N": "minecraft:gold_ingot",
+    "O": "minecraft:obsidian"
+  },
+  "result": {
+    "id": "hostilenetworks:loot_fabricator"
+  }
+}

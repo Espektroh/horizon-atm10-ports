@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "hostilenetworks:nether_prediction",
+    "minecraft:sand"
+  ],
+  "result": {
+    "id": "minecraft:soul_sand",
+    "count": 4
+  }
+}

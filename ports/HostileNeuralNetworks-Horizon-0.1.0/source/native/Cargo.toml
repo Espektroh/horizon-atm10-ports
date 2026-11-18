@@ -1,0 +1,12 @@
+[package]
+name = "horizon-mod-hostilenetworks"
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+description = "Hostile Neural Networks for Horizon, a native mod (rules)"
+
+[lib]
+# This exact source is also injected as a same-crate module by horizon-mixins.
+path = "mixins/hostilenetworks_native/runtime.rs"
+
+[workspace]

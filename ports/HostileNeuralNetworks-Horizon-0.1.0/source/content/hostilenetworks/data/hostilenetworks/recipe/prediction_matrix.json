@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "IG ",
+    "GCG",
+    " GN"
+  ],
+  "key": {
+    "C": "minecraft:clay_ball",
+    "G": "minecraft:glass_pane",
+    "I": "minecraft:iron_ingot",
+    "N": "minecraft:gold_ingot"
+  },
+  "result": {
+    "id": "hostilenetworks:prediction_matrix",
+    "count": 16
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:string",
+    "minecraft:slime_ball",
+    "hostilenetworks:overworld_prediction",
+    "hostilenetworks:overworld_prediction"
+  ],
+  "result": {
+    "id": "minecraft:cobweb",
+    "count": 4
+  }
+}

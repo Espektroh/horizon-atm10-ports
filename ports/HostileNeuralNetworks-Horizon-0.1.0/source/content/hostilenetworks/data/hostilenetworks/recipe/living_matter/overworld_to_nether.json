@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " O ",
+    "ONO",
+    " O "
+  ],
+  "key": {
+    "N": "minecraft:netherrack",
+    "O": "hostilenetworks:overworld_prediction"
+  },
+  "result": {
+    "id": "hostilenetworks:nether_prediction"
+  }
+}

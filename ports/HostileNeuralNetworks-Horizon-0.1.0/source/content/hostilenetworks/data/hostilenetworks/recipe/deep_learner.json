@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ORO",
+    "RGR",
+    "ODO"
+  ],
+  "key": {
+    "D": "minecraft:redstone",
+    "G": "minecraft:glass_pane",
+    "O": "minecraft:obsidian",
+    "R": "minecraft:repeater"
+  },
+  "result": {
+    "id": "hostilenetworks:deep_learner"
+  }
+}

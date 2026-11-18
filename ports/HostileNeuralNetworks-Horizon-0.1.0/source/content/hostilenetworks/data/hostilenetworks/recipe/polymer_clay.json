@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:clay_ball",
+    "minecraft:clay_ball",
+    "minecraft:iron_nugget",
+    "minecraft:gold_nugget"
+  ],
+  "result": {
+    "id": "hostilenetworks:polymer_clay",
+    "count": 2
+  }
+}

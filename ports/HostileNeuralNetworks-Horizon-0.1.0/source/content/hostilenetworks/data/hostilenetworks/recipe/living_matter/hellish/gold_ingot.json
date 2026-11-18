@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:glowstone_dust",
+    "minecraft:iron_ingot",
+    "hostilenetworks:nether_prediction"
+  ],
+  "result": {
+    "id": "minecraft:gold_ingot",
+    "count": 6
+  }
+}

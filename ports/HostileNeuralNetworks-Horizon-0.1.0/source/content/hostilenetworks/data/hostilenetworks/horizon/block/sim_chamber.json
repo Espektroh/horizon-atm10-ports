@@ -1,0 +1,7 @@
+{
+  "template": "minecraft:furnace",
+  "properties": {
+    "hardness": 4.0,
+    "occludes": false
+  }
+}

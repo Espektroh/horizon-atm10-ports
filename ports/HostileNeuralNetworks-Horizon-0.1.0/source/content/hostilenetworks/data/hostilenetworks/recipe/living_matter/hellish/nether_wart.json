@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "hostilenetworks:nether_prediction",
+    "minecraft:red_mushroom"
+  ],
+  "result": {
+    "id": "minecraft:nether_wart",
+    "count": 4
+  }
+}
