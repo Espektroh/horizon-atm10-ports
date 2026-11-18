@@ -1,11 +1,11 @@
 Mod,mod_id,Status,Port,Tier,Classe,Licença,Link,Observação
-Mekanism,mekanism,"Seu port (instalado, falta Build)",Seu port: Mekanism 0.6.0 (+ Mekanism Tools),deep,content,permissiva,,
-Sophisticated Backpacks,sophisticatedbackpacks,"Seu port (instalado, falta Build)",Seu port: Backpacks 0.2.0 (upgrades),deep,content,ARR (só uso pessoal),,
-Mystical Agriculture,mysticalagriculture,"Seu port (instalado, falta Build)",Seu port: Mystical Agriculture 0.1.0,machines,content,permissiva,,
-Mystical Agradditions,mysticalagradditions,"Seu port (instalado, falta Build)",Seu port: Mystical Agradditions 0.1.0,logic,content,permissiva,,
-Simple Magnets,simplemagnets,"Seu port (instalado, falta Build)",Seu port: Simple Magnets 0.1.0,logic,content,ARR (só uso pessoal),,
-Torchmaster,torchmaster,"Seu port (instalado, falta Build)",Seu port: Torchmaster 0.1.0,logic,content,permissiva,,
-Mekanism: Tools,mekanismtools,"Seu port (instalado, falta Build)",Seu port: Mekanism Tools 0.6.0,data,content,permissiva,,o launcher carrega do seu jar: Modpacks > Port
+Mekanism,mekanism,Seu port: Testado no jogo,Seu port: Mekanism 0.6.1 (0.6.0 testada),deep,content,permissiva,,
+Sophisticated Backpacks,sophisticatedbackpacks,Seu port: Testado no jogo,Seu port: Backpacks 0.2.0 (upgrades de ímã/alimentação sem teste; privado),deep,content,ARR (só uso pessoal),,
+Mystical Agriculture,mysticalagriculture,Seu port: Testado no jogo,Seu port: Mystical Agriculture 0.2.0 (0.1.0 testada),machines,content,permissiva,,
+Mystical Agradditions,mysticalagradditions,Seu port: Testado no jogo,Seu port: Agradditions (no pacote do Mystical Agriculture 0.2.0),logic,content,permissiva,,
+Simple Magnets,simplemagnets,Seu port: Testado no jogo,Seu port: UtilidadesATM 0.1.0 (privado),logic,content,ARR (só uso pessoal),,
+Torchmaster,torchmaster,Seu port: Testado no jogo,Seu port: Torchmaster 0.1.0,logic,content,permissiva,,
+Mekanism: Tools,mekanismtools,Seu port: Testado no jogo,Seu port: Mekanism Tools (no pacote do Mekanism 0.6.1),data,content,permissiva,,o launcher carrega do seu jar: Modpacks > Port
 Allthemodium,allthemodium,Seu port (instalado),Seu port: minérios (allthemodium.hmod),deep,content,desconhecida,,
 Iron Furnaces,ironfurnaces,Seu port (instalado),Seu port: ironfurnaces_native 0.2.0,machines,content,permissiva,,
 PotionsMaster,potionsmaster,Seu port (instalado),Seu port: poções de visão,machines,content,desconhecida,,
@@ -50,14 +50,14 @@ Dis-Enchanting Table,disenchanting_table,Port de terceiros,AdLf0208/disenchantin
 EnderStorage,enderstorage,Port de terceiros,AdLf0208/enderstorage (playable-partial),machines,content,permissiva,https://github.com/AdLf0208/enderstorage,frequency-linked 27-slot ender chests; tank and pouch deferred
 Farmer's Delight,farmersdelight,Port de terceiros,farmersdelight-horizon (Fraskas) (released),machines,content,permissiva,https://github.com/Fraskas/farmersdelight-horizon,"all FD 1.3.4 content + cooking pot, stove, skillet, cutting board, crops, rich soil, ropes; missing rotten tomato throw, Nourishment/Comfort"
 Flux Networks,fluxnetworks,Port de terceiros,AdLf0208/fluxnetworks (early-wip),machines,content,desconhecida,https://github.com/AdLf0208/fluxnetworks,"flux plug/point/storage, one network; no GUI/multi-network"
-Functional Storage,functionalstorage,Port de terceiros,AdLf0208/functionalstorage (early-wip),machines,content,permissiva,https://github.com/AdLf0208/functionalstorage,"ten wood 1x1 drawers (2048 cap); no left-click take, no upgrades, no other sizes"
+Functional Storage,functionalstorage,Seu port: Instalado (falta Build/teste),Seu port: Functional Storage 0.1.0,machines,content,permissiva,https://github.com/AdLf0208/functionalstorage,"ten wood 1x1 drawers (2048 cap); no left-click take, no upgrades, no other sizes"
 Hostile Neural Networks,hostilenetworks,Port de terceiros,AdLf0208/hostilenetworks (playable-partial),machines,content,permissiva,https://github.com/AdLf0208/hostilenetworks,Sim Chamber -> Prediction -> Loot Fabricator loop with FE; no kill-based model training
 Industrial Foregoing,industrialforegoing,Port de terceiros,AdLf0208/industrialforegoing (early-wip),machines,content,permissiva,https://github.com/AdLf0208/industrialforegoing,Water Condensator only; no GUI
 Laser Bridges,laserbridges,Port de terceiros,AdLf0208/laserbridges (early-wip),machines,content,permissiva,https://github.com/AdLf0208/laserbridges,4 laser sources + beams; receivers missing
 LaserIO,laserio,Port de terceiros,AdLf0208/laserio (early-wip),machines,content,desconhecida,https://github.com/AdLf0208/laserio,"laser node/connector, item card extract->insert"
 Modern Dynamics,moderndynamics,Port de terceiros,AdLf0208/moderndynamics (early-wip),machines,content,copyleft,https://github.com/AdLf0208/moderndynamics,item pipe + extractor attachment; no fluid/energy pipes
 Modular Routers,modularrouters,Port de terceiros,AdLf0208/modularrouters (early-wip),machines,content,permissiva,https://github.com/AdLf0208/modularrouters,router + Mk1 puller/sender modules only
-Powah,powah,Port de terceiros,AdLf0208/powah (playable-partial),machines,content,copyleft,https://github.com/AdLf0208/powah,"starter Furnator, Energy Cell, Energy Cable; other tiers/machines missing"
+Powah,powah,Seu port: Instalado (falta Build/teste),Seu port: Powah 0.1.0,machines,content,copyleft,https://github.com/AdLf0208/powah,"starter Furnator, Energy Cell, Energy Cable; other tiers/machines missing"
 QuarryPlus,quarryplus,Port de terceiros,AdLf0208/quarryplus (early-wip),machines,content,copyleft,https://github.com/AdLf0208/quarryplus,FE quarry mining fixed 3x3 shaft; no frames/markers/enchants
 Ranged Pumps,rangedpumps,Port de terceiros,AdLf0208/rangedpumps (playable-partial),machines,content,permissiva,https://github.com/AdLf0208/rangedpumps,"pump block scanning/draining sources into tank, adjacent output"
 RFToolsBase,rftoolsbase,Port de terceiros,AdLf0208/rftoolsbase (early-wip),machines,content,permissiva,https://github.com/AdLf0208/rftoolsbase,machine infuser only
@@ -70,7 +70,7 @@ Bad Wither No Cookie Reloaded,bwncr,Port de terceiros,Bad Wither No Cookie - Rel
 Construction Sticks,constructionstick,Port de terceiros,AdLf0208/constructionstick (playable-partial),logic,content,permissiva,https://github.com/AdLf0208/constructionstick,fills plane of clicked face per tier limit; facing lost
 ElevatorMod,elevatorid,Port de terceiros,AdLf0208/elevatorid (playable-partial),logic,content,permissiva,https://github.com/AdLf0208/elevatorid,elevator jump/sneak teleport logic
 Gravitational Modulating Additional Unit,gmut,Port de terceiros,AdLf0208/gmut (early-wip),logic,integration,desconhecida,https://github.com/AdLf0208/gmut,module item + speed component; flight blocked by missing attribute API
-Iron Jetpacks,ironjetpacks,Port de terceiros,AdLf0208/ironjetpacks (early-wip),logic,content,permissiva,https://github.com/AdLf0208/ironjetpacks,iron-tier jetpack flight only
+Iron Jetpacks,ironjetpacks,Seu port: Instalado (falta Build/teste),Seu port: Iron Jetpacks 0.1.0,logic,content,permissiva,https://github.com/AdLf0208/ironjetpacks,iron-tier jetpack flight only
 Measurements,measurements,Port de terceiros,AdLf0208/measurements (playable-partial),logic,content,permissiva,https://github.com/AdLf0208/measurements,"tape measure, action-bar readout instead of in-world box"
 More Red,morered,Port de terceiros,AdLf0208/morered (playable-partial),logic,content,permissiva,https://github.com/AdLf0208/morered,logic gate plates family (10 slices)
 Redstone Pen,redstonepen,Port de terceiros,AdLf0208/redstonepen (early-wip),logic,content,permissiva,https://github.com/AdLf0208/redstonepen,single-track redstone pen wires; simplified
@@ -133,7 +133,7 @@ Iron's Spells 'n Spellbooks,irons_spellbooks,Fila,,deep,content,ARR (só uso pes
 Little Big Redstone,little_big_redstone,Fila,,deep,content,permissiva,,
 Living Things,livingthings,Fila,,deep,content,NC/ND,,
 Mahou Tsukai,mahoutsukai,Fila,,deep,content,ARR (só uso pessoal),,
-Mekanism: Generators,mekanismgenerators,Fila,,deep,content,permissiva,,
+Mekanism: Generators,mekanismgenerators,Seu port: Instalado (falta Build/teste),Seu port: Mekanism Generators 0.1.0,deep,content,permissiva,,
 Modular Force Field System,mffs,Fila,,deep,content,ARR (só uso pessoal),,
 MineColonies,minecolonies,Fila,,deep,content,copyleft,,
 Oritech,oritech,Fila,,deep,content,permissiva,,
@@ -166,7 +166,7 @@ AppliedFlux,appflux,Fila,,machines,content,desconhecida,,
 Applied Mekanistics,appmek,Fila,,machines,integration,copyleft,,
 Ars Technica,ars_technica,Fila,,machines,content,desconhecida,,
 Ars Énergistique,arseng,Fila,,machines,integration,copyleft,,
-Bibliocraft Legacy,bibliocraft,Fila,,machines,content,permissiva,,
+Bibliocraft Legacy,bibliocraft,Seu port: Compila no CI (não instalado),Seu port: Bibliocraft Legacy 0.1.0,machines,content,permissiva,,
 Cable Tiers,cabletiers,Fila,,machines,content,permissiva,,
 Chisel Reborn,chisel,Fila,,machines,content,custom,,
 Cobblegen Galore,cobblegengalore,Fila,,machines,content,desconhecida,,
@@ -192,19 +192,19 @@ Interdimensional Wireless Transmitter,interdimensionalwirelesstransmitter,Fila,,
 Iron's Gems 'n Jewelry,irons_jewelry,Fila,,machines,content,ARR (só uso pessoal),,
 Item Collectors,itemcollectors,Fila,,machines,content,ARR (só uso pessoal),,
 LogisticsNetworks,logisticsnetworks,Fila,,machines,content,desconhecida,,
-Lootr,lootr,Fila,,machines,content,permissiva,,
+Lootr,lootr,Seu port: Compila no CI (não instalado),Seu port: Lootr 0.1.0 (texturas ARR: privado),machines,content,permissiva,,
 Macaw's Furniture,mcwfurnitures,Fila,,machines,content,ARR (só uso pessoal),,
 MEGA Cells,megacells,Fila,,machines,content,copyleft,,
 Mekanism Covers,mekanismcovers,Fila,,machines,integration,copyleft,,
 Mekanistic Routers,mekanisticrouters,Fila,,machines,integration,permissiva,,
-Mekanism: MoreMachine,mekmm,Fila,,machines,content,permissiva,,
+Mekanism: MoreMachine,mekmm,Seu port: Compila no CI (não instalado),Seu port: Mekanism MoreMachine 0.1.0,machines,content,permissiva,,
 ME Requester,merequester,Fila,,machines,content,copyleft,,
 More Industrial Foregoing Addons,mifa,Fila,,machines,content,permissiva,,
 Mob Grinding Utils,mob_grinding_utils,Fila,,machines,content,desconhecida,,
 ModularBees,modularbees,Fila,,machines,content,desconhecida,,
 Nature's Compass,naturescompass,Fila,,machines,content,NC/ND,,
 Pipez,pipez,Fila,,machines,content,ARR (só uso pessoal),,
-Pocket Storage,pocketstorage,Fila,,machines,content,permissiva,,
+Pocket Storage,pocketstorage,Seu port: Compila no CI (não instalado),Seu port: Pocket Storage 0.1.0,machines,content,permissiva,,
 Polymorphic Energistics,polyeng,Fila,,machines,integration,copyleft,,
 Productive Metalworks,productivemetalworks,Fila,,machines,content,desconhecida,,
 Pylons,pylons,Fila,,machines,content,ARR (só uso pessoal),,
@@ -221,7 +221,7 @@ Sophisticated Storage,sophisticatedstorage,Fila,,machines,content,ARR (só uso p
 Soulplied Energistics,soulplied_energistics,Fila,,machines,integration,desconhecida,,
 Step Crafter,stepcrafter,Fila,,machines,content,permissiva,,
 Storage Delight,storagedelight,Fila,,machines,integration,permissiva,,
-Sushi Go Crafting,sushigocrafting,Fila,,machines,content,permissiva,,
+Sushi Go Crafting,sushigocrafting,Seu port: Compila no CI (não instalado),Seu port: Sushi Go Crafting 0.1.0,machines,content,permissiva,,
 Transfer Labels,transfer_labels,Fila,,machines,content,permissiva,,
 Trash Cans,trashcans,Fila,,machines,content,ARR (só uso pessoal),,
 Tree Tap,treetap,Fila,,machines,content,ARR (só uso pessoal),,
@@ -276,7 +276,7 @@ Simple Weather,simple_weather,Fila,,logic,content,desconhecida,,
 Simple Backups,simplebackups,Fila,,logic,server-only,permissiva,,
 Starbunclemania,starbunclemania,Fila,,logic,content,desconhecida,,
 Sussy Sniffers,sussysniffers,Fila,,logic,content,desconhecida,,
-Time In A Bottle,tiab,Fila,,logic,content,permissiva,,
+Time In A Bottle,tiab,Seu port: Instalado (falta Build/teste),Seu port: Time In A Bottle 0.1.0,logic,content,permissiva,,
 Utilitarian,utilitarian,Fila,,logic,content,ARR (só uso pessoal),,
 Wits,wits,Fila,,logic,server-only,permissiva,,
 XyCraft World,xycraft_world,Fila,,logic,content,desconhecida,,
